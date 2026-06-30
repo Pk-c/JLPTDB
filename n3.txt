@@ -219,6 +219,23 @@
 宜しい ; よろしい ; (poli) ça va / d'accord / bien
 有利 ; ゆうり ; avantageux / favorable / profitable
 随分 ; ずいぶん ; très / extrêmement / considérablement
+早産 ; そうざん ; accouchement prématuré
+初産 ; ういざん ; premier accouchement
+ピリピリ ; ピリピリ ; tendu / à cran (onomatopée)
+つきっきり ; つきっきり ; constamment auprès de qqn (pour s'en occuper)
+義理の母 ; ぎりのはは ; belle-mère (mère du conjoint)
+義母 ; ぎぼ ; belle-mère
+日頃から ; ひごろから ; habituellement / d'ordinaire
+看護師 ; かんごし ; infirmier / infirmière
+看護師長 ; かんごしちょう ; infirmier-chef / cadre de santé
+師長 ; しちょう ; chef infirmier (abrégé)
+市長 ; しちょう ; maire
+市役所 ; しやくしょ ; mairie / hôtel de ville
+まあまあ ; まあまあ ; passable / moyen / comme ci comme ça
+いきさつ ; いきさつ ; circonstances / déroulement des faits
+恐縮 ; きょうしゅく ; confusion polie (gêne ou gratitude)
+絆 ; きずな ; lien affectif / attachement
+全体的に ; ぜんたいてきに ; dans l'ensemble / globalement
 
 # --- GRAMMAIRE ---
 @g ; ～によると ; selon ~ ; 天気予報___、明日は雨らしい。 ; によると
