@@ -1,1 +1,441 @@
+# ====================================================
+#  銀剣ドリル — Donjon N3 · fichier de mots
+#  Ajoute tes mots ici puis "Enregistrer" dans le jeu.
+#  Le sens n'apparaît qu'à la correction (jamais sur la question).
+# ----------------------------------------------------
+#  Vocabulaire :  kanji ; lecture ; sens
+#  Grammaire   :  @g ; forme ; sens ; phrase avec ___ ; réponse
+#  Phrase      :  @s ; mot / mot / mot ; traduction
+#  ( # = commentaire,  lignes vides ignorées )
+# ====================================================
+
+# --- VOCABULAIRE ---
+約束 ; やくそく ; promesse / rendez-vous
+経験 ; けいけん ; expérience
+連絡 ; れんらく ; contact
+相談 ; そうだん ; demander conseil
+準備 ; じゅんび ; préparation
+習慣 ; しゅうかん ; habitude
+文化 ; ぶんか ; culture
+祖父 ; そふ ; grand-père
+景色 ; けしき ; paysage
+我慢 ; がまん ; se retenir
+迷惑 ; めいわく ; dérangement
+締切 ; しめきり ; date limite
+担当 ; たんとう ; être en charge
+許可 ; きょか ; permission
+注文 ; ちゅうもん ; commande
+故障 ; こしょう ; panne
+就職 ; しゅうしょく ; trouver un emploi
+退屈 ; たいくつ ; ennui
+複雑 ; ふくざつ ; compliqué
+正直 ; しょうじき ; honnête
+真剣 ; しんけん ; sérieux
+普段 ; ふだん ; d'habitude
+絶対 ; ぜったい ; absolument
+夢中 ; むちゅう ; passionné
+怪我 ; けが ; blessure
+冗談 ; じょうだん ; blague
+態度 ; たいど ; attitude
+明かり ; あかり ; lumière / clarté / lueur
+明ける ; あける ; se lever (jour) / faire jour
+明らか ; あきらか ; clair / évident
+悪魔 ; あくま ; démon / diable / Satan
+暗記 ; あんき ; mémorisation / apprentissage par cœur
+新た ; あらた ; nouveau / frais / inédit
+有らゆる ; あらゆる ; tout / chaque / tous les
+集まり ; あつまり ; rassemblement / réunion / collection
+部分 ; ぶぶん ; partie / section / portion
+分 ; ぶん ; part / portion / segment
+文明 ; ぶんめい ; civilisation / culture
+分析 ; ぶんせき ; analyse
+分野 ; ぶんや ; domaine / champ / branche
+父親 ; ちちおや ; père
+地平線 ; ちへいせん ; horizon (terrestre)
+地位 ; ちい ; position (sociale) / statut / rang
+長期 ; ちょうき ; long terme
+中 ; ちゅう ; pendant / au milieu / moyen
+中学 ; ちゅうがく ; collège
+昼食 ; ちゅうしょく ; déjeuner / repas de midi
+大部分 ; だいぶぶん ; la plupart / la majeure partie
+駄目 ; だめ ; pas bon / inutile / impossible
+男子 ; だんし ; garçon / jeune homme
+出会い ; であい ; rencontre
+出会う ; であう ; rencontrer (par hasard) / tomber sur
+読書 ; どくしょ ; lecture
+努力 ; どりょく ; effort / labeur
+同一 ; どういつ ; identique / le même / égal
+円 ; えん ; yen / cercle
+不利 ; ふり ; désavantage / handicap / position défavorable
+不足 ; ふそく ; insuffisance / manque / pénurie
+再び ; ふたたび ; de nouveau / encore une fois
+外交 ; がいこう ; diplomatie
+外出 ; がいしゅつ ; sortie / fait de sortir
+学期 ; がっき ; trimestre / semestre (scolaire)
+学 ; がく ; étude / savoir / -logie
+学問 ; がくもん ; savoir / étude / érudition
+学者 ; がくしゃ ; érudit / savant / chercheur
+学習 ; がくしゅう ; apprentissage / étude
+議長 ; ぎちょう ; président (d'assemblée) / modérateur
+議会 ; ぎかい ; parlement / assemblée / diète
+語学 ; ごがく ; étude des langues / linguistique
+激しい ; はげしい ; violent / intense / extrême
+母親 ; ははおや ; mère
+博物館 ; はくぶつかん ; musée
+販売 ; はんばい ; vente / commercialisation
+発明 ; はつめい ; invention
+外す ; はずす ; enlever / retirer / manquer (rater)
+品 ; ひん ; élégance / article (objet)
+一言 ; ひとこと ; un mot / quelques mots / brève remarque
+一人一人 ; ひとりひとり ; un par un / chacun
+本物 ; ほんもの ; article authentique / le vrai / l'original
+本人 ; ほんにん ; la personne concernée / l'intéressé(e) / soi-même
+一致 ; いっち ; accord / concordance / coïncidence
+一時 ; いちじ ; une heure
+意外 ; いがい ; inattendu / surprenant
+一家 ; いっか ; une famille / un foyer / toute la famille
+今に ; いまに ; bientôt / d'ici peu
+今にも ; いまにも ; à tout moment / sur le point de
+一般 ; いっぱん ; général / ordinaire / commun / moyen
+一方 ; いっぽう ; d'un côté / une direction / d'autre part
+一生 ; いっしょう ; toute une vie / la vie entière / une génération
+一種 ; いっしゅ ; une espèce / une sorte / une variété
+一瞬 ; いっしゅん ; un instant / un moment
+一層 ; いっそう ; encore plus / d'autant plus / une seule couche
+一体 ; いったい ; (mais) enfin / (pourquoi) diable
+所謂 ; いわゆる ; ce qu'on appelle / le soi-disant / pour ainsi dire
+邪魔 ; じゃま ; gêne / obstacle / dérangement
+化学 ; かがく ; chimie
+会 ; かい ; réunion / assemblée / association / club
+会員 ; かいいん ; membre
+海外 ; かいがい ; étranger / outre-mer / à l'étranger
+会合 ; かいごう ; réunion / rassemblement / assemblée
+会計 ; かいけい ; comptabilité / addition (note) / trésorier
+開始 ; かいし ; début / commencement / lancement
+科目 ; かもく ; matière (scolaire) / cursus / cours
+権利 ; けんり ; droit / privilège
+基本 ; きほん ; base / fondement / fondamentaux
+記事 ; きじ ; article / reportage / compte rendu
+気味 ; きみ ; sensation / impression / tendance
+記念 ; きねん ; commémoration / célébration / souvenir
+気に入る ; きにいる ; aimer / apprécier / se prendre d'affection pour
+記入 ; きにゅう ; saisie / remplissage (formulaire)
+記憶 ; きおく ; mémoire / souvenir
+記者 ; きしゃ ; reporter / journaliste
+期待 ; きたい ; attente / espérance / anticipation
+国家 ; こっか ; État / pays / nation
+国会 ; こっかい ; Diète (parlement japonais) / assemblée législative
+国境 ; こっきょう ; frontière (nationale)
+国語 ; こくご ; langue nationale
+国民 ; こくみん ; peuple (d'un pays) / nation / citoyen
+今後 ; こんご ; désormais / à l'avenir
+今回 ; こんかい ; cette fois / actuellement
+今日 ; こんにち ; aujourd'hui / de nos jours
+転ぶ ; ころぶ ; tomber / trébucher
+高速 ; こうそく ; haute vitesse / rapide / express
+訓練 ; くんれん ; entraînement / exercice / discipline
+教科書 ; きょうかしょ ; manuel scolaire
+協力 ; きょうりょく ; coopération / collaboration
+強力 ; きょうりょく ; puissant / fort / robuste
+明ける ; あける ; se lever (jour) / faire jour
+暗記 ; あんき ; mémorisation / apprentissage par cœur
+分析 ; ぶんせき ; analyse
+出会う ; であう ; rencontrer (par hasard) / tomber sur
+読書 ; どくしょ ; lecture
+努力 ; どりょく ; effort / labeur
+不足 ; ふそく ; insuffisance / manque / pénurie
+外出 ; がいしゅつ ; sortie / fait de sortir
+学問 ; がくもん ; savoir / étude / érudition
+学習 ; がくしゅう ; apprentissage / étude
+販売 ; はんばい ; vente / commercialisation
+発明 ; はつめい ; invention
+外す ; はずす ; enlever / retirer / manquer (rater)
+一言 ; ひとこと ; un mot / quelques mots / brève remarque
+一致 ; いっち ; accord / concordance / coïncidence
+邪魔 ; じゃま ; gêne / obstacle / dérangement
+会合 ; かいごう ; réunion / rassemblement / assemblée
+開始 ; かいし ; début / commencement / lancement
+記念 ; きねん ; commémoration / célébration / souvenir
+気に入る ; きにいる ; aimer / apprécier / se prendre d'affection pour
+記入 ; きにゅう ; saisie / remplissage (formulaire)
+記憶 ; きおく ; mémoire / souvenir
+期待 ; きたい ; attente / espérance / anticipation
+転ぶ ; ころぶ ; tomber / trébucher
+訓練 ; くんれん ; entraînement / exercice / discipline
+協力 ; きょうりょく ; coopération / collaboration
+吸収 ; きゅうしゅう ; absorption / aspiration
+学ぶ ; まなぶ ; étudier / apprendre (en profondeur)
+満足 ; まんぞく ; satisfaction / contentement / suffisant
+味方 ; みかた ; allié / partisan / soutien
+入場 ; にゅうじょう ; entrée / admission
+収める ; おさめる ; fournir / verser / offrir / payer
+連続 ; れんぞく ; continuation / succession / série
+利益 ; りえき ; profit / bénéfice / gain
+留学 ; りゅうがく ; études à l'étranger
+左右 ; さゆう ; gauche et droite
+成長 ; せいちょう ; croissance / développement
+刺激 ; しげき ; stimulus / incitation / excitation / provocation
+進学 ; しんがく ; poursuite d'études (entrée dans un établissement supérieur)
+使用 ; しよう ; usage / emploi / utilisation
+証明 ; しょうめい ; preuve / vérification / certification
+招待 ; しょうたい ; invitation
+集中 ; しゅうちゅう ; concentration / centralisation
+収穫 ; しゅうかく ; récolte / moisson / fruits (du travail)
+徹夜 ; てつや ; nuit blanche (veiller toute la nuit)
+取れる ; とれる ; se détacher / s'enlever / pouvoir être obtenu
+取り上げる ; とりあげる ; ramasser / saisir / prendre
+通学 ; つうがく ; trajet vers l'école / aller à l'école
+受け取る ; うけとる ; recevoir / comprendre (interpréter)
+運転 ; うんてん ; conduite / fonctionnement
+売れる ; うれる ; bien se vendre
+分ける ; わける ; diviser / séparer / partager
+悪口 ; わるぐち ; médisance / insulte / dire du mal
+輸入 ; ゆにゅう ; importation
+輸出 ; ゆしゅつ ; exportation
+明らか ; あきらか ; clair / évident
+新た ; あらた ; nouveau / frais / inédit
+駄目 ; だめ ; pas bon / inutile / impossible
+同一 ; どういつ ; identique / le même / égal
+不利 ; ふり ; désavantage / handicap / position défavorable
+不足 ; ふそく ; insuffisance / manque / pénurie
+激しい ; はげしい ; violent / intense / extrême
+発明 ; はつめい ; invention
+意外 ; いがい ; inattendu / surprenant
+一般 ; いっぱん ; général / ordinaire / commun / moyen
+邪魔 ; じゃま ; gêne / obstacle / dérangement
+海外 ; かいがい ; étranger / outre-mer / à l'étranger
+高速 ; こうそく ; haute vitesse / rapide / express
+強力 ; きょうりょく ; puissant / fort / robuste
+急激 ; きゅうげき ; soudain / brusque / radical
+急速 ; きゅうそく ; rapide (ex. progrès)
+真面目 ; まじめ ; sérieux / consciencieux
+真っ赤 ; まっか ; rouge vif / écarlate / cramoisi (visage)
+満足 ; まんぞく ; satisfaction / contentement / suffisant
+明確 ; めいかく ; clair / précis / net / défini
+熱心 ; ねっしん ; enthousiaste / ardent / assidu
+利口 ; りこう ; malin / intelligent / astucieux
+新鮮 ; しんせん ; frais
+上手い ; うまい ; habile / doué / délicieux
+宜しい ; よろしい ; (poli) ça va / d'accord / bien
+有利 ; ゆうり ; avantageux / favorable / profitable
+随分 ; ずいぶん ; très / extrêmement / considérablement
+
+# --- GRAMMAIRE ---
+@g ; ～によると ; selon ~ ; 天気予報___、明日は雨らしい。 ; によると
+@g ; ～ばかり ; ne faire que ~ ; 弟はゲーム___している。 ; ばかり
+@g ; ～わけにはいかない ; ne pas pouvoir se permettre ; 明日は試験だから、休む___。 ; わけにはいかない
+@g ; ～ようにする ; faire en sorte de ~ ; 毎日運動する___しています。 ; ようにする
+@g ; ～たとたん ; à l'instant où ~ ; ドアを開けた___、猫が逃げた。 ; とたん
+@g ; ～せいで ; à cause de ~ ; 雨の___、試合が中止になった。 ; せいで
+@g ; ～おかげで ; grâce à ~ ; 先生の___、合格できた。 ; おかげで
+@g ; ～に違いない ; il ne fait aucun doute ; あの人は犯人___。 ; に違いない
+@g ; ～ない内に ; avant que, sans que ; 暗くなら___、家に帰りましょう。 ; ない内に
+@g ; 余り～に ; tellement... que ; ___の忙しさに、昼ご飯を食べる暇もなかった。 ; 余り
+@g ; 中々～ない ; pas vraiment, difficilement, pas du tout ; この漢字は___覚えられない。 ; 中々
+@g ; ～事だ ; devrait, il faut ; 上手になりたいなら、毎日練習する___。 ; 事だ
+@g ; (Nom)+型 ; en forme de, type, genre, taille ; これは最新___のスマートフォンです。 ; 型
+@g ; ～てご覧 ; (veuillez) essayer de, regarder ; あの看板を見___。 ; てご覧
+@g ; ～程 ; au point de, tellement que, environ ; 涙が出る___嬉しかった。 ; 程
+@g ; ～ば～程 ; plus... plus ; 食べれば食べる___、美味しく感じる。 ; 程
+@g ; ～程～ない ; pas aussi... que, pas au point de ; 数学は英語___難しくない。 ; 程
+@g ; ～ばかりに ; juste parce que, rien qu'en ; 寝坊した___、電車に乗り遅れた。 ; ばかりに
+@g ; ～ばかりだ ; ne cesse de, de plus en plus ; 物価は上がる___。 ; ばかりだ
+@g ; ～事はない ; pas besoin de, ne se produit jamais ; そんなに心配する___。 ; 事はない
+@g ; ～と言っても ; bien que je dise que ; 兄だ___、二歳しか違わない。 ; と言っても
+@g ; ～に合わせて ; adapté à, qui va avec, en fonction de ; 相手のレベル___、説明を変える。 ; に合わせて
+@g ; ～の姿 ; ayant l'air de, vêtu de, apparence, silhouette ; 父の働く___を見て感動した。 ; 姿
+@g ; ～に比べて ; comparé à, par rapport à ; 都会___、田舎は静かだ。 ; に比べて
+@g ; どんなに～ても ; peu importe à quel point ; ___高くても、これを買いたい。 ; どんなに
+@g ; ～かは～によって違う ; dépend de ; 何が大切かは、人___違う。 ; によって
+@g ; ～訳だ ; c'est pour ça, pas étonnant, donc ; 三年も住んでいたのだから、日本語が上手な___。 ; 訳だ
+@g ; ～訳ではない ; pas nécessairement, ce n'est pas que ; 彼のことが嫌いな___。ただ忙しいだけだ。 ; 訳ではない
+@g ; ～だって ; j'ai entendu dire que, parce que ; 田中さんは来月引っ越すん___。 ; だって
+@g ; ～と関係がある ; concernant, impliqué dans, en lien avec ; この研究は医学と深い___。 ; 関係がある
+@g ; ～に関して ; lié à, concernant, à propos de ; 環境問題___、議論しました。 ; に関して
+@g ; ～に対して ; envers, tandis que, vis-à-vis de ; 学生の質問___、先生は丁寧に答えた。 ; に対して
+@g ; ～くらい ; à tel point que, à peu près au point de ; 顔も見たくない___怒っている。 ; くらい
+@g ; ～は～くらいです ; à peu près le seul ; 私が話せる外国語___、英語くらいです。 ; は
+@g ; ～にしては ; étant donné que, pour ; 日本に一年住んでいた___、日本語が下手だ。 ; にしては
+@g ; と言うより ; plutôt que de dire que, plus... que ; 彼は優しい___、ただ気が弱いだけだ。 ; と言うより
+@g ; はもちろん ; non seulement... mais aussi ; 彼は漢字___、ひらがなも書ける。 ; はもちろん
+@g ; ～て初めて ; ce n'est qu'après... que ; 病気になっ___、健康の大切さが分かった。 ; て初めて
+@g ; さえ ; même ; そんなことは子供___知っている。 ; さえ
+@g ; さえ～ば ; si seulement, pourvu que ; お金___あれば、何でも買える。 ; さえ
+@g ; ～たものだ ; habitude passée ; 子供の頃、よくこの川で泳いだ___。 ; ものだ
+@g ; 即ち ; en d'autres termes, c'est-à-dire ; 一年の半分、___六ヶ月かかった。 ; 即ち
+@g ; 却って ; au contraire ; 薬を飲んだら、___具合が悪くなった。 ; 却って
+@g ; まるで～様だ ; c'est comme si ; この人形は___生きている様だ。 ; まるで
+@g ; 様な気がする ; avoir le sentiment que ; どこかで彼に会った___。 ; ような気がする
+@g ; とても～ない ; ne peut pas du tout, impossible de ; こんな難しい問題は___解けない。 ; とても
+@g ; 別に～ない ; pas vraiment ; ___欲しいものはない。 ; 別に
+@g ; ばかりでなく ; non seulement... mais aussi ; 彼は英語___、フランス語も話せる。 ; ばかりでなく
+@g ; ではなくて ; pas A mais B ; これは私の___、妹のかばんです。 ; ではなくて
+@g ; だけでなくて～も ; non seulement... mais aussi ; この店は値段が安い___、味も良い。 ; だけでなくて
+@g ; は言うまでもない ; il va sans dire que ; 努力が大切なこと___。 ; は言うまでもない
+@g ; 決して〜ない ; jamais, en aucun cas ; この約束は___忘れません。 ; 決して
+@g ; う・よう+としない ; ne pas vouloir, ne pas faire d'effort ; 彼は私の話を聞こ___。 ; うとしない
+@g ; ことに ; à mon grand..., particulièrement ; 残念な___、試合は中止になった。 ; ことに
+@g ; 事か ; je ne sais combien, Dieu seul sait ; どんなに心配した___。 ; 事か
+@g ; かと言うと ; la raison pour laquelle ; なぜ遅れた___、電車が止まったからだ。 ; かと言うと
+@g ; だらけ ; couvert de, plein de ; 子供の服は泥___だった。 ; だらけ
+@g ; 尤も ; cependant, bien que ; 彼は親切だ。___、少しおしゃべりだが。 ; 尤も
+@g ; 再び ; encore, à nouveau ; 彼は___故郷に戻ってきた。 ; 再び
+@g ; とちがって ; comme, contrairement à ; 兄___、私は運動が苦手だ。 ; とちがって
+@g ; と並んで ; comparable à, au même niveau que ; 富士山___、桜は日本の象徴だ。 ; と並んで
+@g ; 当たり ; par ~, chaque ~, pièce ; 一人___千円ずつ払った。 ; 当たり
+@g ; に当たる ; correspond à, équivaut à ; 一ドルは約百五十円___。 ; に当たる
+@g ; に限る ; rien ne vaut, être réservé à ; 夏はやっぱり冷たいビール___。 ; に限る
+@g ; とは限らない ; pas nécessairement ; 高い物がいい物だ___。 ; とは限らない
+@g ; 滅多に〜ない ; presque jamais, rarement ; 彼は___学校を休まない。 ; 滅多に
+@g ; 割に ; bien que, comparativement ; 彼は年の___若く見える。 ; 割に
+@g ; う・よう+とする ; essayer de, être sur le point de ; ドアを開け___として、鍵がないことに気づいた。 ; ようと
+@g ; う・よう+としたが ; était sur le point de... quand ; 出かけ___、雨が降ってきた。 ; ようとしたが
+@g ; 言うまでもない ; il va sans dire que ; 彼が犯人であることは___。 ; 言うまでもない
+@g ; そうもない ; très peu probable que ; 約束の時間に間に合い___。 ; そうもない
+@g ; 序でに ; tant que vous y êtes, en profiter pour ; 散歩する___、パンを買ってきて。 ; 序でに
+@g ; と共に ; à mesure que, avec, en même temps ; 年を取る___、体力が衰える。 ; と共に
+@g ; に連れて ; au fur et à mesure que ; 山を登る___、寒くなってきた。 ; に連れて
+@g ; 直ちに ; immédiatement, dès que ; 地震が起きたら___避難してください。 ; 直ちに
+@g ; た途端に ; juste au moment où, à l'instant où ; ドアを開け___、猫が飛び出した。 ; た途端に
+@g ; 置きに ; à intervalles de, tous les ; この薬は四時間___飲んでください。 ; 置きに
+@g ; 度に ; à chaque fois que ; この写真を見る___、母を思い出す。 ; 度に
+@g ; 或いは ; ou, ou peut-être ; 電話___メールで連絡します。 ; 或いは
+@g ; ながらも ; bien que, même si ; 狭い___、自分の部屋が持てて嬉しい。 ; ながらも
+@g ; に於いて ; à, dans, concernant ; 会議は大ホール___行われた。 ; に於いて
+@g ; 一方で ; tandis que, d'un autre côté ; 都市の人口は増える___、地方は減っている。 ; 一方で
+@g ; 遂に ; enfin ; 十年かけて、___小説を書き上げた。 ; 遂に
+@g ; 必ずしも ; pas toujours, pas nécessairement ; 高い物が___良いとは限らない。 ; 必ずしも
+@g ; 連用形 ; conjonctif formel, forme connective formelle ; 毎朝六時に___（起きる）、顔を洗う。 ; 起き
+@g ; 向き ; adapté à, orienté vers ; この本は初心者___だ。 ; 向き
+@g ; 向け ; destiné à, conçu pour ; これは子供___の番組です。 ; 向け
+@g ; 切る ; faire jusqu'au bout, finir de ; 彼は長い小説を一日で読み___た。 ; 切っ
+@g ; 切れない ; être incapable de terminer ; 料理が多すぎて食べ___。 ; 切れない
+@g ; きり ; seulement, depuis ; 彼とは一度会った___だ。 ; きり
+@g ; 掛け ; à moitié, pas encore terminé ; テーブルに飲み___のコーヒーがある。 ; 掛け
+@g ; に掛けて ; pendant (une période), de ~ à ~ ; 春から夏___、花が咲く。 ; に掛けて
+@g ; 立て ; fraîchement ~, vient juste de ~ ; 焼き___のパンはおいしい。 ; 立て
+@g ; 込む ; entrer dans, mettre dans ; 彼は部屋に駆け___できた。 ; 込ん
+@g ; 振りをする ; faire semblant ; 彼は聞こえない___をした。 ; 振り
+@g ; 次第 ; dès que ; 詳しいことが分かり___、連絡します。 ; 次第
+@g ; 通り ; comme, exactement ; 私が言った___にやってください。 ; 通り
+@g ; がたい ; difficile à, dur à ; その話は信じ___。 ; がたい
+@g ; 前者は～後者は ; le premier ~ le second ; 兄と弟がいる。___は医者で、後者は教師だ。 ; 前者
+@g ; つい ; par accident, inconsciemment ; 面白くて___笑ってしまった。 ; つい
+@g ; 癖に ; alors que, et pourtant ; 知っている___、教えてくれない。 ; 癖に
+@g ; がち ; être enclin à, avoir tendance à ; 彼は最近休み___だ。 ; がち
+@g ; もしも～なら ; si jamais, en supposant que ; ___宝くじが当たったら、家を買う。 ; もしも
+@g ; っぱなし ; laisser tel quel ; 電気をつけ___で寝てしまった。 ; っぱなし
+@g ; わざわざ ; exprès, se donner la peine de ; ___来てくれてありがとう。 ; わざわざ
+@g ; 一体 ; mais..., pourquoi diable, bon sang ; これは___どういう意味ですか。 ; 一体
+@g ; どころか ; loin de, tout sauf, encore moins ; 漢字___、ひらがなも読めない。 ; どころか
+@g ; は～となっている ; se trouve être, a été établi ; 規則では、ここは禁煙___。 ; となっている
+@g ; 左右する ; influencer, impacter, déterminer ; 天気が試合の結果を___。 ; 左右する
+
+# --- PHRASES (ordre des mots) ---
+@s ; 私は / 毎日 / 日本語を / 勉強しています ; J'étudie le japonais tous les jours.
+@s ; 友達と / 映画を / 見に / 行きました ; Je suis allé voir un film avec un ami.
+@s ; この店の / ラーメンは / 安くて / おいしい ; Les ramen de ce resto sont bons et pas chers.
+@s ; 明日 / 雨が / 降ったら / 家に / います ; S'il pleut demain, je resterai à la maison.
+@s ; 暗くならない / 内に / 家に / 帰りましょう ; Rentrons à la maison avant qu'il fasse nuit.
+@s ; 余りの / 忙しさに / 昼ご飯を / 食べられなかった ; J'étais tellement occupé que je n'ai pas pu déjeuner.
+@s ; この漢字は / 中々 / 覚え / られない ; Ce kanji, je n'arrive pas vraiment à le mémoriser.
+@s ; 上手になりたいなら / 毎日 / 練習する / 事だ ; Si tu veux devenir bon, il faut t'entraîner tous les jours.
+@s ; これは / 最新型の / スマートフォン / です ; C'est un smartphone dernier modèle.
+@s ; あの / 看板を / 見て / ご覧 ; Regarde donc ce panneau.
+@s ; 涙が出る / 程 / 嬉しかった / です ; J'étais content au point d'en pleurer.
+@s ; 食べれば / 食べる程 / 美味しく / 感じる ; Plus j'en mange, plus je trouve ça bon.
+@s ; 数学は / 英語程 / 難しく / ない ; Les maths ne sont pas aussi difficiles que l'anglais.
+@s ; 寝坊した / ばかりに / 電車に / 乗り遅れた ; Juste parce que j'ai fait la grasse matinée, j'ai raté le train.
+@s ; 物価は / 上がる / ばかりだ ; Les prix ne cessent de monter.
+@s ; そんなに / 心配する / 事はない ; Il n'y a pas besoin de t'inquiéter autant.
+@s ; 兄だ / と言っても / 二歳しか / 違わない ; Bien qu'il soit mon frère aîné, il n'a que deux ans de plus que moi.
+@s ; 相手のレベルに / 合わせて / 説明を / 変える ; On adapte l'explication au niveau de l'interlocuteur.
+@s ; 父の / 働く姿を / 見て / 感動した ; En voyant mon père au travail, j'ai été ému.
+@s ; 都会に / 比べて / 田舎は / 静かだ ; Comparée à la ville, la campagne est calme.
+@s ; どんなに / 高くても / これを / 買いたい ; Peu importe le prix, je veux l'acheter.
+@s ; 何が大切か / は / 人によって / 違う ; Ce qui est important dépend de chaque personne.
+@s ; 三年も住んでいたのだから / 日本語が / 上手な / 訳だ ; Il a vécu trois ans, pas étonnant qu'il parle si bien japonais.
+@s ; 嫌いな / 訳ではない / が / 食べたくない ; Ce n'est pas que je déteste, mais je ne veux pas en manger.
+@s ; 田中さんは / 来月 / 引っ越すんだって ; J'ai entendu dire que Tanaka déménage le mois prochain.
+@s ; この研究は / 医学と / 深い / 関係がある ; Cette recherche est en lien étroit avec la médecine.
+@s ; 環境問題に / 関して / 議論 / しました ; Nous avons débattu au sujet des problèmes environnementaux.
+@s ; 学生の質問に / 対して / 先生は / 丁寧に答えた ; Face aux questions des étudiants, le professeur a répondu poliment.
+@s ; 顔も / 見たくない / くらい / 怒っている ; Je suis en colère au point de ne plus vouloir voir son visage.
+@s ; 私が話せる外国語 / は / 英語くらいです ; La seule langue étrangère que je parle, c'est à peu près l'anglais.
+@s ; 日本に / 一年住んでいたにしては / 日本語が / 下手だ ; Pour quelqu'un qui a vécu un an au Japon, il est mauvais en japonais.
+@s ; 彼は / 優しいと言うより / 気が弱い / だけだ ; Plutôt que gentil, il est juste faible de caractère.
+@s ; 彼は / 英語はもちろん / 中国語も / 話せる ; Il parle non seulement anglais mais aussi chinois.
+@s ; 親になって / 初めて / 親の気持ちが / 分かった ; Ce n'est qu'en devenant parent que j'ai compris les sentiments de mes parents.
+@s ; そんなことは / 子供さえ / 知って / いる ; Même un enfant sait ça.
+@s ; あなたさえ / 良ければ / 私は / 構いません ; Si seulement ça te convient, ça ne me dérange pas.
+@s ; 学生の頃 / よく / カラオケに / 行ったものだ ; Du temps où j'étais étudiant, j'allais souvent au karaoké.
+@s ; 一年の / 半分 / 即ち / 六ヶ月 ; La moitié d'une année, c'est-à-dire six mois.
+@s ; 手伝ったら / 却って / 邪魔に / なった ; En aidant, j'ai au contraire gêné.
+@s ; 彼の部屋は / まるで / ゴミ捨て場の / ようだ ; Sa chambre, c'est comme une décharge.
+@s ; 誰かに / 見られている / ような / 気がする ; J'ai l'impression d'être observé.
+@s ; そんな大金は / とても / 払え / ない ; Une telle somme, je ne peux absolument pas la payer.
+@s ; 別に / 行きたく / ない / です ; Je n'ai pas vraiment envie d'y aller.
+@s ; 子供 / ばかりでなく / 大人も / 楽しめる ; Non seulement les enfants mais aussi les adultes peuvent s'amuser.
+@s ; 私が / 行くのではなくて / 弟が / 行く ; Ce n'est pas moi qui y vais mais mon petit frère.
+@s ; 彼女は / 美人なだけでなくて / 頭も / 良い ; Non seulement elle est belle, mais elle est aussi intelligente.
+@s ; 健康が / 大切なこと / は言うまでもない ; Il va sans dire que la santé est importante.
+@s ; 君のことは / 決して / 忘れ / ない ; Je ne t'oublierai jamais.
+@s ; 弟は / 野菜を / 食べようと / しない ; Mon petit frère ne veut pas manger de légumes.
+@s ; 驚いた / ことに / 彼は / 合格した ; À ma grande surprise, il a réussi.
+@s ; 何度 / 注意した / 事か ; Combien de fois je l'ai prévenu (Dieu seul sait) !
+@s ; なぜ / 遅れたかと言うと / 電車が / 止まったからだ ; Si vous demandez pourquoi je suis en retard, c'est que le train s'est arrêté.
+@s ; 彼の作文は / 間違い / だらけ / だった ; Sa rédaction était pleine de fautes.
+@s ; 彼は親切だ / 尤も / 少し / おしゃべりだが ; Il est gentil — cela dit, un peu bavard.
+@s ; 彼らは / 十年後に / 再び / 出会った ; Ils se sont retrouvés dix ans plus tard.
+@s ; 去年と / 違って / 今年は / 雪が多い ; Contrairement à l'année dernière, il neige beaucoup cette année.
+@s ; 彼は / 兄と並んで / クラスで / 一番背が高い ; Avec son frère, il est le plus grand de la classe.
+@s ; 一日 / 当たり / 八時間 / 働く ; Travailler huit heures par jour.
+@s ; 一ドルは / 約百五十円 / に当たる ; Un dollar équivaut à environ 150 yens.
+@s ; 疲れた時は / 寝る / に限る ; Quand on est fatigué, rien ne vaut le sommeil.
+@s ; 金持ちが / 幸せだ / とは限らない ; Les riches ne sont pas nécessairement heureux.
+@s ; こんな機会は / 滅多に / ない ; Une telle occasion est rare.
+@s ; この店は / 値段の割に / 量が / 多い ; Pour le prix, ce restaurant sert de grandes portions.
+@s ; 赤ちゃんが / 立ち上がろうと / して / いる ; Le bébé essaie de se mettre debout.
+@s ; 寝ようとしたが / 電話が / 鳴って / 眠れなかった ; J'allais dormir quand le téléphone a sonné et je n'ai pas pu.
+@s ; 言うまでもなく / 健康は / 何より / 大切だ ; Il va sans dire que la santé est primordiale.
+@s ; 今日中に / 終わり / そうもない ; Ça ne semble pas pouvoir finir aujourd'hui.
+@s ; 銀行に行く / 序でに / 郵便局にも / 寄った ; En allant à la banque, j'en ai profité pour passer à la poste.
+@s ; 家族と共に / 新年を / 迎えた ; J'ai accueilli le nouvel an avec ma famille.
+@s ; 時間が経つ / に連れて / 痛みが / 和らいだ ; Au fur et à mesure que le temps passait, la douleur s'apaisait.
+@s ; 知らせを聞いて / 直ちに / 家を / 出た ; En entendant la nouvelle, je suis immédiatement parti.
+@s ; 立ち上がった / 途端に / めまいが / した ; À l'instant où je me suis levé, j'ai eu un vertige.
+@s ; バスは / 十分置きに / 来る ; Le bus passe toutes les dix minutes.
+@s ; 彼に会う / 度に / 元気を / もらう ; À chaque fois que je le vois, il me redonne de l'énergie.
+@s ; 土曜日 / 或いは / 日曜日に / 会おう ; Voyons-nous samedi ou peut-être dimanche.
+@s ; 残念ながらも / 彼の / 提案を / 断った ; Bien qu'à regret, j'ai refusé sa proposition.
+@s ; 試験は / 大講堂 / に於いて / 行われる ; L'examen aura lieu dans le grand amphithéâtre.
+@s ; 彼は厳しい / 一方で / とても / 優しい ; Il est sévère, mais d'un autre côté très gentil.
+@s ; 長い戦いの末 / 遂に / 勝利を / 手にした ; Au bout d'un long combat, ils ont enfin obtenu la victoire.
+@s ; 努力が / 必ずしも / 成功に / つながるとは限らない ; L'effort ne mène pas toujours au succès.
+@s ; 朝起き / 顔を洗い / 学校へ行く ; Je me lève, me lave le visage et vais à l'école.
+@s ; この部屋は / 南向きで / 日当たりが / いい ; Cette pièce est orientée au sud et bien ensoleillée.
+@s ; この製品は / 海外向けに / 作られて / いる ; Ce produit est conçu pour l'étranger.
+@s ; 最後まで / あきらめずに / やり切った ; J'ai tenu bon jusqu'au bout sans abandonner.
+@s ; この本は / 一日では / 読み切れない ; Ce livre, on ne peut pas le finir en un jour.
+@s ; 母と / 二人きりで / 話した ; J'ai parlé seul à seul avec ma mère.
+@s ; 食べ掛けの / パンが / 置いて / ある ; Il y a un pain entamé posé là.
+@s ; 金曜から / 日曜にかけて / 雨が / 続く ; De vendredi à dimanche, la pluie va continuer.
+@s ; 出来立ての / 料理を / 食べる ; Manger un plat fraîchement préparé.
+@s ; 満員電車に / 何とか / 乗り込んだ ; J'ai réussi à monter de force dans le train bondé.
+@s ; 知っているのに / 知らない / 振りをした ; Alors qu'il savait, il a fait semblant de ne pas savoir.
+@s ; 準備が / でき次第 / 出発します ; Dès que les préparatifs seront prêts, nous partirons.
+@s ; 先生の / 言う通りに / 書いた ; J'ai écrit exactement comme le professeur l'a dit.
+@s ; 彼の行動は / 理解し / がたい ; Son comportement est difficile à comprendre.
+@s ; 前者は / 安いが / 後者は / 高い ; Le premier est bon marché, le second est cher.
+@s ; 疲れていて / つい / 寝過ごして / しまった ; J'étais fatigué et j'ai fini par dormir trop longtemps sans m'en rendre compte.
+@s ; 子供の / 癖に / 生意気な / ことを言う ; Bien que ce ne soit qu'un enfant, il dit des choses effrontées.
+@s ; 冬は / 風邪を / 引きがちだ ; En hiver, on a tendance à attraper froid.
+@s ; もしも / 時間を / 戻せるなら / やり直したい ; Si je pouvais remonter le temps, je recommencerais.
+@s ; 窓を / 開けっぱなしに / して / 出かけた ; J'ai laissé la fenêtre ouverte et je suis sorti.
+@s ; わざわざ / 遠くから / 来て / くれた ; Il s'est donné la peine de venir de loin.
+@s ; 一体 / 誰が / こんなことを / したのか ; Mais qui diable a bien pu faire ça ?
+@s ; 感謝される / どころか / 文句を / 言われた ; Loin d'être remercié, on m'a fait des reproches.
+@s ; 入場料は / 千円 / となっている ; Le prix d'entrée se trouve être de 1000 yens.
+@s ; 親の態度が / 子供の性格を / 左右する ; L'attitude des parents influence le caractère de l'enfant.
+
 
