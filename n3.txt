@@ -347,6 +347,12 @@
 @g ; どころか ; loin de, tout sauf, encore moins ; 漢字___、ひらがなも読めない。 ; どころか
 @g ; は～となっている ; se trouve être, a été établi ; 規則では、ここは禁煙___。 ; となっている
 @g ; 左右する ; influencer, impacter, déterminer ; 天気が試合の結果を___。 ; 左右する
+@g ; ～得る（うる／える） ; pouvoir, il peut arriver que ~ (possibilité) ; そんな事故は誰にでも起こり___。 ; 得る
+@g ; ～得ない（えない） ; il est impossible que ~, ne peut pas arriver ; そんな事は決して起こり___。 ; 得ない
+@g ; あり得る ; c'est possible, ça peut arriver ; 彼が来ない事も___。 ; あり得る
+@g ; あり得ない ; impossible, pas question, invraisemblable ; そんな話は絶対に___。 ; あり得ない
+@g ; ～になり得る ; peut devenir ~, peut se transformer en ~ ; 努力すれば、誰でもプロに___。 ; なり得る
+@g ; 考え得る ; concevable, imaginable ; ___限りの方法をすべて試した。 ; 考え得る
 
 # --- PHRASES (ordre des mots) ---
 @s ; 私は / 毎日 / 日本語を / 勉強しています ; J'étudie le japonais tous les jours.
@@ -454,5 +460,10 @@
 @s ; 感謝される / どころか / 文句を / 言われた ; Loin d'être remercié, on m'a fait des reproches.
 @s ; 入場料は / 千円 / となっている ; Le prix d'entrée se trouve être de 1000 yens.
 @s ; 親の態度が / 子供の性格を / 左右する ; L'attitude des parents influence le caractère de l'enfant.
-
+@s ; 気候変動によって / 新しい問題が / 生じ / 得る ; De nouveaux problèmes peuvent surgir à cause du changement climatique.
+@s ; 人の気持ちは / いつでも / 変わり / 得る ; Les sentiments d'une personne peuvent changer à tout moment.
+@s ; あの状況では / 最悪の事態も / 十分に / 起こり / 得た ; Dans cette situation, le pire aurait très bien pu arriver.
+@s ; 誰も / 予想し / 得なかった / 結果になった ; Cela a abouti à un résultat que personne n'aurait pu prévoir.
+@s ; そんな言い訳は / 理由に / なり / 得ない ; Une telle excuse ne peut pas constituer une raison.
+@s ; もっと早く / 言ってくれれば / 別の結果も / あり / 得た ; Si tu me l'avais dit plus tôt, un autre résultat aurait été possible.
 
