@@ -238,121 +238,121 @@
 全体的に ; ぜんたいてきに ; dans l'ensemble / globalement
 
 # --- GRAMMAIRE ---
-@g ; ～によると ; selon ~ ; 天気予報___、明日は雨らしい。 ; によると
-@g ; ～ばかり ; ne faire que ~ ; 弟はゲーム___している。 ; ばかり
-@g ; ～わけにはいかない ; ne pas pouvoir se permettre ; 明日は試験だから、休む___。 ; わけにはいかない
-@g ; ～ようにする ; faire en sorte de ~ ; 毎日運動する___しています。 ; ようにする
-@g ; ～たとたん ; à l'instant où ~ ; ドアを開けた___、猫が逃げた。 ; とたん
-@g ; ～せいで ; à cause de ~ ; 雨の___、試合が中止になった。 ; せいで
-@g ; ～おかげで ; grâce à ~ ; 先生の___、合格できた。 ; おかげで
-@g ; ～に違いない ; il ne fait aucun doute ; あの人は犯人___。 ; に違いない
-@g ; ～ない内に ; avant que, sans que ; 暗くなら___、家に帰りましょう。 ; ない内に
-@g ; 余り～に ; tellement... que ; ___の忙しさに、昼ご飯を食べる暇もなかった。 ; 余り
-@g ; 中々～ない ; pas vraiment, difficilement, pas du tout ; この漢字は___覚えられない。 ; 中々
-@g ; ～事だ ; devrait, il faut ; 上手になりたいなら、毎日練習する___。 ; 事だ
-@g ; (Nom)+型 ; en forme de, type, genre, taille ; これは最新___のスマートフォンです。 ; 型
-@g ; ～てご覧 ; (veuillez) essayer de, regarder ; あの看板を見___。 ; てご覧
-@g ; ～程 ; au point de, tellement que, environ ; 涙が出る___嬉しかった。 ; 程
-@g ; ～ば～程 ; plus... plus ; 食べれば食べる___、美味しく感じる。 ; 程
-@g ; ～程～ない ; pas aussi... que, pas au point de ; 数学は英語___難しくない。 ; 程
-@g ; ～ばかりに ; juste parce que, rien qu'en ; 寝坊した___、電車に乗り遅れた。 ; ばかりに
-@g ; ～ばかりだ ; ne cesse de, de plus en plus ; 物価は上がる___。 ; ばかりだ
-@g ; ～事はない ; pas besoin de, ne se produit jamais ; そんなに心配する___。 ; 事はない
-@g ; ～と言っても ; bien que je dise que ; 兄だ___、二歳しか違わない。 ; と言っても
-@g ; ～に合わせて ; adapté à, qui va avec, en fonction de ; 相手のレベル___、説明を変える。 ; に合わせて
-@g ; ～の姿 ; ayant l'air de, vêtu de, apparence, silhouette ; 父の働く___を見て感動した。 ; 姿
-@g ; ～に比べて ; comparé à, par rapport à ; 都会___、田舎は静かだ。 ; に比べて
-@g ; どんなに～ても ; peu importe à quel point ; ___高くても、これを買いたい。 ; どんなに
-@g ; ～かは～によって違う ; dépend de ; 何が大切かは、人___違う。 ; によって
-@g ; ～訳だ ; c'est pour ça, pas étonnant, donc ; 三年も住んでいたのだから、日本語が上手な___。 ; 訳だ
-@g ; ～訳ではない ; pas nécessairement, ce n'est pas que ; 彼のことが嫌いな___。ただ忙しいだけだ。 ; 訳ではない
-@g ; ～だって ; j'ai entendu dire que, parce que ; 田中さんは来月引っ越すん___。 ; だって
-@g ; ～と関係がある ; concernant, impliqué dans, en lien avec ; この研究は医学と深い___。 ; 関係がある
-@g ; ～に関して ; lié à, concernant, à propos de ; 環境問題___、議論しました。 ; に関して
-@g ; ～に対して ; envers, tandis que, vis-à-vis de ; 学生の質問___、先生は丁寧に答えた。 ; に対して
-@g ; ～くらい ; à tel point que, à peu près au point de ; 顔も見たくない___怒っている。 ; くらい
-@g ; ～は～くらいです ; à peu près le seul ; 私が話せる外国語___、英語くらいです。 ; は
-@g ; ～にしては ; étant donné que, pour ; 日本に一年住んでいた___、日本語が下手だ。 ; にしては
-@g ; と言うより ; plutôt que de dire que, plus... que ; 彼は優しい___、ただ気が弱いだけだ。 ; と言うより
-@g ; はもちろん ; non seulement... mais aussi ; 彼は漢字___、ひらがなも書ける。 ; はもちろん
-@g ; ～て初めて ; ce n'est qu'après... que ; 病気になっ___、健康の大切さが分かった。 ; て初めて
-@g ; さえ ; même ; そんなことは子供___知っている。 ; さえ
-@g ; さえ～ば ; si seulement, pourvu que ; お金___あれば、何でも買える。 ; さえ
-@g ; ～たものだ ; habitude passée ; 子供の頃、よくこの川で泳いだ___。 ; ものだ
-@g ; 即ち ; en d'autres termes, c'est-à-dire ; 一年の半分、___六ヶ月かかった。 ; 即ち
-@g ; 却って ; au contraire ; 薬を飲んだら、___具合が悪くなった。 ; 却って
-@g ; まるで～様だ ; c'est comme si ; この人形は___生きている様だ。 ; まるで
-@g ; 様な気がする ; avoir le sentiment que ; どこかで彼に会った___。 ; ような気がする
-@g ; とても～ない ; ne peut pas du tout, impossible de ; こんな難しい問題は___解けない。 ; とても
-@g ; 別に～ない ; pas vraiment ; ___欲しいものはない。 ; 別に
-@g ; ばかりでなく ; non seulement... mais aussi ; 彼は英語___、フランス語も話せる。 ; ばかりでなく
-@g ; ではなくて ; pas A mais B ; これは私の___、妹のかばんです。 ; ではなくて
-@g ; だけでなくて～も ; non seulement... mais aussi ; この店は値段が安い___、味も良い。 ; だけでなくて
-@g ; は言うまでもない ; il va sans dire que ; 努力が大切なこと___。 ; は言うまでもない
-@g ; 決して〜ない ; jamais, en aucun cas ; この約束は___忘れません。 ; 決して
-@g ; う・よう+としない ; ne pas vouloir, ne pas faire d'effort ; 彼は私の話を聞こ___。 ; うとしない
-@g ; ことに ; à mon grand..., particulièrement ; 残念な___、試合は中止になった。 ; ことに
-@g ; 事か ; je ne sais combien, Dieu seul sait ; どんなに心配した___。 ; 事か
-@g ; かと言うと ; la raison pour laquelle ; なぜ遅れた___、電車が止まったからだ。 ; かと言うと
-@g ; だらけ ; couvert de, plein de ; 子供の服は泥___だった。 ; だらけ
-@g ; 尤も ; cependant, bien que ; 彼は親切だ。___、少しおしゃべりだが。 ; 尤も
-@g ; 再び ; encore, à nouveau ; 彼は___故郷に戻ってきた。 ; 再び
-@g ; とちがって ; comme, contrairement à ; 兄___、私は運動が苦手だ。 ; とちがって
-@g ; と並んで ; comparable à, au même niveau que ; 富士山___、桜は日本の象徴だ。 ; と並んで
-@g ; 当たり ; par ~, chaque ~, pièce ; 一人___千円ずつ払った。 ; 当たり
-@g ; に当たる ; correspond à, équivaut à ; 一ドルは約百五十円___。 ; に当たる
-@g ; に限る ; rien ne vaut, être réservé à ; 夏はやっぱり冷たいビール___。 ; に限る
-@g ; とは限らない ; pas nécessairement ; 高い物がいい物だ___。 ; とは限らない
-@g ; 滅多に〜ない ; presque jamais, rarement ; 彼は___学校を休まない。 ; 滅多に
-@g ; 割に ; bien que, comparativement ; 彼は年の___若く見える。 ; 割に
-@g ; う・よう+とする ; essayer de, être sur le point de ; ドアを開け___として、鍵がないことに気づいた。 ; ようと
-@g ; う・よう+としたが ; était sur le point de... quand ; 出かけ___、雨が降ってきた。 ; ようとしたが
-@g ; 言うまでもない ; il va sans dire que ; 彼が犯人であることは___。 ; 言うまでもない
-@g ; そうもない ; très peu probable que ; 約束の時間に間に合い___。 ; そうもない
-@g ; 序でに ; tant que vous y êtes, en profiter pour ; 散歩する___、パンを買ってきて。 ; 序でに
-@g ; と共に ; à mesure que, avec, en même temps ; 年を取る___、体力が衰える。 ; と共に
-@g ; に連れて ; au fur et à mesure que ; 山を登る___、寒くなってきた。 ; に連れて
-@g ; 直ちに ; immédiatement, dès que ; 地震が起きたら___避難してください。 ; 直ちに
-@g ; た途端に ; juste au moment où, à l'instant où ; ドアを開け___、猫が飛び出した。 ; た途端に
-@g ; 置きに ; à intervalles de, tous les ; この薬は四時間___飲んでください。 ; 置きに
-@g ; 度に ; à chaque fois que ; この写真を見る___、母を思い出す。 ; 度に
-@g ; 或いは ; ou, ou peut-être ; 電話___メールで連絡します。 ; 或いは
-@g ; ながらも ; bien que, même si ; 狭い___、自分の部屋が持てて嬉しい。 ; ながらも
-@g ; に於いて ; à, dans, concernant ; 会議は大ホール___行われた。 ; に於いて
-@g ; 一方で ; tandis que, d'un autre côté ; 都市の人口は増える___、地方は減っている。 ; 一方で
-@g ; 遂に ; enfin ; 十年かけて、___小説を書き上げた。 ; 遂に
-@g ; 必ずしも ; pas toujours, pas nécessairement ; 高い物が___良いとは限らない。 ; 必ずしも
-@g ; 連用形 ; conjonctif formel, forme connective formelle ; 毎朝六時に___（起きる）、顔を洗う。 ; 起き
-@g ; 向き ; adapté à, orienté vers ; この本は初心者___だ。 ; 向き
-@g ; 向け ; destiné à, conçu pour ; これは子供___の番組です。 ; 向け
-@g ; 切る ; faire jusqu'au bout, finir de ; 彼は長い小説を一日で読み___た。 ; 切っ
-@g ; 切れない ; être incapable de terminer ; 料理が多すぎて食べ___。 ; 切れない
-@g ; きり ; seulement, depuis ; 彼とは一度会った___だ。 ; きり
-@g ; 掛け ; à moitié, pas encore terminé ; テーブルに飲み___のコーヒーがある。 ; 掛け
-@g ; に掛けて ; pendant (une période), de ~ à ~ ; 春から夏___、花が咲く。 ; に掛けて
-@g ; 立て ; fraîchement ~, vient juste de ~ ; 焼き___のパンはおいしい。 ; 立て
-@g ; 込む ; entrer dans, mettre dans ; 彼は部屋に駆け___できた。 ; 込ん
-@g ; 振りをする ; faire semblant ; 彼は聞こえない___をした。 ; 振り
-@g ; 次第 ; dès que ; 詳しいことが分かり___、連絡します。 ; 次第
-@g ; 通り ; comme, exactement ; 私が言った___にやってください。 ; 通り
-@g ; がたい ; difficile à, dur à ; その話は信じ___。 ; がたい
-@g ; 前者は～後者は ; le premier ~ le second ; 兄と弟がいる。___は医者で、後者は教師だ。 ; 前者
-@g ; つい ; par accident, inconsciemment ; 面白くて___笑ってしまった。 ; つい
-@g ; 癖に ; alors que, et pourtant ; 知っている___、教えてくれない。 ; 癖に
-@g ; がち ; être enclin à, avoir tendance à ; 彼は最近休み___だ。 ; がち
-@g ; もしも～なら ; si jamais, en supposant que ; ___宝くじが当たったら、家を買う。 ; もしも
-@g ; っぱなし ; laisser tel quel ; 電気をつけ___で寝てしまった。 ; っぱなし
-@g ; わざわざ ; exprès, se donner la peine de ; ___来てくれてありがとう。 ; わざわざ
-@g ; 一体 ; mais..., pourquoi diable, bon sang ; これは___どういう意味ですか。 ; 一体
-@g ; どころか ; loin de, tout sauf, encore moins ; 漢字___、ひらがなも読めない。 ; どころか
-@g ; は～となっている ; se trouve être, a été établi ; 規則では、ここは禁煙___。 ; となっている
-@g ; 左右する ; influencer, impacter, déterminer ; 天気が試合の結果を___。 ; 左右する
-@g ; ～得る（うる／える） ; pouvoir, il peut arriver que ~ (possibilité) ; そんな事故は誰にでも起こり___。 ; 得る
-@g ; ～得ない（えない） ; il est impossible que ~, ne peut pas arriver ; そんな事は決して起こり___。 ; 得ない
-@g ; あり得る ; c'est possible, ça peut arriver ; 彼が来ない事も___。 ; あり得る
-@g ; あり得ない ; impossible, pas question, invraisemblable ; そんな話は絶対に___。 ; あり得ない
-@g ; ～になり得る ; peut devenir ~, peut se transformer en ~ ; 努力すれば、誰でもプロに___。 ; なり得る
-@g ; 考え得る ; concevable, imaginable ; ___限りの方法をすべて試した。 ; 考え得る
+@g ; ～によると ; Selon la météo, il paraît qu'il pleuvra demain. ; 天気予報___、明日は雨らしい。 ; によると
+@g ; ～ばかり ; Mon petit frère ne fait que jouer aux jeux vidéo. ; 弟はゲーム___している。 ; ばかり
+@g ; ～わけにはいかない ; Comme j'ai un examen demain, je ne peux pas me permettre de manquer les cours. ; 明日は試験だから、休む___。 ; わけにはいかない
+@g ; ～ようにする ; Je fais en sorte de faire du sport tous les jours. ; 毎日運動する___しています。 ; ようにする
+@g ; ～たとたん ; À l'instant où j'ai ouvert la porte, le chat s'est enfui. ; ドアを開けた___、猫が逃げた。 ; とたん
+@g ; ～せいで ; À cause de la pluie, le match a été annulé. ; 雨の___、試合が中止になった。 ; せいで
+@g ; ～おかげで ; Grâce au professeur, j'ai pu réussir. ; 先生の___、合格できた。 ; おかげで
+@g ; ～に違いない ; Cette personne est sûrement le coupable. ; あの人は犯人___。 ; に違いない
+@g ; ～ない内に ; Rentrons à la maison avant qu'il ne fasse nuit. ; 暗くなら___、家に帰りましょう。 ; ない内に
+@g ; 余り～に ; J'étais tellement occupé que je n'ai même pas eu le temps de déjeuner. ; ___の忙しさに、昼ご飯を食べる暇もなかった。 ; 余り
+@g ; 中々～ない ; Je n'arrive pas du tout à mémoriser ce kanji. ; この漢字は___覚えられない。 ; 中々
+@g ; ～事だ ; Si tu veux devenir bon, il faut t'entraîner tous les jours. ; 上手になりたいなら、毎日練習する___。 ; 事だ
+@g ; (Nom)+型 ; C'est le tout dernier modèle de smartphone. ; これは最新___のスマートフォンです。 ; 型
+@g ; ～てご覧 ; Regarde donc ce panneau. ; あの看板を見___。 ; てご覧
+@g ; ～程 ; J'étais si content que j'en ai pleuré. ; 涙が出る___嬉しかった。 ; 程
+@g ; ～ば～程 ; Plus j'en mange, plus je trouve ça bon. ; 食べれば食べる___、美味しく感じる。 ; 程
+@g ; ～程～ない ; Les mathématiques ne sont pas aussi difficiles que l'anglais. ; 数学は英語___難しくない。 ; 程
+@g ; ～ばかりに ; Juste parce que je me suis levé tard, j'ai raté le train. ; 寝坊した___、電車に乗り遅れた。 ; ばかりに
+@g ; ～ばかりだ ; Les prix ne cessent d'augmenter. ; 物価は上がる___。 ; ばかりだ
+@g ; ～事はない ; Il n'y a pas besoin de s'inquiéter autant. ; そんなに心配する___。 ; 事はない
+@g ; ～と言っても ; Bien qu'on dise que c'est mon frère aîné, il n'a que deux ans de plus que moi. ; 兄だ___、二歳しか違わない。 ; と言っても
+@g ; ～に合わせて ; J'adapte mon explication au niveau de mon interlocuteur. ; 相手のレベル___、説明を変える。 ; に合わせて
+@g ; ～の姿 ; J'ai été ému de voir mon père travailler. ; 父の働く___を見て感動した。 ; 姿
+@g ; ～に比べて ; Comparée à la ville, la campagne est calme. ; 都会___、田舎は静かだ。 ; に比べて
+@g ; どんなに～ても ; Peu importe le prix, je veux acheter ça. ; ___高くても、これを買いたい。 ; どんなに
+@g ; ～かは～によって違う ; Ce qui est important dépend de chaque personne. ; 何が大切かは、人___違う。 ; によって
+@g ; ～訳だ ; Puisqu'il a vécu là-bas pendant trois ans, c'est normal qu'il soit doué en japonais. ; 三年も住んでいたのだから、日本語が上手な___。 ; 訳だ
+@g ; ～訳ではない ; Ce n'est pas que je le déteste, je suis juste occupé. ; 彼のことが嫌いな___。ただ忙しいだけだ。 ; 訳ではない
+@g ; ～だって ; Il paraît que M. Tanaka déménage le mois prochain. ; 田中さんは来月引っ越すん___。 ; だって
+@g ; ～と関係がある ; Cette recherche est étroitement liée à la médecine. ; この研究は医学と深い___。 ; 関係がある
+@g ; ～に関して ; Nous avons débattu à propos des problèmes environnementaux. ; 環境問題___、議論しました。 ; に関して
+@g ; ～に対して ; Le professeur a répondu poliment aux questions des élèves. ; 学生の質問___、先生は丁寧に答えた。 ; に対して
+@g ; ～くらい ; Je suis tellement en colère que je ne veux même pas le voir. ; 顔も見たくない___怒っている。 ; くらい
+@g ; ～は～くらいです ; La seule langue étrangère que je parle, c'est à peu près l'anglais. ; 私が話せる外国語___、英語くらいです。 ; は
+@g ; ～にしては ; Étant donné qu'il a vécu un an au Japon, il parle plutôt mal japonais. ; 日本に一年住んでいた___、日本語が下手だ。 ; にしては
+@g ; と言うより ; Plutôt que gentil, il est surtout timide. ; 彼は優しい___、ただ気が弱いだけだ。 ; と言うより
+@g ; はもちろん ; Il sait écrire non seulement les kanji, mais aussi les hiragana. ; 彼は漢字___、ひらがなも書ける。 ; はもちろん
+@g ; ～て初めて ; Ce n'est qu'en tombant malade que j'ai compris l'importance de la santé. ; 病気になっ___、健康の大切さが分かった。 ; て初めて
+@g ; さえ ; Même les enfants savent ça. ; そんなことは子供___知っている。 ; さえ
+@g ; さえ～ば ; Si seulement j'avais de l'argent, je pourrais tout acheter. ; お金___あれば、何でも買える。 ; さえ
+@g ; ～たものだ ; Quand j'étais enfant, j'avais l'habitude de nager souvent dans cette rivière. ; 子供の頃、よくこの川で泳いだ___。 ; ものだ
+@g ; 即ち ; Ça a pris la moitié d'une année, c'est-à-dire six mois. ; 一年の半分、___六ヶ月かかった。 ; 即ち
+@g ; 却って ; Après avoir pris le médicament, je me suis senti encore plus mal, au contraire. ; 薬を飲んだら、___具合が悪くなった。 ; 却って
+@g ; まるで～様だ ; Cette poupée semble presque vivante. ; この人形は___生きている様だ。 ; まるで
+@g ; 様な気がする ; J'ai le sentiment de l'avoir déjà rencontré quelque part. ; どこかで彼に会った___。 ; ような気がする
+@g ; とても～ない ; Ce genre de problème difficile est totalement impossible à résoudre. ; こんな難しい問題は___解けない。 ; とても
+@g ; 別に～ない ; Il n'y a rien que je veuille vraiment. ; ___欲しいものはない。 ; 別に
+@g ; ばかりでなく ; Il parle non seulement anglais, mais aussi français. ; 彼は英語___、フランス語も話せる。 ; ばかりでなく
+@g ; ではなくて ; Ce n'est pas mon sac, mais celui de ma petite sœur. ; これは私の___、妹のかばんです。 ; ではなくて
+@g ; だけでなくて～も ; Ce restaurant n'est pas seulement bon marché, il est aussi délicieux. ; この店は値段が安い___、味も良い。 ; だけでなくて
+@g ; は言うまでもない ; Il va sans dire que les efforts sont importants. ; 努力が大切なこと___。 ; は言うまでもない
+@g ; 決して〜ない ; Je n'oublierai jamais cette promesse. ; この約束は___忘れません。 ; 決して
+@g ; う・よう+としない ; Il ne fait aucun effort pour écouter ce que je dis. ; 彼は私の話を聞こ___。 ; うとしない
+@g ; ことに ; Malheureusement, le match a été annulé. ; 残念な___、試合は中止になった。 ; ことに
+@g ; 事か ; Je ne sais combien je me suis inquiété. ; どんなに心配した___。 ; 事か
+@g ; かと言うと ; La raison de mon retard, c'est que le train s'est arrêté. ; なぜ遅れた___、電車が止まったからだ。 ; かと言うと
+@g ; だらけ ; Les vêtements de l'enfant étaient couverts de boue. ; 子供の服は泥___だった。 ; だらけ
+@g ; 尤も ; Il est gentil. Cependant, il est un peu bavard. ; 彼は親切だ。___、少しおしゃべりだが。 ; 尤も
+@g ; 再び ; Il est revenu une nouvelle fois dans sa ville natale. ; 彼は___故郷に戻ってきた。 ; 再び
+@g ; とちがって ; Contrairement à mon frère, je ne suis pas doué en sport. ; 兄___、私は運動が苦手だ。 ; とちがって
+@g ; と並んで ; Tout comme le mont Fuji, les cerisiers sont un symbole du Japon. ; 富士山___、桜は日本の象徴だ。 ; と並んで
+@g ; 当たり ; Chacun a payé mille yens. ; 一人___千円ずつ払った。 ; 当たり
+@g ; に当たる ; Un dollar équivaut à environ cent cinquante yens. ; 一ドルは約百五十円___。 ; に当たる
+@g ; に限る ; En été, rien ne vaut une bière fraîche. ; 夏はやっぱり冷たいビール___。 ; に限る
+@g ; とは限らない ; Ce n'est pas toujours vrai que ce qui est cher est bon. ; 高い物がいい物だ___。 ; とは限らない
+@g ; 滅多に〜ない ; Il manque rarement l'école. ; 彼は___学校を休まない。 ; 滅多に
+@g ; 割に ; Il paraît jeune pour son âge. ; 彼は年の___若く見える。 ; 割に
+@g ; う・よう+とする ; Alors que j'essayais d'ouvrir la porte, j'ai remarqué que je n'avais pas la clé. ; ドアを開け___として、鍵がないことに気づいた。 ; ようと
+@g ; う・よう+としたが ; J'étais sur le point de sortir, mais il s'est mis à pleuvoir. ; 出かけ___、雨が降ってきた。 ; ようとしたが
+@g ; 言うまでもない ; Il va sans dire qu'il est le coupable. ; 彼が犯人であることは___。 ; 言うまでもない
+@g ; そうもない ; Il est très peu probable que j'arrive à l'heure du rendez-vous. ; 約束の時間に間に合い___。 ; そうもない
+@g ; 序でに ; Tant que tu fais une promenade, va donc acheter du pain. ; 散歩する___、パンを買ってきて。 ; 序でに
+@g ; と共に ; À mesure qu'on vieillit, la force physique diminue. ; 年を取る___、体力が衰える。 ; と共に
+@g ; に連れて ; Au fur et à mesure qu'on montait la montagne, il faisait plus froid. ; 山を登る___、寒くなってきた。 ; に連れて
+@g ; 直ちに ; En cas de tremblement de terre, évacuez immédiatement. ; 地震が起きたら___避難してください。 ; 直ちに
+@g ; た途端に ; À l'instant où j'ai ouvert la porte, le chat a bondi dehors. ; ドアを開け___、猫が飛び出した。 ; た途端に
+@g ; 置きに ; Prenez ce médicament toutes les quatre heures. ; この薬は四時間___飲んでください。 ; 置きに
+@g ; 度に ; À chaque fois que je regarde cette photo, je pense à ma mère. ; この写真を見る___、母を思い出す。 ; 度に
+@g ; 或いは ; Je vous contacterai par téléphone ou par e-mail. ; 電話___メールで連絡します。 ; 或いは
+@g ; ながらも ; Même si elle est petite, je suis content d'avoir ma propre chambre. ; 狭い___、自分の部屋が持てて嬉しい。 ; ながらも
+@g ; に於いて ; La réunion s'est tenue dans le grand hall. ; 会議は大ホール___行われた。 ; に於いて
+@g ; 一方で ; Tandis que la population des villes augmente, celle des régions diminue. ; 都市の人口は増える___、地方は減っている。 ; 一方で
+@g ; 遂に ; Après dix ans, j'ai enfin terminé d'écrire mon roman. ; 十年かけて、___小説を書き上げた。 ; 遂に
+@g ; 必ずしも ; Ce qui est cher n'est pas toujours forcément bon. ; 高い物が___良いとは限らない。 ; 必ずしも
+@g ; 連用形 ; Tous les matins à six heures, je me lève et je me lave le visage. ; 毎朝六時に___（起きる）、顔を洗う。 ; 起き
+@g ; 向き ; Ce livre est adapté aux débutants. ; この本は初心者___だ。 ; 向き
+@g ; 向け ; C'est une émission destinée aux enfants. ; これは子供___の番組です。 ; 向け
+@g ; 切る ; Il a fini de lire un long roman en une journée. ; 彼は長い小説を一日で読み___た。 ; 切っ
+@g ; 切れない ; Il y a trop de plats, je n'arrive pas à tout manger. ; 料理が多すぎて食べ___。 ; 切れない
+@g ; きり ; Je ne l'ai rencontré qu'une seule fois. ; 彼とは一度会った___だ。 ; きり
+@g ; 掛け ; Il y a un café à moitié bu sur la table. ; テーブルに飲み___のコーヒーがある。 ; 掛け
+@g ; に掛けて ; Les fleurs éclosent du printemps jusqu'à l'été. ; 春から夏___、花が咲く。 ; に掛けて
+@g ; 立て ; Le pain fraîchement sorti du four est délicieux. ; 焼き___のパンはおいしい。 ; 立て
+@g ; 込む ; Il est entré en courant dans la pièce. ; 彼は部屋に駆け___できた。 ; 込ん
+@g ; 振りをする ; Il a fait semblant de ne pas entendre. ; 彼は聞こえない___をした。 ; 振り
+@g ; 次第 ; Dès que j'aurai des détails, je vous contacterai. ; 詳しいことが分かり___、連絡します。 ; 次第
+@g ; 通り ; Faites exactement comme je vous l'ai dit. ; 私が言った___にやってください。 ; 通り
+@g ; がたい ; Cette histoire est difficile à croire. ; その話は信じ___。 ; がたい
+@g ; 前者は～後者は ; J'ai un frère aîné et un frère cadet. Le premier est médecin, le second est enseignant. ; 兄と弟がいる。___は医者で、後者は教師だ。 ; 前者
+@g ; つい ; C'était tellement drôle que j'ai éclaté de rire sans le vouloir. ; 面白くて___笑ってしまった。 ; つい
+@g ; 癖に ; Alors qu'il sait, il ne me dit rien. ; 知っている___、教えてくれない。 ; 癖に
+@g ; がち ; Ces derniers temps, il a tendance à s'absenter souvent. ; 彼は最近休み___だ。 ; がち
+@g ; もしも～なら ; Si jamais je gagnais à la loterie, j'achèterais une maison. ; ___宝くじが当たったら、家を買う。 ; もしも
+@g ; っぱなし ; Je me suis endormi en laissant la lumière allumée. ; 電気をつけ___で寝てしまった。 ; っぱなし
+@g ; わざわざ ; Merci d'être venu exprès. ; ___来てくれてありがとう。 ; わざわざ
+@g ; 一体 ; Mais qu'est-ce que ça veut dire, au juste ? ; これは___どういう意味ですか。 ; 一体
+@g ; どころか ; Loin de lire les kanji, il n'arrive même pas à lire les hiragana. ; 漢字___、ひらがなも読めない。 ; どころか
+@g ; は～となっている ; Selon le règlement, c'est non-fumeur ici. ; 規則では、ここは禁煙___。 ; となっている
+@g ; 左右する ; Le temps influence le résultat du match. ; 天気が試合の結果を___。 ; 左右する
+@g ; ～得る（うる／える） ; Un tel accident peut arriver à n'importe qui. ; そんな事故は誰にでも起こり___。 ; 得る
+@g ; ～得ない（えない） ; Une telle chose ne peut absolument pas se produire. ; そんな事は決して起こり___。 ; 得ない
+@g ; あり得る ; Il se peut aussi qu'il ne vienne pas. ; 彼が来ない事も___。 ; あり得る
+@g ; あり得ない ; Une telle histoire est absolument impossible. ; そんな話は絶対に___。 ; あり得ない
+@g ; ～になり得る ; Avec des efforts, n'importe qui peut devenir professionnel. ; 努力すれば、誰でもプロに___。 ; なり得る
+@g ; 考え得る ; J'ai essayé toutes les méthodes concevables. ; ___限りの方法をすべて試した。 ; 考え得る
 
 # --- PHRASES (ordre des mots) ---
 @s ; 私は / 毎日 / 日本語を / 勉強しています ; J'étudie le japonais tous les jours.
@@ -466,4 +466,3 @@
 @s ; 誰も / 予想し / 得なかった / 結果になった ; Cela a abouti à un résultat que personne n'aurait pu prévoir.
 @s ; そんな言い訳は / 理由に / なり / 得ない ; Une telle excuse ne peut pas constituer une raison.
 @s ; もっと早く / 言ってくれれば / 別の結果も / あり / 得た ; Si tu me l'avais dit plus tôt, un autre résultat aurait été possible.
-
