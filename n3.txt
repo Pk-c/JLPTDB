@@ -10,346 +10,418 @@
 # ====================================================
 
 # --- VOCABULAIRE ---
-約束 ; やくそく ; promesse / rendez-vous
-経験 ; けいけん ; expérience
-連絡 ; れんらく ; contact
-相談 ; そうだん ; demander conseil
-準備 ; じゅんび ; préparation
-習慣 ; しゅうかん ; habitude
-文化 ; ぶんか ; culture
-祖父 ; そふ ; grand-père
-景色 ; けしき ; paysage
-我慢 ; がまん ; se retenir
-迷惑 ; めいわく ; dérangement
-締切 ; しめきり ; date limite
-担当 ; たんとう ; être en charge
-許可 ; きょか ; permission
-注文 ; ちゅうもん ; commande
-故障 ; こしょう ; panne
-就職 ; しゅうしょく ; trouver un emploi
-退屈 ; たいくつ ; ennui
-複雑 ; ふくざつ ; compliqué
-正直 ; しょうじき ; honnête
-真剣 ; しんけん ; sérieux
-普段 ; ふだん ; d'habitude
-絶対 ; ぜったい ; absolument
-夢中 ; むちゅう ; passionné
-怪我 ; けが ; blessure
-冗談 ; じょうだん ; blague
-態度 ; たいど ; attitude
-明かり ; あかり ; lumière / clarté / lueur
-明ける ; あける ; se lever (jour) / faire jour
-明らか ; あきらか ; clair / évident
-悪魔 ; あくま ; démon / diable / Satan
-暗記 ; あんき ; mémorisation / apprentissage par cœur
-新た ; あらた ; nouveau / frais / inédit
-有らゆる ; あらゆる ; tout / chaque / tous les
-集まり ; あつまり ; rassemblement / réunion / collection
-部分 ; ぶぶん ; partie / section / portion
-分 ; ぶん ; part / portion / segment
-文明 ; ぶんめい ; civilisation / culture
-分析 ; ぶんせき ; analyse
-分野 ; ぶんや ; domaine / champ / branche
-父親 ; ちちおや ; père
-地平線 ; ちへいせん ; horizon (terrestre)
-地位 ; ちい ; position (sociale) / statut / rang
-長期 ; ちょうき ; long terme
-中 ; ちゅう ; pendant / au milieu / moyen
-中学 ; ちゅうがく ; collège
-昼食 ; ちゅうしょく ; déjeuner / repas de midi
-大部分 ; だいぶぶん ; la plupart / la majeure partie
-駄目 ; だめ ; pas bon / inutile / impossible
-男子 ; だんし ; garçon / jeune homme
-出会い ; であい ; rencontre
-出会う ; であう ; rencontrer (par hasard) / tomber sur
-読書 ; どくしょ ; lecture
-努力 ; どりょく ; effort / labeur
-同一 ; どういつ ; identique / le même / égal
-円 ; えん ; yen / cercle
-不利 ; ふり ; désavantage / handicap / position défavorable
-不足 ; ふそく ; insuffisance / manque / pénurie
-再び ; ふたたび ; de nouveau / encore une fois
-外交 ; がいこう ; diplomatie
-外出 ; がいしゅつ ; sortie / fait de sortir
-学期 ; がっき ; trimestre / semestre (scolaire)
-学 ; がく ; étude / savoir / -logie
-学問 ; がくもん ; savoir / étude / érudition
-学者 ; がくしゃ ; érudit / savant / chercheur
-学習 ; がくしゅう ; apprentissage / étude
-議長 ; ぎちょう ; président (d'assemblée) / modérateur
-議会 ; ぎかい ; parlement / assemblée / diète
-語学 ; ごがく ; étude des langues / linguistique
-激しい ; はげしい ; violent / intense / extrême
-母親 ; ははおや ; mère
-博物館 ; はくぶつかん ; musée
-販売 ; はんばい ; vente / commercialisation
-発明 ; はつめい ; invention
-外す ; はずす ; enlever / retirer / manquer (rater)
-品 ; ひん ; élégance / article (objet)
-一言 ; ひとこと ; un mot / quelques mots / brève remarque
-一人一人 ; ひとりひとり ; un par un / chacun
-本物 ; ほんもの ; article authentique / le vrai / l'original
-本人 ; ほんにん ; la personne concernée / l'intéressé(e) / soi-même
-一致 ; いっち ; accord / concordance / coïncidence
-一時 ; いちじ ; une heure
-意外 ; いがい ; inattendu / surprenant
-一家 ; いっか ; une famille / un foyer / toute la famille
-今に ; いまに ; bientôt / d'ici peu
-今にも ; いまにも ; à tout moment / sur le point de
-一般 ; いっぱん ; général / ordinaire / commun / moyen
-一方 ; いっぽう ; d'un côté / une direction / d'autre part
-一生 ; いっしょう ; toute une vie / la vie entière / une génération
-一種 ; いっしゅ ; une espèce / une sorte / une variété
-一瞬 ; いっしゅん ; un instant / un moment
-一層 ; いっそう ; encore plus / d'autant plus / une seule couche
-一体 ; いったい ; (mais) enfin / (pourquoi) diable
-所謂 ; いわゆる ; ce qu'on appelle / le soi-disant / pour ainsi dire
-邪魔 ; じゃま ; gêne / obstacle / dérangement
-化学 ; かがく ; chimie
-会 ; かい ; réunion / assemblée / association / club
-会員 ; かいいん ; membre
-海外 ; かいがい ; étranger / outre-mer / à l'étranger
-会合 ; かいごう ; réunion / rassemblement / assemblée
-会計 ; かいけい ; comptabilité / addition (note) / trésorier
-開始 ; かいし ; début / commencement / lancement
-科目 ; かもく ; matière (scolaire) / cursus / cours
-権利 ; けんり ; droit / privilège
-基本 ; きほん ; base / fondement / fondamentaux
-記事 ; きじ ; article / reportage / compte rendu
-気味 ; きみ ; sensation / impression / tendance
-記念 ; きねん ; commémoration / célébration / souvenir
-気に入る ; きにいる ; aimer / apprécier / se prendre d'affection pour
-記入 ; きにゅう ; saisie / remplissage (formulaire)
-記憶 ; きおく ; mémoire / souvenir
-記者 ; きしゃ ; reporter / journaliste
-期待 ; きたい ; attente / espérance / anticipation
-国家 ; こっか ; État / pays / nation
-国会 ; こっかい ; Diète (parlement japonais) / assemblée législative
-国境 ; こっきょう ; frontière (nationale)
-国語 ; こくご ; langue nationale
-国民 ; こくみん ; peuple (d'un pays) / nation / citoyen
-今後 ; こんご ; désormais / à l'avenir
-今回 ; こんかい ; cette fois / actuellement
-今日 ; こんにち ; aujourd'hui / de nos jours
-転ぶ ; ころぶ ; tomber / trébucher
-高速 ; こうそく ; haute vitesse / rapide / express
-訓練 ; くんれん ; entraînement / exercice / discipline
-教科書 ; きょうかしょ ; manuel scolaire
-協力 ; きょうりょく ; coopération / collaboration
-強力 ; きょうりょく ; puissant / fort / robuste
-明ける ; あける ; se lever (jour) / faire jour
-暗記 ; あんき ; mémorisation / apprentissage par cœur
-分析 ; ぶんせき ; analyse
-出会う ; であう ; rencontrer (par hasard) / tomber sur
-読書 ; どくしょ ; lecture
-努力 ; どりょく ; effort / labeur
-不足 ; ふそく ; insuffisance / manque / pénurie
-外出 ; がいしゅつ ; sortie / fait de sortir
-学問 ; がくもん ; savoir / étude / érudition
-学習 ; がくしゅう ; apprentissage / étude
-販売 ; はんばい ; vente / commercialisation
-発明 ; はつめい ; invention
-外す ; はずす ; enlever / retirer / manquer (rater)
-一言 ; ひとこと ; un mot / quelques mots / brève remarque
-一致 ; いっち ; accord / concordance / coïncidence
-邪魔 ; じゃま ; gêne / obstacle / dérangement
-会合 ; かいごう ; réunion / rassemblement / assemblée
-開始 ; かいし ; début / commencement / lancement
-記念 ; きねん ; commémoration / célébration / souvenir
-気に入る ; きにいる ; aimer / apprécier / se prendre d'affection pour
-記入 ; きにゅう ; saisie / remplissage (formulaire)
-記憶 ; きおく ; mémoire / souvenir
-期待 ; きたい ; attente / espérance / anticipation
-転ぶ ; ころぶ ; tomber / trébucher
-訓練 ; くんれん ; entraînement / exercice / discipline
-協力 ; きょうりょく ; coopération / collaboration
-吸収 ; きゅうしゅう ; absorption / aspiration
-学ぶ ; まなぶ ; étudier / apprendre (en profondeur)
-満足 ; まんぞく ; satisfaction / contentement / suffisant
-味方 ; みかた ; allié / partisan / soutien
-入場 ; にゅうじょう ; entrée / admission
-収める ; おさめる ; fournir / verser / offrir / payer
-連続 ; れんぞく ; continuation / succession / série
-利益 ; りえき ; profit / bénéfice / gain
-留学 ; りゅうがく ; études à l'étranger
-左右 ; さゆう ; gauche et droite
-成長 ; せいちょう ; croissance / développement
-刺激 ; しげき ; stimulus / incitation / excitation / provocation
-進学 ; しんがく ; poursuite d'études (entrée dans un établissement supérieur)
-使用 ; しよう ; usage / emploi / utilisation
-証明 ; しょうめい ; preuve / vérification / certification
-招待 ; しょうたい ; invitation
-集中 ; しゅうちゅう ; concentration / centralisation
-収穫 ; しゅうかく ; récolte / moisson / fruits (du travail)
-徹夜 ; てつや ; nuit blanche (veiller toute la nuit)
-取れる ; とれる ; se détacher / s'enlever / pouvoir être obtenu
-取り上げる ; とりあげる ; ramasser / saisir / prendre
-通学 ; つうがく ; trajet vers l'école / aller à l'école
-受け取る ; うけとる ; recevoir / comprendre (interpréter)
-運転 ; うんてん ; conduite / fonctionnement
-売れる ; うれる ; bien se vendre
-分ける ; わける ; diviser / séparer / partager
-悪口 ; わるぐち ; médisance / insulte / dire du mal
-輸入 ; ゆにゅう ; importation
-輸出 ; ゆしゅつ ; exportation
-明らか ; あきらか ; clair / évident
-新た ; あらた ; nouveau / frais / inédit
-駄目 ; だめ ; pas bon / inutile / impossible
-同一 ; どういつ ; identique / le même / égal
-不利 ; ふり ; désavantage / handicap / position défavorable
-不足 ; ふそく ; insuffisance / manque / pénurie
-激しい ; はげしい ; violent / intense / extrême
-発明 ; はつめい ; invention
-意外 ; いがい ; inattendu / surprenant
-一般 ; いっぱん ; général / ordinaire / commun / moyen
-邪魔 ; じゃま ; gêne / obstacle / dérangement
-海外 ; かいがい ; étranger / outre-mer / à l'étranger
-高速 ; こうそく ; haute vitesse / rapide / express
-強力 ; きょうりょく ; puissant / fort / robuste
-急激 ; きゅうげき ; soudain / brusque / radical
-急速 ; きゅうそく ; rapide (ex. progrès)
-真面目 ; まじめ ; sérieux / consciencieux
-真っ赤 ; まっか ; rouge vif / écarlate / cramoisi (visage)
-満足 ; まんぞく ; satisfaction / contentement / suffisant
-明確 ; めいかく ; clair / précis / net / défini
-熱心 ; ねっしん ; enthousiaste / ardent / assidu
-利口 ; りこう ; malin / intelligent / astucieux
-新鮮 ; しんせん ; frais
-上手い ; うまい ; habile / doué / délicieux
-宜しい ; よろしい ; (poli) ça va / d'accord / bien
-有利 ; ゆうり ; avantageux / favorable / profitable
-随分 ; ずいぶん ; très / extrêmement / considérablement
-早産 ; そうざん ; accouchement prématuré
-初産 ; ういざん ; premier accouchement
-ピリピリ ; ピリピリ ; tendu / à cran (onomatopée)
-つきっきり ; つきっきり ; constamment auprès de qqn (pour s'en occuper)
-義理の母 ; ぎりのはは ; belle-mère (mère du conjoint)
-義母 ; ぎぼ ; belle-mère
-日頃から ; ひごろから ; habituellement / d'ordinaire
-看護師 ; かんごし ; infirmier / infirmière
-看護師長 ; かんごしちょう ; infirmier-chef / cadre de santé
-師長 ; しちょう ; chef infirmier (abrégé)
-市長 ; しちょう ; maire
-市役所 ; しやくしょ ; mairie / hôtel de ville
-まあまあ ; まあまあ ; passable / moyen / comme ci comme ça
-いきさつ ; いきさつ ; circonstances / déroulement des faits
-恐縮 ; きょうしゅく ; confusion polie (gêne ou gratitude)
-絆 ; きずな ; lien affectif / attachement
-全体的に ; ぜんたいてきに ; dans l'ensemble / globalement
+@v ; 約束 ; やくそく ; promesse / rendez-vous ; 友達と六時に会う約束をした。/J'ai promis de retrouver mon ami à six heures./Tomodachi to roku ji ni au yakusoku o shita. ; 約束を守ることは大切だ。/Il est important de tenir ses promesses./Yakusoku o mamoru koto wa taisetsu da. ; 彼は約束の時間に遅れた。/Il est arrivé en retard au rendez-vous./Kare wa yakusoku no jikan ni okureta.
+@v ; 経験 ; けいけん ; expérience ; 彼は海外で働いた経験がある。/Il a déjà travaillé à l'étranger./Kare wa kaigai de hataraita keiken ga aru. ; この仕事にはたくさんの経験が必要だ。/Ce travail nécessite beaucoup d'expérience./Kono shigoto ni wa takusan no keiken ga hitsuyou da. ; 貴重な経験をさせてもらった。/On m'a donné l'occasion de vivre une expérience précieuse./Kichou na keiken o sasete moratta.
+@v ; 連絡 ; れんらく ; contact ; 後で連絡します。/Je vous contacterai plus tard./Ato de renraku shimasu. ; 彼から何の連絡もない。/Je n'ai aucune nouvelle de lui./Kare kara nan no renraku mo nai. ; 緊急の場合はすぐに連絡してください。/En cas d'urgence, contactez-moi immédiatement./Kinkyuu no baai wa sugu ni renraku shite kudasai.
+@v ; 相談 ; そうだん ; demander conseil ; 先生に進路について相談した。/J'ai demandé conseil au professeur au sujet de mon orientation./Sensei ni shinro ni tsuite soudan shita. ; 困ったら、いつでも相談してください。/Si vous avez un problème, n'hésitez pas à me demander conseil./Komattara, itsu de mo soudan shite kudasai. ; 家族と相談してから決めます。/Je déciderai après en avoir discuté avec ma famille./Kazoku to soudan shite kara kimemasu.
+@v ; 準備 ; じゅんび ; préparation ; 明日の旅行の準備をしている。/Je prépare le voyage de demain./Asu no ryokou no junbi o shite iru. ; 試験の準備はできましたか。/Es-tu prêt pour l'examen ?/Shiken no junbi wa dekimashita ka. ; パーティーの準備を手伝ってください。/Aidez-moi à préparer la fête, s'il vous plaît./Paateii no junbi o tetsudatte kudasai.
+@v ; 習慣 ; しゅうかん ; habitude ; 毎朝散歩する習慣がある。/J'ai l'habitude de me promener tous les matins./Maiasa sanpo suru shuukan ga aru. ; 悪い習慣を直すのは難しい。/Il est difficile de corriger une mauvaise habitude./Warui shuukan o naosu no wa muzukashii. ; それはこの国の習慣だ。/C'est une coutume de ce pays./Sore wa kono kuni no shuukan da.
+@v ; 文化 ; ぶんか ; culture ; 日本の文化に興味がある。/Je m'intéresse à la culture japonaise./Nippon no bunka ni kyoumi ga aru. ; 国によって文化が違う。/La culture diffère selon les pays./Kuni ni yotte bunka ga chigau. ; 伝統文化を大切にしたい。/Je veux préserver la culture traditionnelle./Dentou bunka o taisetsu ni shitai.
+@v ; 祖父 ; そふ ; grand-père ; 祖父は九十歳になる。/Mon grand-père a quatre-vingt-dix ans./Sofu wa kyuujuu sai ni naru. ; 祖父と一緒に釣りに行った。/Je suis allé pêcher avec mon grand-père./Sofu to issho ni tsuri ni itta. ; 祖父はいつも優しい。/Mon grand-père est toujours gentil./Sofu wa itsu mo yasashii.
+@v ; 景色 ; けしき ; paysage ; 山の上からの景色は素晴らしい。/Le paysage vu du sommet de la montagne est magnifique./Yama no ue kara no keshiki wa subarashii. ; この窓から美しい景色が見える。/On voit un beau paysage depuis cette fenêtre./Kono mado kara utsukushii keshiki ga mieru. ; 景色を見ながら散歩した。/J'ai marché en admirant le paysage./Keshiki o minagara sanpo shita.
+@v ; 我慢 ; がまん ; se retenir ; 痛みを我慢した。/J'ai supporté la douleur./Itami o gaman shita. ; もう我慢できない。/Je n'en peux plus./Mou gaman dekinai. ; 子供は我慢することを学ぶ必要がある。/Les enfants doivent apprendre à se retenir./Kodomo wa gaman suru koto o manabu hitsuyou ga aru.
+@v ; 迷惑 ; めいわく ; dérangement ; 大きな音で近所に迷惑をかけた。/J'ai dérangé les voisins avec un bruit fort./Ookina oto de kinjo ni meiwaku o kaketa. ; 迷惑をかけてすみません。/Désolé de vous avoir dérangé./Meiwaku o kakete sumimasen. ; 彼の行動はみんなに迷惑だ。/Son comportement gêne tout le monde./Kare no koudou wa minna ni meiwaku da.
+@v ; 締切 ; しめきり ; date limite ; レポートの締切は金曜日だ。/La date limite pour le rapport est vendredi./Repooto no shimekiri wa kinyou hi da. ; 締切に間に合わなかった。/Je n'ai pas respecté la date limite./Shimekiri ni maniawanakatta. ; 締切が近づいている。/La date limite approche./Shimekiri ga chikazuite iru.
+@v ; 担当 ; たんとう ; être en charge ; 彼はこのプロジェクトを担当している。/Il est en charge de ce projet./Kare wa kono purojiekuto o tantou shite iru. ; 担当者に聞いてください。/Veuillez demander à la personne responsable./Tantou sha ni kiite kudasai. ; 私が今日の受付を担当します。/Je m'occupe de l'accueil aujourd'hui./Watakushi ga kyou no uketsuke o tantou shimasu.
+@v ; 許可 ; きょか ; permission ; 入るには許可が必要だ。/Il faut une autorisation pour entrer./Hairu ni wa kyoka ga hitsuyou da. ; 先生に許可をもらった。/J'ai obtenu la permission du professeur./Sensei ni kyoka o moratta. ; 許可なく写真を撮ってはいけません。/Il est interdit de prendre des photos sans autorisation./Kyoka naku shashin o totte wa ikemasen.
+@v ; 注文 ; ちゅうもん ; commande ; コーヒーを注文した。/J'ai commandé un café./Koohii o chuumon shita. ; 注文はお決まりですか。/Avez-vous fait votre choix pour la commande ?/Chuumon wa o kimaridesu ka. ; インターネットで商品を注文する。/Je commande des produits sur internet./Intaanetto de shouhin o chuumon suru.
+@v ; 故障 ; こしょう ; panne ; 車が故障した。/La voiture est tombée en panne./Kuruma ga koshou shita. ; このエアコンは故障している。/Cette climatisation est en panne./Kono eakon wa koshou shite iru. ; 故障の原因を調べる。/J'examine la cause de la panne./Koshou no gen'in o shiraberu.
+@v ; 就職 ; しゅうしょく ; trouver un emploi ; 来年、就職する予定だ。/Je prévois de trouver un emploi l'année prochaine./Rainen, shuushoku suru yotei da. ; 就職活動は大変だ。/La recherche d'emploi est difficile./Shuushoku katsudou wa taihen da. ; 大学を卒業して銀行に就職した。/Après mon diplôme universitaire, j'ai trouvé un emploi dans une banque./Daigaku o sotsugyou shite ginkou ni shuushoku shita.
+@v ; 退屈 ; たいくつ ; ennui ; この映画は退屈だった。/Ce film était ennuyeux./Kono eiga wa taikutsu datta. ; 退屈な授業に眠くなった。/J'ai eu sommeil pendant ce cours ennuyeux./Taikutsu na jugyou ni nemuku natta. ; 一人で家にいると退屈だ。/Je m'ennuie quand je suis seul à la maison./Hitori de ie ni iruto taikutsu da.
+@v ; 複雑 ; ふくざつ ; compliqué ; この問題は複雑だ。/Ce problème est compliqué./Kono mondai wa fukuzatsu da. ; 手続きが複雑で分かりにくい。/La procédure est compliquée et difficile à comprendre./Tetsuzuki ga fukuzatsu de wakari nikui. ; 彼らの関係は複雑だ。/Leur relation est compliquée./Kare ra no kankei wa fukuzatsu da.
+@v ; 正直 ; しょうじき ; honnête ; 彼は正直な人だ。/C'est une personne honnête./Kare wa shoujiki na hito da. ; 正直に言うと、疲れた。/Pour être honnête, je suis fatigué./Shoujiki ni yuuto, tsukareta. ; 正直に答えてください。/Répondez honnêtement, s'il vous plaît./Shoujiki ni kotaete kudasai.
+@v ; 真剣 ; しんけん ; sérieux ; 彼は真剣に勉強している。/Il étudie sérieusement./Kare wa shinken ni benkyou shite iru. ; これは真剣な話だ。/C'est une affaire sérieuse./Kore wa shinken na hanashi da. ; 真剣な顔で考えている。/Il réfléchit avec un visage sérieux./Shinken na kao de kangaete iru.
+@v ; 普段 ; ふだん ; d'habitude ; 普段は電車で通勤する。/D'habitude, je vais au travail en train./Fudan wa densha de tsuukin suru. ; 普段より早く起きた。/Je me suis levé plus tôt que d'habitude./Fudan yori hayaku okita. ; 彼は普段から静かな人だ。/C'est une personne calme d'ordinaire./Kare wa fudan kara shizuka na hito da.
+@v ; 絶対 ; ぜったい ; absolument ; 絶対に負けたくない。/Je ne veux absolument pas perdre./Zettai ni maketaku nai. ; これは絶対に秘密だ。/C'est absolument un secret./Kore wa zettai ni himitsu da. ; 彼は絶対に来る。/Il viendra sans aucun doute./Kare wa zettai ni kuru.
+@v ; 夢中 ; むちゅう ; passionné ; 子供はゲームに夢中だ。/L'enfant est passionné par le jeu vidéo./Kodomo wa geemu ni muchuu da. ; 彼女は音楽に夢中になっている。/Elle est passionnée de musique./Kanojo wa ongaku ni muchuu ni natte iru. ; 夢中で本を読んだ。/J'ai lu le livre, complètement absorbé./Muchuu de hon o yonda.
+@v ; 怪我 ; けが ; blessure ; 彼はサッカーで怪我をした。/Il s'est blessé en jouant au football./Kare wa sakkaa de kega o shita. ; 怪我は大丈夫ですか。/Est-ce que votre blessure va bien ?/Kega wa daijoubu desu ka. ; 大きな怪我にならなくてよかった。/Heureusement, ce n'était pas une blessure grave./Ookina kega ni naranakute yokatta.
+@v ; 冗談 ; じょうだん ; blague ; それは冗談ですよね。/C'est une blague, n'est-ce pas ?/Sore wa joudan desu yo ne. ; 彼はよく冗談を言う。/Il fait souvent des blagues./Kare wa yoku joudan o yuu. ; 冗談のつもりだった。/C'était censé être une plaisanterie./Joudan no tsumori datta.
+@v ; 態度 ; たいど ; attitude ; 彼の態度が気になる。/Son attitude me préoccupe./Kare no taido ga ki ni naru. ; 真剣な態度で仕事をする。/Je travaille avec une attitude sérieuse./Shinken na taido de shigoto o suru. ; 態度を変えるべきだ。/Tu devrais changer d'attitude./Taido o kaerubekida.
+@v ; 明かり ; あかり ; lumière / clarté / lueur ; 部屋の明かりをつけた。/J'ai allumé la lumière de la pièce./Heya no akari o tsuketa. ; 遠くに明かりが見える。/On voit une lumière au loin./Tooku ni akari ga mieru. ; 明かりを消して寝た。/J'ai éteint la lumière et je me suis couché./Akari o keshite neta.
+@v ; 明ける ; あける ; se lever (jour) / faire jour ; 夜が明けた。/Le jour s'est levé./Yoru ga aketa. ; 空が明け始めた。/Le ciel a commencé à s'éclaircir./Sora ga ake hajimeta. ; 年が明けたら旅行に行こう。/Une fois la nouvelle année arrivée, partons voyager./Nen ga aketara ryokou ni ikou.
+@v ; 明らか ; あきらか ; clair / évident ; 彼の失敗は明らかだ。/Son échec est évident./Kare no shippai wa akiraka da. ; 原因は明らかになった。/La cause est devenue claire./Gen'in wa akiraka ni natta. ; それは明らかに間違いだ。/C'est clairement une erreur./Sore wa akiraka ni machigai da.
+@v ; 悪魔 ; あくま ; démon / diable / Satan ; 彼は悪魔のような笑い方をした。/Il a ri d'une manière diabolique./Kare wa akuma no you na warai kata o shita. ; この物語には悪魔が出てくる。/Un démon apparaît dans cette histoire./Kono monogatari ni wa akuma ga dete kuru. ; それはまるで悪魔の仕業だ。/On dirait que c'est l'œuvre du diable./Sore wa marude akuma no shiwaza da.
+@v ; 暗記 ; あんき ; mémorisation / apprentissage par cœur ; 単語を暗記するのは大変だ。/Mémoriser du vocabulaire est difficile./Tango o anki suru no wa taihen da. ; この詩を暗記してください。/Apprenez ce poème par cœur, s'il vous plaît./Kono shi o anki shite kudasai. ; 彼は歴史の年号を全部暗記している。/Il a mémorisé toutes les dates historiques./Kare wa rekishi no nengou o zenbu anki shite iru.
+@v ; 新た ; あらた ; nouveau / frais / inédit ; 新たな計画を立てた。/J'ai élaboré un nouveau plan./Arata na keikaku o tateta. ; 彼女は新たな一歩を踏み出した。/Elle a fait un nouveau pas en avant./Kanojo wa arata na ichi ho o fumidashita. ; 新たな問題が発生した。/Un nouveau problème est survenu./Arata na mondai ga hassei shita.
+@v ; 有らゆる ; あらゆる ; tout / chaque / tous les ; あらゆる方法を試した。/J'ai essayé toutes les méthodes possibles./Arayuru houhou o tameshita. ; 彼はあらゆる場所を探した。/Il a cherché partout./Kare wa arayuru basho o sagashita. ; あらゆる可能性を考えるべきだ。/Il faut envisager toutes les possibilités./Arayuru kanou sei o kangaerubekida.
+@v ; 集まり ; あつまり ; rassemblement / réunion / collection ; 今夜、友達の集まりがある。/Ce soir, il y a une réunion entre amis./Konya, tomodachi no atsumari ga aru. ; この集まりに参加したい。/Je veux participer à ce rassemblement./Kono atsumari ni sanka shitai. ; 家族の集まりはいつも楽しい。/Les réunions de famille sont toujours agréables./Kazoku no atsumari wa itsu mo tanoshii.
+@v ; 部分 ; ぶぶん ; partie / section / portion ; この部分がよく分からない。/Je ne comprends pas bien cette partie./Kono bubun ga yoku wakaranai. ; 本の一部分を読んだ。/J'ai lu une partie du livre./Hon no ichi bubun o yonda. ; どの部分が一番重要ですか。/Quelle partie est la plus importante ?/Dono bubun ga ichiban juuyou desu ka.
+@v ; 分 ; ぶん ; part / portion / segment ; 五分待ってください。/Veuillez attendre cinq minutes./Go fun matte kudasai. ; 半分だけ食べた。/J'en ai mangé seulement la moitié./Hanbun dake tabeta. ; この仕事は私の分ではない。/Ce travail n'est pas de mon ressort./Kono shigoto wa watakushi no bun de wa nai.
+@v ; 文明 ; ぶんめい ; civilisation / culture ; 古代文明について学んでいる。/J'étudie les civilisations antiques./Kodai bunmei ni tsuite manande iru. ; この遺跡は古い文明の跡だ。/Ces ruines sont les vestiges d'une ancienne civilisation./Kono iseki wa furui bunmei no ato da. ; 文明は急速に発展した。/La civilisation s'est développée rapidement./Bunmei wa kyuusoku ni hatten shita.
+@v ; 分析 ; ぶんせき ; analyse ; データを分析する。/J'analyse les données./Deeta o bunseki suru. ; 詳しい分析が必要だ。/Une analyse détaillée est nécessaire./Kuwashii bunseki ga hitsuyou da. ; 彼は問題を冷静に分析した。/Il a analysé le problème calmement./Kare wa mondai o reisei ni bunseki shita.
+@v ; 分野 ; ぶんや ; domaine / champ / branche ; 彼はこの分野の専門家だ。/Il est expert dans ce domaine./Kare wa kono bunya no senmon kada. ; どの分野に興味がありますか。/Quel domaine vous intéresse ?/Dono bunya ni kyoumi ga arimasu ka. ; 新しい分野に挑戦したい。/Je veux me lancer dans un nouveau domaine./Atarashii bunya ni chousen shitai.
+@v ; 父親 ; ちちおや ; père ; 父親は毎朝早く起きる。/Mon père se lève tôt tous les matins./Chichioya wa maiasa hayaku okiru. ; 彼は良い父親だ。/C'est un bon père./Kare wa yoi chichioya da. ; 父親と息子は似ている。/Le père et le fils se ressemblent./Chichioya to musuko wa nite iru.
+@v ; 地平線 ; ちへいせん ; horizon (terrestre) ; 地平線に太陽が沈んだ。/Le soleil s'est couché à l'horizon./Chihei sen ni taiyou ga shizunda. ; 地平線の向こうに山が見える。/On voit des montagnes au-delà de l'horizon./Chihei sen no mukou ni yama ga mieru. ; 広い地平線を眺めた。/J'ai contemplé le vaste horizon./Hiroi chihei sen o nagameta.
+@v ; 地位 ; ちい ; position (sociale) / statut / rang ; 彼は高い地位にある。/Il occupe une position élevée./Kare wa takai chii ni aru. ; 社会的地位を気にする人が多い。/Beaucoup de gens se soucient de leur statut social./Shakai teki chii o ki ni suru hito ga ooi. ; 彼女はその会社で重要な地位を得た。/Elle a obtenu un poste important dans cette entreprise./Kanojo wa sono kaisha de juuyou na chii o eta.
+@v ; 長期 ; ちょうき ; long terme ; 長期の休みを取りたい。/Je veux prendre de longues vacances./Chouki no yasumi o toritai. ; これは長期的な計画だ。/C'est un plan à long terme./Kore wa chouki tekina keikaku da. ; 長期間、日本に住んでいた。/J'ai vécu au Japon pendant une longue période./Chou kikan, nippon ni sunde ita.
+@v ; 中 ; ちゅう ; pendant / au milieu / moyen ; 会議中は静かにしてください。/Veuillez rester silencieux pendant la réunion./Kaigi chuu wa shizuka ni shite kudasai. ; 彼は勉強中だ。/Il est en train d'étudier./Kare wa benkyou chuuda. ; 一週間中に返事をください。/Répondez-moi dans un délai d'une semaine./Ichi shuukan chuu ni henji o kudasai.
+@v ; 中学 ; ちゅうがく ; collège ; 弟は中学に通っている。/Mon petit frère va au collège./Otouto wa chuugaku ni kayotte iru. ; 中学時代の友達に会った。/J'ai revu un ami du collège./Chuugaku jidai no tomodachi ni atta. ; 中学を卒業したら高校に行く。/Après le collège, j'irai au lycée./Chuugaku o sotsugyou shitara koukou ni iku.
+@v ; 昼食 ; ちゅうしょく ; déjeuner / repas de midi ; 昼食は何を食べましたか。/Qu'avez-vous mangé au déjeuner ?/Chuushoku wa nan o tabemashita ka. ; 一緒に昼食を食べましょう。/Déjeunons ensemble./Issho ni chuushoku o tabemashou. ; 昼食の後、少し休んだ。/Après le déjeuner, je me suis reposé un peu./Chuushoku no ato, sukoshi yasunda.
+@v ; 大部分 ; だいぶぶん ; la plupart / la majeure partie ; 大部分の人が賛成した。/La plupart des gens ont approuvé./Dai bubun no hito ga sansei shita. ; 仕事の大部分は終わった。/La majeure partie du travail est terminée./Shigoto no dai bubun wa owatta. ; 大部分の学生がその授業を取っている。/La plupart des étudiants suivent ce cours./Dai bubun no gakusei ga sono jugyou o totte iru.
+@v ; 駄目 ; だめ ; pas bon / inutile / impossible ; それは駄目だ。/Ça ne va pas./Sore wa dame da. ; 遅刻しては駄目です。/Il ne faut pas être en retard./Chikoku shite wa dame desu. ; 何をやっても駄目だった。/Quoi que je fasse, ça n'a pas marché./Nan o yatte mo dame datta.
+@v ; 男子 ; だんし ; garçon / jeune homme ; 男子生徒が多い学校だ。/C'est une école avec beaucoup d'élèves garçons./Danshi seito ga ooi gakkou da. ; 男子トイレはあちらです。/Les toilettes hommes sont par là./Danshi toire wa achiradesu. ; 男子チームが優勝した。/L'équipe masculine a remporté la victoire./Danshi chiimu ga yuushou shita.
+@v ; 出会い ; であい ; rencontre ; それは運命的な出会いだった。/C'était une rencontre destinée./Sore wa unmei tekina deai datta. ; 良い出会いに感謝している。/Je suis reconnaissant pour ces belles rencontres./Yoi deai ni kansha shite iru. ; 旅先での出会いを大切にしたい。/Je veux chérir les rencontres faites en voyage./Tabisaki de no deai o taisetsu ni shitai.
+@v ; 出会う ; であう ; rencontrer (par hasard) / tomber sur ; 駅で偶然彼女に出会った。/Je l'ai rencontrée par hasard à la gare./Eki de guuzen kanojo ni deatta. ; 素敵な人に出会いたい。/Je veux rencontrer quelqu'un de merveilleux./Suteki na hito ni deaitai. ; 旅行中に色々な人と出会った。/J'ai rencontré diverses personnes pendant le voyage./Ryokou chuu ni iroiro na hito to deatta.
+@v ; 読書 ; どくしょ ; lecture ; 読書が趣味です。/La lecture est mon passe-temps./Dokusho ga shumi desu. ; 読書の時間を大切にしている。/Je tiens à mon temps de lecture./Dokusho no jikan o taisetsu ni shite iru. ; 彼は毎晩読書をする。/Il lit tous les soirs./Kare wa maiban dokusho o suru.
+@v ; 努力 ; どりょく ; effort / labeur ; 努力すれば必ず成功する。/Si on fait des efforts, on réussit forcément./Doryoku sureba kanarazu seikou suru. ; 彼の努力が実を結んだ。/Ses efforts ont porté leurs fruits./Kare no doryoku ga jitsu o musunda. ; もっと努力する必要がある。/Il faut faire plus d'efforts./Motto doryoku suru hitsuyou ga aru.
+@v ; 同一 ; どういつ ; identique / le même / égal ; この二つは同一の商品だ。/Ces deux articles sont identiques./Kono futa tsu wa douitsu no shouhin da. ; 同一人物だと分かった。/On a découvert qu'il s'agissait de la même personne./Douitsu jinbutsu da to wakatta. ; 同一の条件で比較する。/On compare dans des conditions identiques./Douitsu no jouken de hikaku suru.
+@v ; 円 ; えん ; yen / cercle ; これは千円です。/Ça fait mille yens./Kore wa sen en desu. ; 紙に円を描いた。/J'ai dessiné un cercle sur le papier./Kami ni en o egaita. ; 円の面積を計算する。/Je calcule l'aire du cercle./En no menseki o keisan suru.
+@v ; 不利 ; ふり ; désavantage / handicap / position défavorable ; この条件は私に不利だ。/Ces conditions me sont défavorables./Kono jouken wa watakushi ni furi da. ; 不利な立場に立たされた。/J'ai été mis dans une position désavantageuse./Furi na tachiba ni tatasareta. ; 天気が不利に働いた。/Le temps a joué en notre défaveur./Tenki ga furi ni hataraita.
+@v ; 不足 ; ふそく ; insuffisance / manque / pénurie ; 睡眠不足で疲れている。/Je suis fatigué à cause d'un manque de sommeil./Suimin fusoku de tsukarete iru. ; 資金が不足している。/Les fonds sont insuffisants./Shikin ga fusoku shite iru. ; 経験不足を感じる。/Je ressens un manque d'expérience./Keiken fusoku o kanjiru.
+@v ; 再び ; ふたたび ; de nouveau / encore une fois ; 彼は再びここに来た。/Il est revenu ici une nouvelle fois./Kare wa futatabi koko ni kita. ; 再び挑戦するつもりだ。/J'ai l'intention de retenter ma chance./Futatabi chousen suru tsumori da. ; そのニュースを再び聞いた。/J'ai entendu cette nouvelle à nouveau./Sono nyuusu o futatabi kiita.
+@v ; 外交 ; がいこう ; diplomatie ; 彼は外交官になりたい。/Il veut devenir diplomate./Kare wa gaikou kan ni naritai. ; 両国は外交関係を結んだ。/Les deux pays ont établi des relations diplomatiques./Ryoukoku wa gaikou kankei o musunda. ; 外交問題について話し合った。/Nous avons discuté de questions diplomatiques./Gaikou mondai ni tsuite hanashiatta.
+@v ; 外出 ; がいしゅつ ; sortie / fait de sortir ; 今日は外出しない。/Aujourd'hui, je ne sors pas./Kyou wa gaishutsu shinai. ; 雨のため外出を控えた。/J'ai évité de sortir à cause de la pluie./Ame no tame gaishutsu o hikaeta. ; 外出する前に鍵を確認した。/J'ai vérifié les clés avant de sortir./Gaishutsu suru mae ni kagi o kakunin shita.
+@v ; 学期 ; がっき ; trimestre / semestre (scolaire) ; 新しい学期が始まった。/Le nouveau trimestre a commencé./Atarashii gakki ga hajimatta. ; 今学期は忙しい。/Ce trimestre est chargé./Kon gakki wa isogashii. ; 学期末にテストがある。/Il y a un examen à la fin du trimestre./Gakki matsu ni tesuto ga aru.
+@v ; 学 ; がく ; étude / savoir / -logie ; 彼は法学を勉強している。/Il étudie le droit./Kare wa hougaku o benkyou shite iru. ; 医学に興味がある。/Je m'intéresse à la médecine./Igaku ni kyoumi ga aru. ; 経済学は難しい。/L'économie est difficile./Keizai gaku wa muzukashii.
+@v ; 学問 ; がくもん ; savoir / étude / érudition ; 学問を深めたい。/Je veux approfondir mes connaissances./Gakumon o fukametai. ; 彼は学問に打ち込んでいる。/Il se consacre entièrement à ses études./Kare wa gakumon ni uchikonde iru. ; 学問の道は険しい。/Le chemin du savoir est ardu./Gakumon no michi wa kewashii.
+@v ; 学者 ; がくしゃ ; érudit / savant / chercheur ; 彼は有名な学者だ。/C'est un savant célèbre./Kare wa yuumei na gakusha da. ; 学者たちがその問題を研究している。/Des chercheurs étudient ce problème./Gakusha tachi ga sono mondai o kenkyuu shite iru. ; 将来学者になりたい。/Je veux devenir chercheur plus tard./Shourai gakusha ni naritai.
+@v ; 学習 ; がくしゅう ; apprentissage / étude ; 毎日日本語を学習している。/J'apprends le japonais tous les jours./Mainichi nippon go o gakushuu shite iru. ; この教材は学習に役立つ。/Ce matériel est utile pour l'apprentissage./Kono kyouzai wa gakushuu ni yakudatsu. ; 学習方法を変えてみた。/J'ai essayé de changer ma méthode d'apprentissage./Gakushuu houhou o kaete mita.
+@v ; 議長 ; ぎちょう ; président (d'assemblée) / modérateur ; 彼が会議の議長を務めた。/Il a présidé la réunion./Kare ga kaigi no gichou o tsutometa. ; 議長が発言を許可した。/Le président a autorisé la prise de parole./Gichou ga hatsugen o kyoka shita. ; 新しい議長が選ばれた。/Un nouveau président a été élu./Atarashii gichou ga erabareta.
+@v ; 議会 ; ぎかい ; parlement / assemblée / diète ; 議会でその法案が議論された。/Ce projet de loi a été débattu au parlement./Gikai de sono hou an ga giron sareta. ; 議会は来週開かれる。/Le parlement se réunira la semaine prochaine./Gikai wa raishuu hirakareru. ; 彼は議会の議員だ。/Il est membre du parlement./Kare wa gikai no giin da.
+@v ; 語学 ; ごがく ; étude des langues / linguistique ; 語学が得意だ。/Je suis doué en langues./Gogaku ga tokui da. ; 語学学校に通っている。/Je vais dans une école de langues./Gogaku gakkou ni kayotte iru. ; 語学力を伸ばしたい。/Je veux améliorer mes compétences linguistiques./Go gakuryoku o nobashitai.
+@v ; 激しい ; はげしい ; violent / intense / extrême ; 激しい雨が降っている。/Une pluie violente tombe./Hageshii ame ga futte iru. ; 激しい競争が続いている。/Une concurrence intense se poursuit./Hageshii kyousou ga tsuzuite iru. ; 彼は激しく怒った。/Il s'est mis violemment en colère./Kare wa hageshiku okotta.
+@v ; 母親 ; ははおや ; mère ; 母親は料理が上手だ。/Ma mère cuisine bien./Hahaoya wa ryouri ga jouzu da. ; 彼女は良い母親だ。/C'est une bonne mère./Kanojo wa yoi hahaoya da. ; 母親と買い物に行った。/Je suis allé faire les courses avec ma mère./Hahaoya to kaimono ni itta.
+@v ; 博物館 ; はくぶつかん ; musée ; 週末に博物館へ行った。/Je suis allé au musée ce week-end./Shuumatsu ni hakubutsu kan e itta. ; この博物館には貴重な展示がある。/Ce musée présente des expositions précieuses./Kono hakubutsu kan ni wa kichou na tenji ga aru. ; 博物館は月曜日休みだ。/Le musée est fermé le lundi./Hakubutsu kan wa getsuyou hi yasumi da.
+@v ; 販売 ; はんばい ; vente / commercialisation ; この店は靴を販売している。/Ce magasin vend des chaussures./Kono mise wa kutsu o hanbai shite iru. ; 新商品の販売が始まった。/La vente du nouveau produit a commencé./Shin shouhin no hanbai ga hajimatta. ; 販売数が伸びている。/Le nombre de ventes augmente./Hanbai suu ga nobite iru.
+@v ; 発明 ; はつめい ; invention ; 電話は偉大な発明だ。/Le téléphone est une invention formidable./Denwa wa idai na hatsumei da. ; 彼は新しい機械を発明した。/Il a inventé une nouvelle machine./Kare wa atarashii kikai o hatsumei shita. ; その発明は世界を変えた。/Cette invention a changé le monde./Sono hatsumei wa sekai o kaeta.
+@v ; 外す ; はずす ; enlever / retirer / manquer (rater) ; 眼鏡を外した。/J'ai enlevé mes lunettes./Megane o hazushita. ; ボタンを外してください。/Veuillez détacher le bouton./Botan o hazushite kudasai. ; 大事な会議を外すわけにはいかない。/Je ne peux pas manquer cette réunion importante./Daiji na kaigi o hazusu wake ni wa ikanai.
+@v ; 品 ; ひん ; élégance / article (objet) ; 彼女には品がある。/Elle a de l'élégance./Kanojo ni wa shina ga aru. ; この品物は高価だ。/Cet article est cher./Kono shinamono wa kouka da. ; 品のある話し方をする。/Il parle avec élégance./Shina no aru hanashi kata o suru.
+@v ; 一言 ; ひとこと ; un mot / quelques mots / brève remarque ; 一言だけ言わせてください。/Laissez-moi dire un seul mot./Hitokoto dake iwasete kudasai. ; 彼は一言も話さなかった。/Il n'a pas prononcé un seul mot./Kare wa hitokoto mo hanasanakatta. ; 最後に一言お願いします。/Un dernier mot pour finir, s'il vous plaît./Saigo ni hitokoto o negai shimasu.
+@v ; 一人一人 ; ひとりひとり ; un par un / chacun ; 一人一人に話を聞いた。/J'ai écouté chacun individuellement./Hitorihitori ni hanashi o kiita. ; 生徒一人一人が発表した。/Chaque élève a fait une présentation./Seito hitorihitori ga happyou shita. ; 一人一人の意見が大切だ。/L'opinion de chacun est importante./Hitorihitori no iken ga taisetsu da.
+@v ; 本物 ; ほんもの ; article authentique / le vrai / l'original ; これは本物のダイヤモンドだ。/C'est un vrai diamant./Kore wa honmono no daiyamondo da. ; 本物と偽物の違いが分からない。/Je ne fais pas la différence entre le vrai et le faux./Honmono to nisemono no chigai ga wakaranai. ; 彼の実力は本物だ。/Son talent est authentique./Kare no jitsuryoku wa honmono da.
+@v ; 本人 ; ほんにん ; la personne concernée / l'intéressé(e) / soi-même ; 本人に確認してください。/Veuillez vérifier directement avec l'intéressé./Honnin ni kakunin shite kudasai. ; それは本人の意見だ。/C'est l'avis de la personne concernée./Sore wa honnin no iken da. ; 本人がここにいます。/La personne concernée est ici./Honnin ga koko ni imasu.
+@v ; 一致 ; いっち ; accord / concordance / coïncidence ; 意見が一致した。/Nos avis se sont accordés./Iken ga itchi shita. ; 二人の証言は一致している。/Les témoignages des deux personnes concordent./Futari no shougen wa itchi shite iru. ; 全員一致で決定した。/La décision a été prise à l'unanimité./Zen'in itchi de kettei shita.
+@v ; 一時 ; いちじ ; une heure ; 一時に会いましょう。/Retrouvons-nous à une heure./Ichiji ni aimashou. ; 一時的な問題だった。/C'était un problème temporaire./Ichiji tekina mondai datta. ; 一時、雨が止んだ。/La pluie s'est arrêtée un moment./Ichiji, ame ga yanda.
+@v ; 意外 ; いがい ; inattendu / surprenant ; 結果は意外だった。/Le résultat était inattendu./Kekka wa igai datta. ; 彼は意外に優しい。/Il est étonnamment gentil./Kare wa igai ni yasashii. ; 意外な事実が分かった。/Un fait surprenant a été révélé./Igai na jijitsu ga wakatta.
+@v ; 一家 ; いっか ; une famille / un foyer / toute la famille ; 一家で旅行に行った。/Toute la famille est partie en voyage./Ikka de ryokou ni itta. ; 一家の主として働いている。/Je travaille en tant que chef de famille./Ikka no nushi to shite hataraite iru. ; その一家は仲が良い。/Cette famille est très unie./Sono ikka wa naka ga yoi.
+@v ; 今に ; いまに ; bientôt / d'ici peu ; 今に分かるだろう。/Tu comprendras bientôt./Ima ni wakarudarou. ; 今に後悔するよ。/Tu vas bientôt le regretter./Ima ni koukai suru yo. ; 今に成功してみせる。/Je réussirai, tu verras, avant longtemps./Ima ni seikou shite miseru.
+@v ; 今にも ; いまにも ; à tout moment / sur le point de ; 今にも雨が降りそうだ。/Il semble qu'il va pleuvoir d'un instant à l'autre./Ima ni mo ame ga furi sou da. ; 彼は今にも泣きそうだった。/Il avait l'air sur le point de pleurer./Kare wa ima ni mo naki sou datta. ; 橋が今にも壊れそうだ。/Le pont a l'air prêt à s'effondrer./Hashi ga ima ni mo koware sou da.
+@v ; 一般 ; いっぱん ; général / ordinaire / commun / moyen ; 一般的な意見を聞きたい。/Je veux entendre l'avis général./Ippan tekina iken o kikitai. ; これは一般の人には難しい。/C'est difficile pour le grand public./Kore wa ippan no hito ni wa muzukashii. ; 一般に、夏は暑い。/En général, l'été est chaud./Ippan ni, natsu wa atsui.
+@v ; 一方 ; いっぽう ; d'un côté / une direction / d'autre part ; 彼は忙しい一方で、幸せそうだ。/Il est occupé, mais en même temps il a l'air heureux./Kare wa isogashii ippou de, shiawase sou da. ; 一方の意見も聞くべきだ。/Il faut aussi écouter l'autre point de vue./Ippou no iken mo kikubekida. ; 物価は上がる一方だ。/Les prix ne font qu'augmenter./Bukka wa agaru ippou da.
+@v ; 一生 ; いっしょう ; toute une vie / la vie entière / une génération ; 一生忘れない。/Je ne l'oublierai jamais de toute ma vie./Isshou wasurenai. ; 彼女は一生独身だった。/Elle est restée célibataire toute sa vie./Kanojo wa isshou dokushin datta. ; これは一生に一度の機会だ。/C'est une occasion unique dans une vie./Kore wa isshou ni ichi do no kikai da.
+@v ; 一種 ; いっしゅ ; une espèce / une sorte / une variété ; これは一種の病気だ。/C'est une sorte de maladie./Kore wa isshu no byouki da. ; 彼の態度は一種の反抗だ。/Son attitude est une forme de rébellion./Kare no taido wa isshu no hankou da. ; それは一種の芸術だ。/C'est une forme d'art en soi./Sore wa isshu no geijutsu da.
+@v ; 一瞬 ; いっしゅん ; un instant / un moment ; 一瞬、何が起きたか分からなかった。/Pendant un instant, je n'ai pas compris ce qui s'était passé./Isshun, nan ga okita ka wakaranakatta. ; 彼女は一瞬ためらった。/Elle a hésité un court instant./Kanojo wa isshun tameratta. ; それは一瞬の出来事だった。/C'était l'affaire d'un instant./Sore wa isshun no dekigoto datta.
+@v ; 一層 ; いっそう ; encore plus / d'autant plus / une seule couche ; 彼女は一層美しくなった。/Elle est devenue encore plus belle./Kanojo wa issou utsukushiku natta. ; 努力すれば一層良くなる。/Si on fait des efforts, ce sera encore mieux./Doryoku sureba issou yoku naru. ; 雨で気温は一層下がった。/Avec la pluie, la température a encore baissé./Ame de kion wa issou sagatta.
+@v ; 一体 ; いったい ; (mais) enfin / (pourquoi) diable ; これは一体どういうことですか。/Mais qu'est-ce que ça signifie, enfin ?/Kore wa ittai dou iu koto desu ka. ; 一体何が起こったのか。/Que diable s'est-il passé ?/Ittai nan ga okotta no ka. ; 彼は一体誰なのか分からない。/Je ne sais absolument pas qui il est./Kare wa ittai darena no ka wakaranai.
+@v ; 所謂 ; いわゆる ; ce qu'on appelle / le soi-disant / pour ainsi dire ; 彼はいわゆる天才だ。/C'est ce qu'on appelle un génie./Kare wa iwayuru tensai da. ; これがいわゆる都市伝説だ。/C'est ce qu'on appelle une légende urbaine./Kore ga iwayuru toshi densetsu da. ; いわゆる普通の生活を送りたい。/Je veux mener ce qu'on appelle une vie normale./Iwayuru futsuu no seikatsu o okuritai.
+@v ; 邪魔 ; じゃま ; gêne / obstacle / dérangement ; すみません、お邪魔します。/Excusez-moi, je vous dérange./Sumimasen, o jama shimasu. ; 荷物が邪魔だ。/Les bagages sont gênants./Nimotsu ga jama da. ; 邪魔をしないでください。/Ne me dérangez pas, s'il vous plaît./Jama o shinaide kudasai.
+@v ; 化学 ; かがく ; chimie ; 化学の実験をした。/J'ai fait une expérience de chimie./Kagaku no jikken o shita. ; 化学は得意な科目だ。/La chimie est une matière où je suis doué./Kagaku wa tokui na kamoku da. ; この製品は化学物質を含む。/Ce produit contient des substances chimiques./Kono seihin wa kagaku busshitsu o fukumu.
+@v ; 会 ; かい ; réunion / assemblée / association / club ; 明日、送別会がある。/Il y a une fête d'adieu demain./Asu, soubetsu kai ga aru. ; 同窓会に参加した。/J'ai participé à une réunion d'anciens élèves./Dousou kai ni sanka shita. ; 会の準備をしている。/Je prépare la réunion./Kai no junbi o shite iru.
+@v ; 会員 ; かいいん ; membre ; このクラブの会員です。/Je suis membre de ce club./Kono kurabu no kaiin desu. ; 会員になると割引がある。/Il y a une réduction pour les membres./Kaiin ni naruto waribiki ga aru. ; 新しい会員を募集している。/On recrute de nouveaux membres./Atarashii kaiin o boshuu shite iru.
+@v ; 海外 ; かいがい ; étranger / outre-mer / à l'étranger ; 海外に住んでみたい。/J'aimerais vivre à l'étranger./Kaigai ni sunde mitai. ; 彼は海外出張が多い。/Il fait souvent des voyages d'affaires à l'étranger./Kare wa kaigai shutchou ga ooi. ; 海外旅行が好きだ。/J'aime voyager à l'étranger./Kaigai ryokou ga suki da.
+@v ; 会合 ; かいごう ; réunion / rassemblement / assemblée ; 来週、会合が開かれる。/Une réunion aura lieu la semaine prochaine./Raishuu, kaigou ga hirakareru. ; 会合に出席した。/J'ai assisté à la réunion./Kaigou ni shusseki shita. ; 重要な会合が中止になった。/Une réunion importante a été annulée./Juuyou na kaigou ga chuushi ni natta.
+@v ; 会計 ; かいけい ; comptabilité / addition (note) / trésorier ; 会計をお願いします。/L'addition, s'il vous plaît./Kaikei o o negai shimasu. ; 彼女は会計の仕事をしている。/Elle travaille dans la comptabilité./Kanojo wa kaikei no shigoto o shite iru. ; 会計を担当している。/Je suis en charge de la comptabilité./Kaikei o tantou shite iru.
+@v ; 開始 ; かいし ; début / commencement / lancement ; 会議は九時に開始する。/La réunion commence à neuf heures./Kaigi wa kyuu ji ni kaishi suru. ; 工事が開始された。/Les travaux ont commencé./Kouji ga kaishi sareta. ; 試合開始まであと十分だ。/Il reste dix minutes avant le début du match./Shiai kaishi made ato juubun da.
+@v ; 科目 ; かもく ; matière (scolaire) / cursus / cours ; 好きな科目は数学です。/Ma matière préférée est les mathématiques./Suki na kamoku wa suugaku desu. ; 選択科目を決めた。/J'ai choisi mes matières optionnelles./Sentaku kamoku o kimeta. ; 苦手な科目がある。/J'ai une matière où je suis mauvais./Nigate na kamoku ga aru.
+@v ; 権利 ; けんり ; droit / privilège ; 誰にでも投票する権利がある。/Tout le monde a le droit de voter./Dare nide mo touhyou suru kenri ga aru. ; 権利と義務は表裏一体だ。/Les droits et les devoirs vont de pair./Kenri to gimu wa hyouri ittai da. ; 彼はその権利を主張した。/Il a revendiqué ce droit./Kare wa sono kenri o shuchou shita.
+@v ; 基本 ; きほん ; base / fondement / fondamentaux ; 基本を身につけることが大切だ。/Il est important d'acquérir les bases./Kihon o mi ni tsukeru koto ga taisetsu da. ; これは基本的なルールだ。/C'est une règle fondamentale./Kore wa kihon tekina ruuru da. ; 基本から学び直した。/J'ai réappris depuis les bases./Kihon kara manabinaoshita.
+@v ; 記事 ; きじ ; article / reportage / compte rendu ; 新聞の記事を読んだ。/J'ai lu un article de journal./Shinbun no kiji o yonda. ; 面白い記事を見つけた。/J'ai trouvé un article intéressant./Omoshiroi kiji o mitsuketa. ; この記事は間違っている。/Cet article est erroné./Kono kiji wa machigatte iru.
+@v ; 気味 ; きみ ; sensation / impression / tendance ; 少し風邪気味だ。/J'ai un peu l'impression d'avoir un rhume./Sukoshi kaze kimi da. ; 彼は疲れ気味だった。/Il avait l'air un peu fatigué./Kare wa tsukare kimi datta. ; それは不気味な話だ。/C'est une histoire troublante./Sore wa fu kimi na hanashi da.
+@v ; 記念 ; きねん ; commémoration / célébration / souvenir ; 結婚記念日を祝った。/Nous avons fêté notre anniversaire de mariage./Kekkon kinen hi o iwatta. ; 記念写真を撮った。/J'ai pris une photo souvenir./Kinen shashin o totta. ; これは記念品です。/C'est un objet commémoratif./Kore wa kinen hindesu.
+@v ; 気に入る ; きにいる ; aimer / apprécier / se prendre d'affection pour ; このデザインが気に入った。/J'ai aimé ce design./Kono dezain ga ki ni haitta. ; 彼女はそのプレゼントを気に入った。/Elle a apprécié ce cadeau./Kanojo wa sono purezento o ki ni haitta. ; 新しい家が気に入っている。/J'apprécie ma nouvelle maison./Atarashii ie ga ki ni haitte iru.
+@v ; 記入 ; きにゅう ; saisie / remplissage (formulaire) ; 名前をここに記入してください。/Veuillez inscrire votre nom ici./Namae o koko ni kinyuu shite kudasai. ; 用紙に必要事項を記入した。/J'ai rempli les informations nécessaires sur le formulaire./Youshi ni hitsuyou jikou o kinyuu shita. ; 記入漏れがあった。/Il y avait une omission dans le formulaire./Kinyuu more ga atta.
+@v ; 記憶 ; きおく ; mémoire / souvenir ; その日の記憶がはっきりしている。/Je me souviens clairement de ce jour-là./Sono hi no kioku ga hakkiri shite iru. ; 記憶力が良い。/J'ai une bonne mémoire./Kioku ryoku ga yoi. ; その事件の記憶はない。/Je n'ai aucun souvenir de cet incident./Sono jiken no kioku wa nai.
+@v ; 記者 ; きしゃ ; reporter / journaliste ; 記者が質問をした。/Le journaliste a posé une question./Kisha ga shitsumon o shita. ; 彼女は新聞記者だ。/Elle est journaliste./Kanojo wa shinbun kisha da. ; 記者会見が行われた。/Une conférence de presse a eu lieu./Kisha kaiken ga okonawareta.
+@v ; 期待 ; きたい ; attente / espérance / anticipation ; 彼に期待している。/Je compte sur lui./Kare ni kitai shite iru. ; 期待を裏切りたくない。/Je ne veux pas décevoir les attentes./Kitai o uragiritaku nai. ; 大きな期待を抱いている。/J'ai de grandes attentes./Ookina kitai o idaite iru.
+@v ; 国家 ; こっか ; État / pays / nation ; 国家の安全を守る。/Protéger la sécurité de l'État./Kokka no anzen o mamoru. ; これは国家の重要な決定だ。/C'est une décision importante pour l'État./Kore wa kokka no juuyou na kettei da. ; 国家間の関係が悪化した。/Les relations entre les États se sont dégradées./Kokka kan no kankei ga akka shita.
+@v ; 国会 ; こっかい ; Diète (parlement japonais) / assemblée législative ; 国会で新しい法律が決まった。/Une nouvelle loi a été adoptée au Parlement./Kokkai de atarashii houritsu ga kimatta. ; 国会議員に会った。/J'ai rencontré un député./Kokkai giin ni atta. ; 国会が開かれる。/La Diète se réunit./Kokkai ga hirakareru.
+@v ; 国境 ; こっきょう ; frontière (nationale) ; 二つの国の国境を越えた。/J'ai traversé la frontière entre les deux pays./Futa tsu no kuni no kokkyou o koeta. ; 国境近くの町に住んでいる。/Je vis dans une ville proche de la frontière./Kokkyou chikaku no machi ni sunde iru. ; 国境が閉鎖された。/La frontière a été fermée./Kokkyou ga heisa sareta.
+@v ; 国語 ; こくご ; langue nationale ; 国語の授業が好きだ。/J'aime les cours de langue nationale./Kokugo no jugyou ga suki da. ; 国語辞典を使った。/J'ai utilisé un dictionnaire de langue japonaise./Kokugo jiten o tsukatta. ; 国語のテストを受けた。/J'ai passé un examen de japonais./Kokugo no tesuto o uketa.
+@v ; 国民 ; こくみん ; peuple (d'un pays) / nation / citoyen ; 国民の意見を聞くべきだ。/Il faut écouter l'opinion du peuple./Kokumin no iken o kikubekida. ; すべての国民に権利がある。/Tous les citoyens ont des droits./Subete no kokumin ni kenri ga aru. ; 国民は変化を望んでいる。/La population souhaite du changement./Kokumin wa henka o nozonde iru.
+@v ; 今後 ; こんご ; désormais / à l'avenir ; 今後の予定を確認した。/J'ai vérifié le programme à venir./Kongo no yotei o kakunin shita. ; 今後も頑張ります。/Je continuerai à faire de mon mieux à l'avenir./Kongo mo ganbarimasu. ; 今後どうするか考えている。/Je réfléchis à ce que je vais faire désormais./Kongo dou suru ka kangaete iru.
+@v ; 今回 ; こんかい ; cette fois / actuellement ; 今回は失敗した。/Cette fois-ci, j'ai échoué./Konkai wa shippai shita. ; 今回のテストは難しかった。/L'examen de cette fois était difficile./Konkai no tesuto wa muzukashikatta. ; 今回の旅行は楽しかった。/Le voyage de cette fois était agréable./Konkai no ryokou wa tanoshikatta.
+@v ; 今日 ; こんにち ; aujourd'hui / de nos jours ; 今日は天気がいい。/Aujourd'hui, il fait beau./Kyou wa tenki ga ii. ; 今日の若者はスマホをよく使う。/Les jeunes d'aujourd'hui utilisent beaucoup leur smartphone./Kyou no wakamono wa sumaho o yoku tsukau. ; 今日に至るまで、彼と会っていない。/Jusqu'à aujourd'hui, je ne l'ai pas revu./Kyou ni itaru made, kare to atte inai.
+@v ; 転ぶ ; ころぶ ; tomber / trébucher ; 道で転んでしまった。/Je suis tombé dans la rue./Michi de koronde shimatta. ; 子供が転んで泣いている。/L'enfant est tombé et pleure./Kodomo ga koronde naite iru. ; 雪で滑って転びそうになった。/J'ai failli tomber en glissant sur la neige./Yuki de subette korobi sou ni natta.
+@v ; 高速 ; こうそく ; haute vitesse / rapide / express ; 高速道路を使って行った。/J'y suis allé en empruntant l'autoroute./Kousoku douro o tsukatte itta. ; 高速バスに乗った。/J'ai pris un bus express./Kousoku basu ni notta. ; 高速で処理できるコンピューターだ。/C'est un ordinateur qui peut traiter les données à grande vitesse./Kousoku de shori dekiru konpyuutaa da.
+@v ; 訓練 ; くんれん ; entraînement / exercice / discipline ; 毎日訓練を続けている。/Je poursuis mon entraînement tous les jours./Mainichi kunren o tsuzukete iru. ; 消防訓練が行われた。/Un exercice d'incendie a eu lieu./Shoubou kunren ga okonawareta. ; 厳しい訓練を受けた。/J'ai suivi un entraînement rigoureux./Kibishii kunren o uketa.
+@v ; 教科書 ; きょうかしょ ; manuel scolaire ; 教科書を忘れてしまった。/J'ai oublié mon manuel scolaire./Kyouka sho o wasurete shimatta. ; 新しい教科書を買った。/J'ai acheté un nouveau manuel./Atarashii kyouka sho o katta. ; 教科書に載っていない話をした。/J'ai parlé de quelque chose qui n'est pas dans les manuels./Kyouka sho ni notte inai hanashi o shita.
+@v ; 協力 ; きょうりょく ; coopération / collaboration ; みんなで協力しよう。/Coopérons tous ensemble./Minna de kyouryoku shiyou. ; 彼の協力に感謝している。/Je suis reconnaissant de sa coopération./Kare no kyouryoku ni kansha shite iru. ; 協力してこの問題を解決した。/Nous avons résolu ce problème en coopérant./Kyouryoku shite kono mondai o kaiketsu shita.
+@v ; 強力 ; きょうりょく ; puissant / fort / robuste ; 強力な支援を受けた。/J'ai reçu un soutien puissant./Kyouryoku na shien o uketa. ; これは強力な薬だ。/C'est un médicament puissant./Kore wa kyouryoku na kusuri da. ; 強力なチームを作りたい。/Je veux créer une équipe solide./Kyouryoku na chiimu o tsukuritai.
+@v ; 吸収 ; きゅうしゅう ; absorption / aspiration ; 植物は水を吸収する。/Les plantes absorbent l'eau./Shokubutsu wa mizu o kyuushuu suru. ; 新しい知識をすぐに吸収した。/J'ai rapidement assimilé de nouvelles connaissances./Atarashii chishiki o sugu ni kyuushuu shita. ; この布は水をよく吸収する。/Ce tissu absorbe bien l'eau./Kono nuno wa mizu o yoku kyuushuu suru.
+@v ; 学ぶ ; まなぶ ; étudier / apprendre (en profondeur) ; 大学で経済学を学んでいる。/J'étudie l'économie à l'université./Daigaku de keizai gaku o manande iru. ; 失敗から多くを学んだ。/J'ai beaucoup appris de mes échecs./Shippai kara ooku o mananda. ; 彼から日本語を学んだ。/J'ai appris le japonais grâce à lui./Kare kara nippon go o mananda.
+@v ; 満足 ; まんぞく ; satisfaction / contentement / suffisant ; この結果に満足している。/Je suis satisfait de ce résultat./Kono kekka ni manzoku shite iru. ; 彼は満足そうな顔をした。/Il avait l'air satisfait./Kare wa manzoku sou na kao o shita. ; 満足のいくサービスだった。/C'était un service satisfaisant./Manzoku no iku saabisu datta.
+@v ; 味方 ; みかた ; allié / partisan / soutien ; 彼はいつも私の味方だ。/Il est toujours de mon côté./Kare wa itsu mo watakushi no mikata da. ; 味方を裏切ってはいけない。/Il ne faut pas trahir ses alliés./Mikata o uragitte wa ikenai. ; 彼女は私の一番の味方だ。/Elle est ma plus grande alliée./Kanojo wa watakushi no ichi ban no mikata da.
+@v ; 入場 ; にゅうじょう ; entrée / admission ; 入場は無料です。/L'entrée est gratuite./Nyuujou wa muryou desu. ; 入場するのに列に並んだ。/J'ai fait la queue pour entrer./Nyuujou suru no ni retsu ni naranda. ; 入場券を購入した。/J'ai acheté un billet d'entrée./Nyuujou ken o kounyuu shita.
+@v ; 収める ; おさめる ; fournir / verser / offrir / payer ; 会社は利益を収めた。/L'entreprise a réalisé des bénéfices./Kaisha wa rieki o osameta. ; 税金を収める義務がある。/Il y a une obligation de payer les impôts./Zeikin o osameru gimu ga aru. ; 見事な成果を収めた。/Il a obtenu des résultats remarquables./Migoto na seika o osameta.
+@v ; 連続 ; れんぞく ; continuation / succession / série ; 三日連続で雨が降った。/Il a plu trois jours de suite./Mi kka renzoku de ame ga futta. ; 連続ドラマを見ている。/Je regarde une série télévisée./Renzoku dorama o mite iru. ; 彼は連続で優勝した。/Il a remporté la victoire d'affilée./Kare wa renzoku de yuushou shita.
+@v ; 利益 ; りえき ; profit / bénéfice / gain ; この取引で大きな利益を得た。/Cette transaction a rapporté un gros profit./Kono torihiki de ookina rieki o eta. ; 会社の利益が増えた。/Les bénéfices de l'entreprise ont augmenté./Kaisha no rieki ga fueta. ; 双方の利益を考える。/Je prends en compte les intérêts des deux parties./Souhou no rieki o kangaeru.
+@v ; 留学 ; りゅうがく ; études à l'étranger ; 来年アメリカに留学する。/L'année prochaine, je pars étudier aux États-Unis./Rainen amerika ni ryuugaku suru. ; 留学して視野が広がった。/Étudier à l'étranger a élargi mes horizons./Ryuugaku shite shiya ga hirogatta. ; 留学の準備をしている。/Je me prépare pour partir étudier à l'étranger./Ryuugaku no junbi o shite iru.
+@v ; 左右 ; さゆう ; gauche et droite ; 左右を確認して渡った。/J'ai vérifié à gauche et à droite avant de traverser./Sayuu o kakunin shite watatta. ; 天気が試合を左右する。/Le temps influence le match./Tenki ga shiai o sayuu suru. ; 左右対称のデザインだ。/C'est un design symétrique./Sayuu taishou no dezain da.
+@v ; 成長 ; せいちょう ; croissance / développement ; 子供の成長は早い。/Les enfants grandissent vite./Kodomo no seichou wa hayai. ; 会社は急速に成長した。/L'entreprise s'est développée rapidement./Kaisha wa kyuusoku ni seichou shita. ; 精神的に成長した。/J'ai mûri sur le plan personnel./Seishin tekini seichou shita.
+@v ; 刺激 ; しげき ; stimulus / incitation / excitation / provocation ; 新しい環境は刺激になる。/Un nouvel environnement est stimulant./Atarashii kankyou wa shigeki ni naru. ; 辛い食べ物は胃を刺激する。/La nourriture épicée irrite l'estomac./Tsurai tabemono wa i o shigeki suru. ; その映画は刺激的だった。/Ce film était captivant./Sono eiga wa shigeki tekidatta.
+@v ; 進学 ; しんがく ; poursuite d'études (entrée dans un établissement supérieur) ; 大学に進学することにした。/J'ai décidé de poursuivre mes études à l'université./Daigaku ni shingaku suru koto ni shita. ; 進学のために勉強している。/J'étudie en vue de poursuivre mes études./Shingaku no tame ni benkyou shite iru. ; 彼は海外の大学へ進学した。/Il a poursuivi ses études dans une université étrangère./Kare wa kaigai no daigaku e shingaku shita.
+@v ; 使用 ; しよう ; usage / emploi / utilisation ; このトイレは使用中です。/Ces toilettes sont occupées./Kono toire wa shiyou chuudesu. ; 個人情報の使用に注意する。/Je fais attention à l'utilisation des données personnelles./Kojin jouhou no shiyou ni chuui suru. ; この道具の使用方法を教えてください。/Apprenez-moi comment utiliser cet outil./Kono dougu no shiyou houhou o oshiete kudasai.
+@v ; 証明 ; しょうめい ; preuve / vérification / certification ; 身分証明書を見せてください。/Veuillez montrer une pièce d'identité./Mibun shoumei sho o misete kudasai. ; 彼の無実を証明した。/Son innocence a été prouvée./Kare no mujitsu o shoumei shita. ; それを証明するのは難しい。/Il est difficile de le prouver./Sore o shoumei suru no wa muzukashii.
+@v ; 招待 ; しょうたい ; invitation ; パーティーに招待された。/J'ai été invité à une fête./Paateii ni shoutai sareta. ; 招待状を送った。/J'ai envoyé une carte d'invitation./Shoutai jou o okutta. ; 彼を夕食に招待した。/Je l'ai invité à dîner./Kare o yuushoku ni shoutai shita.
+@v ; 集中 ; しゅうちゅう ; concentration / centralisation ; 勉強に集中できない。/Je n'arrive pas à me concentrer sur mes études./Benkyou ni shuuchuu dekinai. ; 集中力が続かない。/Ma concentration ne dure pas./Shuuchuu ryoku ga tsuzukanai. ; 仕事に集中している。/Je suis concentré sur mon travail./Shigoto ni shuuchuu shite iru.
+@v ; 収穫 ; しゅうかく ; récolte / moisson / fruits (du travail) ; 秋は米の収穫の季節だ。/L'automne est la saison de la récolte du riz./Aki wa bei no shuukaku no kisetsu da. ; 今年の収穫は少なかった。/La récolte de cette année a été faible./Kotoshi no shuukaku wa sukunakatta. ; 収穫を祝う祭りがある。/Il y a une fête pour célébrer la récolte./Shuukaku o iwau matsuri ga aru.
+@v ; 徹夜 ; てつや ; nuit blanche (veiller toute la nuit) ; レポートのために徹夜した。/J'ai veillé toute la nuit pour finir mon rapport./Repooto no tame ni tetsuya shita. ; 徹夜は体に悪い。/Veiller toute la nuit est mauvais pour la santé./Tetsuya wa karada ni warui. ; 試験前に徹夜で勉強した。/J'ai étudié toute la nuit avant l'examen./Shiken mae ni tetsuya de benkyou shita.
+@v ; 取れる ; とれる ; se détacher / s'enlever / pouvoir être obtenu ; ボタンが取れてしまった。/Le bouton s'est détaché./Botan ga torete shimatta. ; 汚れがなかなか取れない。/La tache ne part pas facilement./Yogore ga nakanaka torenai. ; この魚はたくさん取れる。/On peut pêcher beaucoup de ce poisson./Kono sakana wa takusan toreru.
+@v ; 取り上げる ; とりあげる ; ramasser / saisir / prendre ; 先生が本を取り上げた。/Le professeur a confisqué le livre./Sensei ga hon o toriageta. ; このテーマをニュースで取り上げた。/Ce sujet a été traité aux informations./Kono teema o nyuusu de toriageta. ; 意見を取り上げてくれてありがとう。/Merci d'avoir pris en compte mon avis./Iken o toriagete kurete arigatou.
+@v ; 通学 ; つうがく ; trajet vers l'école / aller à l'école ; 電車で通学している。/Je vais à l'école en train./Densha de tsuugaku shite iru. ; 通学に一時間かかる。/Le trajet vers l'école prend une heure./Tsuugaku ni ichi jikan kakaru. ; 自転車で通学する学生が多い。/Beaucoup d'élèves vont à l'école à vélo./Jiten sha de tsuugaku suru gakusei ga ooi.
+@v ; 受け取る ; うけとる ; recevoir / comprendre (interpréter) ; 荷物を受け取った。/J'ai reçu le colis./Nimotsu o uketotta. ; メールを受け取りましたか。/Avez-vous reçu l'e-mail ?/Meeru o uketorimashita ka. ; 彼の言葉を素直に受け取った。/J'ai pris ses paroles au pied de la lettre./Kare no kotoba o sunao ni uketotta.
+@v ; 運転 ; うんてん ; conduite / fonctionnement ; 車の運転が好きだ。/J'aime conduire./Kuruma no unten ga suki da. ; 彼は運転が上手だ。/Il conduit bien./Kare wa unten ga jouzu da. ; 安全運転を心がけている。/Je veille à conduire prudemment./Anzen unten o kokorogakete iru.
+@v ; 売れる ; うれる ; bien se vendre ; この本はよく売れている。/Ce livre se vend bien./Kono hon wa yoku urete iru. ; 新商品が飛ぶように売れた。/Le nouveau produit s'est vendu comme des petits pains./Shin shouhin ga tobu you ni ureta. ; あまり売れなかった。/Ça ne s'est pas très bien vendu./Amari urenakatta.
+@v ; 分ける ; わける ; diviser / séparer / partager ; ケーキを三つに分けた。/J'ai divisé le gâteau en trois./Keeki o mi ttsu ni waketa. ; グループを分ける必要がある。/Il faut diviser les groupes./Guruupu o wakeru hitsuyou ga aru. ; 意見が二つに分かれた。/Les avis se sont partagés en deux./Iken ga futa tsu ni wakareta.
+@v ; 悪口 ; わるぐち ; médisance / insulte / dire du mal ; 人の悪口を言ってはいけない。/Il ne faut pas médire des autres./Hito no waruguchi o itte wa ikenai. ; 彼は陰で悪口を言われている。/On dit du mal de lui en cachette./Kare wa kage de waruguchi o iwarete iru. ; 悪口ばかり言う人は嫌われる。/Les gens qui ne font que critiquer sont mal aimés./Waruguchi bakari iu hito wa kirawareru.
+@v ; 輸入 ; ゆにゅう ; importation ; この車は輸入品だ。/Cette voiture est un produit importé./Kono kuruma wa yunyuu hinda. ; 日本は多くの食料を輸入している。/Le Japon importe beaucoup de nourriture./Nippon wa ooku no shokuryou o yunyuu shite iru. ; 輸入が増加している。/Les importations augmentent./Yunyuu ga zouka shite iru.
+@v ; 輸出 ; ゆしゅつ ; exportation ; この会社は自動車を輸出している。/Cette entreprise exporte des voitures./Kono kaisha wa jidou sha o yushutsu shite iru. ; 輸出量が減少した。/Le volume des exportations a diminué./Yushutsu ryou ga genshou shita. ; 農産物を海外に輸出する。/Exporter des produits agricoles à l'étranger./Nousan butsu o kaigai ni yushutsu suru.
+@v ; 急激 ; きゅうげき ; soudain / brusque / radical ; 気温が急激に下がった。/La température a baissé brusquement./Kion ga kyuugeki ni sagatta. ; 急激な変化に驚いた。/J'ai été surpris par un changement soudain./Kyuugeki na henka ni odoroita. ; 売り上げが急激に伸びた。/Les ventes ont augmenté de façon spectaculaire./Uriage ga kyuugeki ni nobita.
+@v ; 急速 ; きゅうそく ; rapide (ex. progrès) ; 技術は急速に進歩している。/La technologie progresse rapidement./Gijutsu wa kyuusoku ni shinpo shite iru. ; 急速な発展を遂げた。/Il a connu un développement rapide./Kyuusoku na hatten o togeta. ; 人口が急速に減っている。/La population diminue rapidement./Jinkou ga kyuusoku ni hette iru.
+@v ; 真面目 ; まじめ ; sérieux / consciencieux ; 彼は真面目な学生だ。/C'est un étudiant sérieux./Kare wa majime na gakusei da. ; 真面目に仕事をしている。/Je travaille sérieusement./Majime ni shigoto o shite iru. ; もっと真面目に考えてください。/Réfléchissez-y plus sérieusement, s'il vous plaît./Motto majime ni kangaete kudasai.
+@v ; 真っ赤 ; まっか ; rouge vif / écarlate / cramoisi (visage) ; 彼女の顔は真っ赤になった。/Son visage est devenu tout rouge./Kanojo no kao wa makka ni natta. ; 真っ赤な夕日を見た。/J'ai vu un coucher de soleil rouge écarlate./Makka na yuuhi o mita. ; リンゴが真っ赤に熟した。/La pomme a mûri jusqu'à devenir bien rouge./Ringo ga makka ni jukushita.
+@v ; 明確 ; めいかく ; clair / précis / net / défini ; 明確な答えが欲しい。/Je veux une réponse claire./Meikaku na kotae ga hoshii. ; 目標を明確にする。/Je clarifie mon objectif./Mokuhyou o meikaku ni suru. ; 説明が明確でなかった。/L'explication n'était pas claire./Setsumei ga meikaku de nakatta.
+@v ; 熱心 ; ねっしん ; enthousiaste / ardent / assidu ; 彼は熱心に勉強している。/Il étudie avec assiduité./Kare wa nesshin ni benkyou shite iru. ; 熱心な先生に感謝している。/Je suis reconnaissant envers ce professeur dévoué./Nesshin na sensei ni kansha shite iru. ; 熱心に話を聞いた。/J'ai écouté attentivement./Nesshin ni hanashi o kiita.
+@v ; 利口 ; りこう ; malin / intelligent / astucieux ; この犬はとても利口だ。/Ce chien est très intelligent./Kono inu wa totemo rikou da. ; 彼は利口なやり方を選んだ。/Il a choisi une méthode astucieuse./Kare wa rikou na yari kata o eranda. ; 利口ぶるのはやめなさい。/Arrête de faire le malin./Rikou buru no wa yame nasai.
+@v ; 新鮮 ; しんせん ; frais ; 新鮮な野菜を買った。/J'ai acheté des légumes frais./Shinsen na yasai o katta. ; 新鮮な空気を吸いたい。/Je veux respirer de l'air frais./Shinsen na kuuki o suitai. ; この魚はとても新鮮だ。/Ce poisson est très frais./Kono sakana wa totemo shinsen da.
+@v ; 上手い ; うまい ; habile / doué / délicieux ; このラーメンはうまい。/Ce ramen est délicieux./Kono raamen wa umai. ; 彼はギターがうまい。/Il joue bien de la guitare./Kare wa gitaa ga umai. ; うまい話には気をつけろ。/Méfie-toi des offres trop belles pour être vraies./Umai hanashi ni wa ki o tsukero.
+@v ; 宜しい ; よろしい ; (poli) ça va / d'accord / bien ; それでよろしいですか。/Est-ce que ça vous convient ?/Sore de yoroshii desu ka. ; よろしければ、こちらへどうぞ。/Si cela vous convient, par ici s'il vous plaît./Yoroshikereba, kochira e douzo. ; よろしくお願いします。/Je compte sur vous, merci d'avance./Yoroshiku o negai shimasu.
+@v ; 有利 ; ゆうり ; avantageux / favorable / profitable ; この条件は私たちに有利だ。/Ces conditions nous sont favorables./Kono jouken wa watakushi tachi ni yuuri da. ; 有利な立場にいる。/Je suis dans une position avantageuse./Yuuri na tachiba ni iru. ; 経験があると有利だ。/Avoir de l'expérience est un avantage./Keiken ga aru to yuuri da.
+@v ; 随分 ; ずいぶん ; très / extrêmement / considérablement ; 随分久しぶりですね。/Ça fait vraiment longtemps./Zuibun hisashi buridesu ne. ; 随分暑くなってきた。/Il commence à faire vraiment chaud./Zuibun atsuku natte kita. ; 彼は随分変わった。/Il a beaucoup changé./Kare wa zuibun kawatta.
+@v ; 早産 ; そうざん ; accouchement prématuré ; 彼女は早産だった。/Elle a accouché prématurément./Kanojo wa souzan datta. ; 早産のリスクを心配している。/Elle s'inquiète du risque d'accouchement prématuré./Souzan no risuku o shinpai shite iru. ; 医者は早産の兆候を確認した。/Le médecin a vérifié les signes d'un accouchement prématuré./Isha wa souzan no choukou o kakunin shita.
+@v ; 初産 ; ういざん ; premier accouchement ; 彼女は初産で緊張している。/Elle est nerveuse car c'est son premier accouchement./Kanojo wa shosan de kinchou shite iru. ; 初産は時間がかかることが多い。/Le premier accouchement prend souvent du temps./Shosan wa jikan ga kakaru koto ga ooi. ; 初産の年齢が上がっている。/L'âge du premier accouchement augmente./Shosan no nenrei ga agatte iru.
+@v ; ピリピリ ; ピリピリ ; tendu / à cran (onomatopée) ; 職場の雰囲気がピリピリしている。/L'ambiance au travail est tendue./Shokuba no fun'iki ga piripiri shite iru. ; 彼女は最近ピリピリしている。/Elle est à cran ces derniers temps./Kanojo wa saikin piripiri shite iru. ; 試験前はみんなピリピリする。/Avant les examens, tout le monde est sur les nerfs./Shiken mae wa minna piripiri suru.
+@v ; つきっきり ; つきっきり ; constamment auprès de qqn (pour s'en occuper) ; 母は病人につきっきりで看病した。/Ma mère a soigné le malade en restant constamment à ses côtés./Haha wa byounin ni tsukikkiri de kanbyou shita. ; 先生がつきっきりで教えてくれた。/Le professeur m'a enseigné en restant tout le temps avec moi./Sensei ga tsukikkiri de oshiete kureta. ; つきっきりの介護は大変だ。/S'occuper de quelqu'un en permanence est éprouvant./Tsukikkiri no kaigo wa taihen da.
+@v ; 義理の母 ; ぎりのはは ; belle-mère (mère du conjoint) ; 義理の母はとても優しい。/Ma belle-mère est très gentille./Giri no haha wa totemo yasashii. ; 義理の母と一緒に料理をした。/J'ai cuisiné avec ma belle-mère./Giri no haha to issho ni ryouri o shita. ; 義理の母の誕生日を祝った。/Nous avons fêté l'anniversaire de ma belle-mère./Giri no haha no tanjou hi o iwatta.
+@v ; 義母 ; ぎぼ ; belle-mère ; 義母は毎週電話してくる。/Ma belle-mère m'appelle chaque semaine./Gibo wa maishuu denwa shite kuru. ; 義母と買い物に行った。/Je suis allé faire les courses avec ma belle-mère./Gibo to kaimono ni itta. ; 義母の家に泊まった。/J'ai dormi chez ma belle-mère./Gibo no ie ni tomatta.
+@v ; 日頃から ; ひごろから ; habituellement / d'ordinaire ; 日頃から健康に気をつけている。/Je fais attention à ma santé au quotidien./Higoro kara kenkou ni ki o tsukete iru. ; 日頃からの努力が実を結んだ。/Les efforts habituels ont porté leurs fruits./Higoro kara no doryoku ga jitsu o musunda. ; 日頃から準備しておくべきだ。/Il faut se préparer à l'avance, de manière habituelle./Higoro kara junbi shite okubekida.
+@v ; 看護師 ; かんごし ; infirmier / infirmière ; 姉は看護師として働いている。/Ma sœur travaille comme infirmière./Ane wa kango shi to shite hataraite iru. ; 看護師に相談した。/J'ai demandé conseil à l'infirmière./Kango shi ni soudan shita. ; 看護師になるのが夢だ。/Devenir infirmière est mon rêve./Kango shi ni naru no ga yume da.
+@v ; 看護師長 ; かんごしちょう ; infirmier-chef / cadre de santé ; 彼女はこの病棟の看護師長だ。/Elle est infirmière-chef de ce service./Kanojo wa kono byoutou no kango shichou da. ; 看護師長に報告した。/J'ai fait mon rapport à l'infirmière-chef./Kango shichou ni houkoku shita. ; 看護師長の指示に従った。/J'ai suivi les instructions de l'infirmière-chef./Kango shichou no shiji ni shitagatta.
+@v ; 師長 ; しちょう ; chef infirmier (abrégé) ; 師長が新人を指導している。/Le chef infirmier forme les nouvelles recrues./Shichou ga shinjin o shidou shite iru. ; 師長に相談してから決めます。/Je déciderai après en avoir parlé avec le chef infirmier./Shichou ni soudan shite kara kimemasu. ; 師長は経験豊富だ。/Le chef infirmier a beaucoup d'expérience./Shichou wa keiken houfu da.
+@v ; 市長 ; しちょう ; maire ; 市長が新しい計画を発表した。/Le maire a annoncé un nouveau plan./Shichou ga atarashii keikaku o happyou shita. ; 彼は市長に選ばれた。/Il a été élu maire./Kare wa shichou ni erabareta. ; 市長と話す機会があった。/J'ai eu l'occasion de parler avec le maire./Shichou to hanasu kikai ga atta.
+@v ; 市役所 ; しやくしょ ; mairie / hôtel de ville ; 市役所で手続きをした。/J'ai fait des démarches à la mairie./Shi yakusho de tetsuzuki o shita. ; 市役所は九時から開いている。/La mairie est ouverte à partir de neuf heures./Shi yakusho wa kyuu ji kara hiraite iru. ; 書類を市役所に提出した。/J'ai déposé les documents à la mairie./Shorui o shi yakusho ni teishutsu shita.
+@v ; まあまあ ; まあまあ ; passable / moyen / comme ci comme ça ; 味はまあまあだった。/Le goût était correct, sans plus./Aji wa maamaa datta. ; 天気はまあまあだ。/Le temps est plutôt correct./Tenki wa maamaa da. ; 元気? まあまあかな。/« Ça va ? » « Comme ci comme ça. »/Genki? maamaa ka na.
+@v ; いきさつ ; いきさつ ; circonstances / déroulement des faits ; 事件のいきさつを説明した。/J'ai expliqué le déroulement de l'incident./Jiken no ikisatsu o setsumei shita. ; そのいきさつはよく分からない。/Je ne comprends pas bien les circonstances de cette affaire./Sono ikisatsu wa yoku wakaranai. ; いきさつを聞いて納得した。/En entendant les circonstances, j'ai compris./Ikisatsu o kiite nattoku shita.
+@v ; 恐縮 ; きょうしゅく ; confusion polie (gêne ou gratitude) ; お手数をおかけして恐縮です。/Je suis confus de vous causer du souci./O tesuu o oka keshite kyoushuku desu. ; 恐縮ですが、少しお時間よろしいですか。/Excusez-moi de vous déranger, avez-vous un instant ?/Kyoushuku desuga, sukoshi o jikan yoroshii desu ka. ; そう言っていただき、恐縮です。/Je vous suis très reconnaissant de me dire cela./Sou itte itadaki, kyoushuku desu.
+@v ; 絆 ; きずな ; lien affectif / attachement ; 家族の絆を大切にする。/Je chéris les liens familiaux./Kazoku no kizuna o taisetsu ni suru. ; 二人の絆は強い。/Le lien entre eux deux est fort./Futari no kizuna wa tsuyoi. ; 困難を通じて絆が深まった。/Les épreuves ont renforcé leur lien./Konnan o tsuujite kizuna ga fukamatta.
+@v ; 全体的に ; ぜんたいてきに ; dans l'ensemble / globalement ; 全体的に良い結果だった。/Dans l'ensemble, le résultat était bon./Zentai tekini yoi kekka datta. ; 全体的に見て、問題はなかった。/Globalement, il n'y avait pas de problème./Zentai tekini mite, mondai wa nakatta. ; 全体的に品質が向上した。/La qualité s'est globalement améliorée./Zentai tekini hinshitsu ga koujou shita.
 
 # --- GRAMMAIRE ---
-@g ; ～によると ; Selon la météo, il paraît qu'il pleuvra demain. ; 天気予報___、明日は雨らしい。 ; によると
-@g ; ～ばかり ; Mon petit frère ne fait que jouer aux jeux vidéo. ; 弟はゲーム___している。 ; ばかり
-@g ; ～わけにはいかない ; Comme j'ai un examen demain, je ne peux pas me permettre de manquer les cours. ; 明日は試験だから、休む___。 ; わけにはいかない
-@g ; ～ようにする ; Je fais en sorte de faire du sport tous les jours. ; 毎日運動する___しています。 ; ようにする
-@g ; ～たとたん ; À l'instant où j'ai ouvert la porte, le chat s'est enfui. ; ドアを開けた___、猫が逃げた。 ; とたん
-@g ; ～せいで ; À cause de la pluie, le match a été annulé. ; 雨の___、試合が中止になった。 ; せいで
-@g ; ～おかげで ; Grâce au professeur, j'ai pu réussir. ; 先生の___、合格できた。 ; おかげで
-@g ; ～に違いない ; Cette personne est sûrement le coupable. ; あの人は犯人___。 ; に違いない
-@g ; ～ない内に ; Rentrons à la maison avant qu'il ne fasse nuit. ; 暗くなら___、家に帰りましょう。 ; ない内に
-@g ; 余り～に ; J'étais tellement occupé que je n'ai même pas eu le temps de déjeuner. ; ___の忙しさに、昼ご飯を食べる暇もなかった。 ; 余り
-@g ; 中々～ない ; Je n'arrive pas du tout à mémoriser ce kanji. ; この漢字は___覚えられない。 ; 中々
-@g ; ～事だ ; Si tu veux devenir bon, il faut t'entraîner tous les jours. ; 上手になりたいなら、毎日練習する___。 ; 事だ
-@g ; (Nom)+型 ; C'est le tout dernier modèle de smartphone. ; これは最新___のスマートフォンです。 ; 型
-@g ; ～てご覧 ; Regarde donc ce panneau. ; あの看板を見___。 ; てご覧
-@g ; ～程 ; J'étais si content que j'en ai pleuré. ; 涙が出る___嬉しかった。 ; 程
-@g ; ～ば～程 ; Plus j'en mange, plus je trouve ça bon. ; 食べれば食べる___、美味しく感じる。 ; 程
-@g ; ～程～ない ; Les mathématiques ne sont pas aussi difficiles que l'anglais. ; 数学は英語___難しくない。 ; 程
-@g ; ～ばかりに ; Juste parce que je me suis levé tard, j'ai raté le train. ; 寝坊した___、電車に乗り遅れた。 ; ばかりに
-@g ; ～ばかりだ ; Les prix ne cessent d'augmenter. ; 物価は上がる___。 ; ばかりだ
-@g ; ～事はない ; Il n'y a pas besoin de s'inquiéter autant. ; そんなに心配する___。 ; 事はない
-@g ; ～と言っても ; Bien qu'on dise que c'est mon frère aîné, il n'a que deux ans de plus que moi. ; 兄だ___、二歳しか違わない。 ; と言っても
-@g ; ～に合わせて ; J'adapte mon explication au niveau de mon interlocuteur. ; 相手のレベル___、説明を変える。 ; に合わせて
-@g ; ～の姿 ; J'ai été ému de voir mon père travailler. ; 父の働く___を見て感動した。 ; 姿
-@g ; ～に比べて ; Comparée à la ville, la campagne est calme. ; 都会___、田舎は静かだ。 ; に比べて
-@g ; どんなに～ても ; Peu importe le prix, je veux acheter ça. ; ___高くても、これを買いたい。 ; どんなに
-@g ; ～かは～によって違う ; Ce qui est important dépend de chaque personne. ; 何が大切かは、人___違う。 ; によって
-@g ; ～訳だ ; Puisqu'il a vécu là-bas pendant trois ans, c'est normal qu'il soit doué en japonais. ; 三年も住んでいたのだから、日本語が上手な___。 ; 訳だ
-@g ; ～訳ではない ; Ce n'est pas que je le déteste, je suis juste occupé. ; 彼のことが嫌いな___。ただ忙しいだけだ。 ; 訳ではない
-@g ; ～だって ; Il paraît que M. Tanaka déménage le mois prochain. ; 田中さんは来月引っ越すん___。 ; だって
-@g ; ～と関係がある ; Cette recherche est étroitement liée à la médecine. ; この研究は医学と深い___。 ; 関係がある
-@g ; ～に関して ; Nous avons débattu à propos des problèmes environnementaux. ; 環境問題___、議論しました。 ; に関して
-@g ; ～に対して ; Le professeur a répondu poliment aux questions des élèves. ; 学生の質問___、先生は丁寧に答えた。 ; に対して
-@g ; ～くらい ; Je suis tellement en colère que je ne veux même pas le voir. ; 顔も見たくない___怒っている。 ; くらい
-@g ; ～は～くらいです ; La seule langue étrangère que je parle, c'est à peu près l'anglais. ; 私が話せる外国語___、英語くらいです。 ; は
-@g ; ～にしては ; Étant donné qu'il a vécu un an au Japon, il parle plutôt mal japonais. ; 日本に一年住んでいた___、日本語が下手だ。 ; にしては
-@g ; と言うより ; Plutôt que gentil, il est surtout timide. ; 彼は優しい___、ただ気が弱いだけだ。 ; と言うより
-@g ; はもちろん ; Il sait écrire non seulement les kanji, mais aussi les hiragana. ; 彼は漢字___、ひらがなも書ける。 ; はもちろん
-@g ; ～て初めて ; Ce n'est qu'en tombant malade que j'ai compris l'importance de la santé. ; 病気になっ___、健康の大切さが分かった。 ; て初めて
-@g ; さえ ; Même les enfants savent ça. ; そんなことは子供___知っている。 ; さえ
-@g ; さえ～ば ; Si seulement j'avais de l'argent, je pourrais tout acheter. ; お金___あれば、何でも買える。 ; さえ
-@g ; ～たものだ ; Quand j'étais enfant, j'avais l'habitude de nager souvent dans cette rivière. ; 子供の頃、よくこの川で泳いだ___。 ; ものだ
-@g ; 即ち ; Ça a pris la moitié d'une année, c'est-à-dire six mois. ; 一年の半分、___六ヶ月かかった。 ; 即ち
-@g ; 却って ; Après avoir pris le médicament, je me suis senti encore plus mal, au contraire. ; 薬を飲んだら、___具合が悪くなった。 ; 却って
-@g ; まるで～様だ ; Cette poupée semble presque vivante. ; この人形は___生きている様だ。 ; まるで
-@g ; 様な気がする ; J'ai le sentiment de l'avoir déjà rencontré quelque part. ; どこかで彼に会った___。 ; ような気がする
-@g ; とても～ない ; Ce genre de problème difficile est totalement impossible à résoudre. ; こんな難しい問題は___解けない。 ; とても
-@g ; 別に～ない ; Il n'y a rien que je veuille vraiment. ; ___欲しいものはない。 ; 別に
-@g ; ばかりでなく ; Il parle non seulement anglais, mais aussi français. ; 彼は英語___、フランス語も話せる。 ; ばかりでなく
-@g ; ではなくて ; Ce n'est pas mon sac, mais celui de ma petite sœur. ; これは私の___、妹のかばんです。 ; ではなくて
-@g ; だけでなくて～も ; Ce restaurant n'est pas seulement bon marché, il est aussi délicieux. ; この店は値段が安い___、味も良い。 ; だけでなくて
-@g ; は言うまでもない ; Il va sans dire que les efforts sont importants. ; 努力が大切なこと___。 ; は言うまでもない
-@g ; 決して〜ない ; Je n'oublierai jamais cette promesse. ; この約束は___忘れません。 ; 決して
-@g ; う・よう+としない ; Il ne fait aucun effort pour écouter ce que je dis. ; 彼は私の話を聞こ___。 ; うとしない
-@g ; ことに ; Malheureusement, le match a été annulé. ; 残念な___、試合は中止になった。 ; ことに
-@g ; 事か ; Je ne sais combien je me suis inquiété. ; どんなに心配した___。 ; 事か
-@g ; かと言うと ; La raison de mon retard, c'est que le train s'est arrêté. ; なぜ遅れた___、電車が止まったからだ。 ; かと言うと
-@g ; だらけ ; Les vêtements de l'enfant étaient couverts de boue. ; 子供の服は泥___だった。 ; だらけ
-@g ; 尤も ; Il est gentil. Cependant, il est un peu bavard. ; 彼は親切だ。___、少しおしゃべりだが。 ; 尤も
-@g ; 再び ; Il est revenu une nouvelle fois dans sa ville natale. ; 彼は___故郷に戻ってきた。 ; 再び
-@g ; とちがって ; Contrairement à mon frère, je ne suis pas doué en sport. ; 兄___、私は運動が苦手だ。 ; とちがって
-@g ; と並んで ; Tout comme le mont Fuji, les cerisiers sont un symbole du Japon. ; 富士山___、桜は日本の象徴だ。 ; と並んで
-@g ; 当たり ; Chacun a payé mille yens. ; 一人___千円ずつ払った。 ; 当たり
-@g ; に当たる ; Un dollar équivaut à environ cent cinquante yens. ; 一ドルは約百五十円___。 ; に当たる
-@g ; に限る ; En été, rien ne vaut une bière fraîche. ; 夏はやっぱり冷たいビール___。 ; に限る
-@g ; とは限らない ; Ce n'est pas toujours vrai que ce qui est cher est bon. ; 高い物がいい物だ___。 ; とは限らない
-@g ; 滅多に〜ない ; Il manque rarement l'école. ; 彼は___学校を休まない。 ; 滅多に
-@g ; 割に ; Il paraît jeune pour son âge. ; 彼は年の___若く見える。 ; 割に
-@g ; う・よう+とする ; Alors que j'essayais d'ouvrir la porte, j'ai remarqué que je n'avais pas la clé. ; ドアを開け___として、鍵がないことに気づいた。 ; ようと
-@g ; う・よう+としたが ; J'étais sur le point de sortir, mais il s'est mis à pleuvoir. ; 出かけ___、雨が降ってきた。 ; ようとしたが
-@g ; 言うまでもない ; Il va sans dire qu'il est le coupable. ; 彼が犯人であることは___。 ; 言うまでもない
-@g ; そうもない ; Il est très peu probable que j'arrive à l'heure du rendez-vous. ; 約束の時間に間に合い___。 ; そうもない
-@g ; 序でに ; Tant que tu fais une promenade, va donc acheter du pain. ; 散歩する___、パンを買ってきて。 ; 序でに
-@g ; と共に ; À mesure qu'on vieillit, la force physique diminue. ; 年を取る___、体力が衰える。 ; と共に
-@g ; に連れて ; Au fur et à mesure qu'on montait la montagne, il faisait plus froid. ; 山を登る___、寒くなってきた。 ; に連れて
-@g ; 直ちに ; En cas de tremblement de terre, évacuez immédiatement. ; 地震が起きたら___避難してください。 ; 直ちに
-@g ; た途端に ; À l'instant où j'ai ouvert la porte, le chat a bondi dehors. ; ドアを開け___、猫が飛び出した。 ; た途端に
-@g ; 置きに ; Prenez ce médicament toutes les quatre heures. ; この薬は四時間___飲んでください。 ; 置きに
-@g ; 度に ; À chaque fois que je regarde cette photo, je pense à ma mère. ; この写真を見る___、母を思い出す。 ; 度に
-@g ; 或いは ; Je vous contacterai par téléphone ou par e-mail. ; 電話___メールで連絡します。 ; 或いは
-@g ; ながらも ; Même si elle est petite, je suis content d'avoir ma propre chambre. ; 狭い___、自分の部屋が持てて嬉しい。 ; ながらも
-@g ; に於いて ; La réunion s'est tenue dans le grand hall. ; 会議は大ホール___行われた。 ; に於いて
-@g ; 一方で ; Tandis que la population des villes augmente, celle des régions diminue. ; 都市の人口は増える___、地方は減っている。 ; 一方で
-@g ; 遂に ; Après dix ans, j'ai enfin terminé d'écrire mon roman. ; 十年かけて、___小説を書き上げた。 ; 遂に
-@g ; 必ずしも ; Ce qui est cher n'est pas toujours forcément bon. ; 高い物が___良いとは限らない。 ; 必ずしも
-@g ; 連用形 ; Tous les matins à six heures, je me lève et je me lave le visage. ; 毎朝六時に___（起きる）、顔を洗う。 ; 起き
-@g ; 向き ; Ce livre est adapté aux débutants. ; この本は初心者___だ。 ; 向き
-@g ; 向け ; C'est une émission destinée aux enfants. ; これは子供___の番組です。 ; 向け
-@g ; 切る ; Il a fini de lire un long roman en une journée. ; 彼は長い小説を一日で読み___た。 ; 切っ
-@g ; 切れない ; Il y a trop de plats, je n'arrive pas à tout manger. ; 料理が多すぎて食べ___。 ; 切れない
-@g ; きり ; Je ne l'ai rencontré qu'une seule fois. ; 彼とは一度会った___だ。 ; きり
-@g ; 掛け ; Il y a un café à moitié bu sur la table. ; テーブルに飲み___のコーヒーがある。 ; 掛け
-@g ; に掛けて ; Les fleurs éclosent du printemps jusqu'à l'été. ; 春から夏___、花が咲く。 ; に掛けて
-@g ; 立て ; Le pain fraîchement sorti du four est délicieux. ; 焼き___のパンはおいしい。 ; 立て
-@g ; 込む ; Il est entré en courant dans la pièce. ; 彼は部屋に駆け___できた。 ; 込ん
-@g ; 振りをする ; Il a fait semblant de ne pas entendre. ; 彼は聞こえない___をした。 ; 振り
-@g ; 次第 ; Dès que j'aurai des détails, je vous contacterai. ; 詳しいことが分かり___、連絡します。 ; 次第
-@g ; 通り ; Faites exactement comme je vous l'ai dit. ; 私が言った___にやってください。 ; 通り
-@g ; がたい ; Cette histoire est difficile à croire. ; その話は信じ___。 ; がたい
-@g ; 前者は～後者は ; J'ai un frère aîné et un frère cadet. Le premier est médecin, le second est enseignant. ; 兄と弟がいる。___は医者で、後者は教師だ。 ; 前者
-@g ; つい ; C'était tellement drôle que j'ai éclaté de rire sans le vouloir. ; 面白くて___笑ってしまった。 ; つい
-@g ; 癖に ; Alors qu'il sait, il ne me dit rien. ; 知っている___、教えてくれない。 ; 癖に
-@g ; がち ; Ces derniers temps, il a tendance à s'absenter souvent. ; 彼は最近休み___だ。 ; がち
-@g ; もしも～なら ; Si jamais je gagnais à la loterie, j'achèterais une maison. ; ___宝くじが当たったら、家を買う。 ; もしも
-@g ; っぱなし ; Je me suis endormi en laissant la lumière allumée. ; 電気をつけ___で寝てしまった。 ; っぱなし
-@g ; わざわざ ; Merci d'être venu exprès. ; ___来てくれてありがとう。 ; わざわざ
-@g ; 一体 ; Mais qu'est-ce que ça veut dire, au juste ? ; これは___どういう意味ですか。 ; 一体
-@g ; どころか ; Loin de lire les kanji, il n'arrive même pas à lire les hiragana. ; 漢字___、ひらがなも読めない。 ; どころか
-@g ; は～となっている ; Selon le règlement, c'est non-fumeur ici. ; 規則では、ここは禁煙___。 ; となっている
-@g ; 左右する ; Le temps influence le résultat du match. ; 天気が試合の結果を___。 ; 左右する
-@g ; ～得る（うる／える） ; Un tel accident peut arriver à n'importe qui. ; そんな事故は誰にでも起こり___。 ; 得る
-@g ; ～得ない（えない） ; Une telle chose ne peut absolument pas se produire. ; そんな事は決して起こり___。 ; 得ない
-@g ; あり得る ; Il se peut aussi qu'il ne vienne pas. ; 彼が来ない事も___。 ; あり得る
-@g ; あり得ない ; Une telle histoire est absolument impossible. ; そんな話は絶対に___。 ; あり得ない
-@g ; ～になり得る ; Avec des efforts, n'importe qui peut devenir professionnel. ; 努力すれば、誰でもプロに___。 ; なり得る
-@g ; 考え得る ; J'ai essayé toutes les méthodes concevables. ; ___限りの方法をすべて試した。 ; 考え得る
+@g ; ～によると ; selon ~ ; 天気予報___、明日は雨らしい。 ; によると
+@g ; ～ばかり ; ne faire que ~ ; 弟はゲーム___している。 ; ばかり
+@g ; ～わけにはいかない ; ne pas pouvoir se permettre ; 明日は試験だから、休む___。 ; わけにはいかない
+@g ; ～ようにする ; faire en sorte de ~ ; 毎日運動する___しています。 ; ようにする
+@g ; ～たとたん ; à l'instant où ~ ; ドアを開けた___、猫が逃げた。 ; とたん
+@g ; ～せいで ; à cause de ~ ; 雨の___、試合が中止になった。 ; せいで
+@g ; ～おかげで ; grâce à ~ ; 先生の___、合格できた。 ; おかげで
+@g ; ～に違いない ; il ne fait aucun doute ; あの人は犯人___。 ; に違いない
+@g ; ～ない内に ; avant que, sans que ; 暗くなら___、家に帰りましょう。 ; ない内に
+@g ; 余り～に ; tellement... que ; ___の忙しさに、昼ご飯を食べる暇もなかった。 ; 余り
+@g ; 中々～ない ; pas vraiment, difficilement, pas du tout ; この漢字は___覚えられない。 ; 中々
+@g ; ～事だ ; devrait, il faut ; 上手になりたいなら、毎日練習する___。 ; 事だ
+@g ; (Nom)+型 ; en forme de, type, genre, taille ; これは最新___のスマートフォンです。 ; 型
+@g ; ～てご覧 ; (veuillez) essayer de, regarder ; あの看板を見___。 ; てご覧
+@g ; ～程 ; au point de, tellement que, environ ; 涙が出る___嬉しかった。 ; 程
+@g ; ～ば～程 ; plus... plus ; 食べれば食べる___、美味しく感じる。 ; 程
+@g ; ～程～ない ; pas aussi... que, pas au point de ; 数学は英語___難しくない。 ; 程
+@g ; ～ばかりに ; juste parce que, rien qu'en ; 寝坊した___、電車に乗り遅れた。 ; ばかりに
+@g ; ～ばかりだ ; ne cesse de, de plus en plus ; 物価は上がる___。 ; ばかりだ
+@g ; ～事はない ; pas besoin de, ne se produit jamais ; そんなに心配する___。 ; 事はない
+@g ; ～と言っても ; bien que je dise que ; 兄だ___、二歳しか違わない。 ; と言っても
+@g ; ～に合わせて ; adapté à, qui va avec, en fonction de ; 相手のレベル___、説明を変える。 ; に合わせて
+@g ; ～の姿 ; ayant l'air de, vêtu de, apparence, silhouette ; 父の働く___を見て感動した。 ; 姿
+@g ; ～に比べて ; comparé à, par rapport à ; 都会___、田舎は静かだ。 ; に比べて
+@g ; どんなに～ても ; peu importe à quel point ; ___高くても、これを買いたい。 ; どんなに
+@g ; ～かは～によって違う ; dépend de ; 何が大切かは、人___違う。 ; によって
+@g ; ～訳だ ; c'est pour ça, pas étonnant, donc ; 三年も住んでいたのだから、日本語が上手な___。 ; 訳だ
+@g ; ～訳ではない ; pas nécessairement, ce n'est pas que ; 彼のことが嫌いな___。ただ忙しいだけだ。 ; 訳ではない
+@g ; ～だって ; j'ai entendu dire que, parce que ; 田中さんは来月引っ越すん___。 ; だって
+@g ; ～と関係がある ; concernant, impliqué dans, en lien avec ; この研究は医学と深い___。 ; 関係がある
+@g ; ～に関して ; lié à, concernant, à propos de ; 環境問題___、議論しました。 ; に関して
+@g ; ～に対して ; envers, tandis que, vis-à-vis de ; 学生の質問___、先生は丁寧に答えた。 ; に対して
+@g ; ～くらい ; à tel point que, à peu près au point de ; 顔も見たくない___怒っている。 ; くらい
+@g ; ～は～くらいです ; à peu près le seul ; 私が話せる外国語___、英語くらいです。 ; は
+@g ; ～にしては ; étant donné que, pour ; 日本に一年住んでいた___、日本語が下手だ。 ; にしては
+@g ; と言うより ; plutôt que de dire que, plus... que ; 彼は優しい___、ただ気が弱いだけだ。 ; と言うより
+@g ; はもちろん ; non seulement... mais aussi ; 彼は漢字___、ひらがなも書ける。 ; はもちろん
+@g ; ～て初めて ; ce n'est qu'après... que ; 病気になっ___、健康の大切さが分かった。 ; て初めて
+@g ; さえ ; même ; そんなことは子供___知っている。 ; さえ
+@g ; さえ～ば ; si seulement, pourvu que ; お金___あれば、何でも買える。 ; さえ
+@g ; ～たものだ ; habitude passée ; 子供の頃、よくこの川で泳いだ___。 ; ものだ
+@g ; 即ち ; en d'autres termes, c'est-à-dire ; 一年の半分、___六ヶ月かかった。 ; 即ち
+@g ; 却って ; au contraire ; 薬を飲んだら、___具合が悪くなった。 ; 却って
+@g ; まるで～様だ ; c'est comme si ; この人形は___生きている様だ。 ; まるで
+@g ; 様な気がする ; avoir le sentiment que ; どこかで彼に会った___。 ; ような気がする
+@g ; とても～ない ; ne peut pas du tout, impossible de ; こんな難しい問題は___解けない。 ; とても
+@g ; 別に～ない ; pas vraiment ; ___欲しいものはない。 ; 別に
+@g ; ばかりでなく ; non seulement... mais aussi ; 彼は英語___、フランス語も話せる。 ; ばかりでなく
+@g ; ではなくて ; pas A mais B ; これは私の___、妹のかばんです。 ; ではなくて
+@g ; だけでなくて～も ; non seulement... mais aussi ; この店は値段が安い___、味も良い。 ; だけでなくて
+@g ; は言うまでもない ; il va sans dire que ; 努力が大切なこと___。 ; は言うまでもない
+@g ; 決して〜ない ; jamais, en aucun cas ; この約束は___忘れません。 ; 決して
+@g ; う・よう+としない ; ne pas vouloir, ne pas faire d'effort ; 彼は私の話を聞こ___。 ; うとしない
+@g ; ことに ; à mon grand..., particulièrement ; 残念な___、試合は中止になった。 ; ことに
+@g ; 事か ; je ne sais combien, Dieu seul sait ; どんなに心配した___。 ; 事か
+@g ; かと言うと ; la raison pour laquelle ; なぜ遅れた___、電車が止まったからだ。 ; かと言うと
+@g ; だらけ ; couvert de, plein de ; 子供の服は泥___だった。 ; だらけ
+@g ; 尤も ; cependant, bien que ; 彼は親切だ。___、少しおしゃべりだが。 ; 尤も
+@g ; 再び ; encore, à nouveau ; 彼は___故郷に戻ってきた。 ; 再び
+@g ; とちがって ; comme, contrairement à ; 兄___、私は運動が苦手だ。 ; とちがって
+@g ; と並んで ; comparable à, au même niveau que ; 富士山___、桜は日本の象徴だ。 ; と並んで
+@g ; 当たり ; par ~, chaque ~, pièce ; 一人___千円ずつ払った。 ; 当たり
+@g ; に当たる ; correspond à, équivaut à ; 一ドルは約百五十円___。 ; に当たる
+@g ; に限る ; rien ne vaut, être réservé à ; 夏はやっぱり冷たいビール___。 ; に限る
+@g ; とは限らない ; pas nécessairement ; 高い物がいい物だ___。 ; とは限らない
+@g ; 滅多に〜ない ; presque jamais, rarement ; 彼は___学校を休まない。 ; 滅多に
+@g ; 割に ; bien que, comparativement ; 彼は年の___若く見える。 ; 割に
+@g ; う・よう+とする ; essayer de, être sur le point de ; ドアを開け___として、鍵がないことに気づいた。 ; ようと
+@g ; う・よう+としたが ; était sur le point de... quand ; 出かけ___、雨が降ってきた。 ; ようとしたが
+@g ; 言うまでもない ; il va sans dire que ; 彼が犯人であることは___。 ; 言うまでもない
+@g ; そうもない ; très peu probable que ; 約束の時間に間に合い___。 ; そうもない
+@g ; 序でに ; tant que vous y êtes, en profiter pour ; 散歩する___、パンを買ってきて。 ; 序でに
+@g ; と共に ; à mesure que, avec, en même temps ; 年を取る___、体力が衰える。 ; と共に
+@g ; に連れて ; au fur et à mesure que ; 山を登る___、寒くなってきた。 ; に連れて
+@g ; 直ちに ; immédiatement, dès que ; 地震が起きたら___避難してください。 ; 直ちに
+@g ; た途端に ; juste au moment où, à l'instant où ; ドアを開け___、猫が飛び出した。 ; た途端に
+@g ; 置きに ; à intervalles de, tous les ; この薬は四時間___飲んでください。 ; 置きに
+@g ; 度に ; à chaque fois que ; この写真を見る___、母を思い出す。 ; 度に
+@g ; 或いは ; ou, ou peut-être ; 電話___メールで連絡します。 ; 或いは
+@g ; ながらも ; bien que, même si ; 狭い___、自分の部屋が持てて嬉しい。 ; ながらも
+@g ; に於いて ; à, dans, concernant ; 会議は大ホール___行われた。 ; に於いて
+@g ; 一方で ; tandis que, d'un autre côté ; 都市の人口は増える___、地方は減っている。 ; 一方で
+@g ; 遂に ; enfin ; 十年かけて、___小説を書き上げた。 ; 遂に
+@g ; 必ずしも ; pas toujours, pas nécessairement ; 高い物が___良いとは限らない。 ; 必ずしも
+@g ; 連用形 ; conjonctif formel, forme connective formelle ; 毎朝六時に___（起きる）、顔を洗う。 ; 起き
+@g ; 向き ; adapté à, orienté vers ; この本は初心者___だ。 ; 向き
+@g ; 向け ; destiné à, conçu pour ; これは子供___の番組です。 ; 向け
+@g ; 切る ; faire jusqu'au bout, finir de ; 彼は長い小説を一日で読み___た。 ; 切っ
+@g ; 切れない ; être incapable de terminer ; 料理が多すぎて食べ___。 ; 切れない
+@g ; きり ; seulement, depuis ; 彼とは一度会った___だ。 ; きり
+@g ; 掛け ; à moitié, pas encore terminé ; テーブルに飲み___のコーヒーがある。 ; 掛け
+@g ; に掛けて ; pendant (une période), de ~ à ~ ; 春から夏___、花が咲く。 ; に掛けて
+@g ; 立て ; fraîchement ~, vient juste de ~ ; 焼き___のパンはおいしい。 ; 立て
+@g ; 込む ; entrer dans, mettre dans ; 彼は部屋に駆け___できた。 ; 込ん
+@g ; 振りをする ; faire semblant ; 彼は聞こえない___をした。 ; 振り
+@g ; 次第 ; dès que ; 詳しいことが分かり___、連絡します。 ; 次第
+@g ; 通り ; comme, exactement ; 私が言った___にやってください。 ; 通り
+@g ; がたい ; difficile à, dur à ; その話は信じ___。 ; がたい
+@g ; 前者は～後者は ; le premier ~ le second ; 兄と弟がいる。___は医者で、後者は教師だ。 ; 前者
+@g ; つい ; par accident, inconsciemment ; 面白くて___笑ってしまった。 ; つい
+@g ; 癖に ; alors que, et pourtant ; 知っている___、教えてくれない。 ; 癖に
+@g ; がち ; être enclin à, avoir tendance à ; 彼は最近休み___だ。 ; がち
+@g ; もしも～なら ; si jamais, en supposant que ; ___宝くじが当たったら、家を買う。 ; もしも
+@g ; っぱなし ; laisser tel quel ; 電気をつけ___で寝てしまった。 ; っぱなし
+@g ; わざわざ ; exprès, se donner la peine de ; ___来てくれてありがとう。 ; わざわざ
+@g ; 一体 ; mais..., pourquoi diable, bon sang ; これは___どういう意味ですか。 ; 一体
+@g ; どころか ; loin de, tout sauf, encore moins ; 漢字___、ひらがなも読めない。 ; どころか
+@g ; は～となっている ; se trouve être, a été établi ; 規則では、ここは禁煙___。 ; となっている
+@g ; 左右する ; influencer, impacter, déterminer ; 天気が試合の結果を___。 ; 左右する
+@g ; ～得る（うる／える） ; pouvoir, il peut arriver que ~ (possibilité) ; そんな事故は誰にでも起こり___。 ; 得る
+@g ; ～得ない（えない） ; il est impossible que ~, ne peut pas arriver ; そんな事は決して起こり___。 ; 得ない
+@g ; あり得る ; c'est possible, ça peut arriver ; 彼が来ない事も___。 ; あり得る
+@g ; あり得ない ; impossible, pas question, invraisemblable ; そんな話は絶対に___。 ; あり得ない
+@g ; ～になり得る ; peut devenir ~, peut se transformer en ~ ; 努力すれば、誰でもプロに___。 ; なり得る
+@g ; 考え得る ; concevable, imaginable ; ___限りの方法をすべて試した。 ; 考え得る
+
+# --- PHRASES (ordre des mots) ---
+@s ; 私は / 毎日 / 日本語を / 勉強しています ; J'étudie le japonais tous les jours.
+@s ; 友達と / 映画を / 見に / 行きました ; Je suis allé voir un film avec un ami.
+@s ; この店の / ラーメンは / 安くて / おいしい ; Les ramen de ce resto sont bons et pas chers.
+@s ; 明日 / 雨が / 降ったら / 家に / います ; S'il pleut demain, je resterai à la maison.
+@s ; 暗くならない / 内に / 家に / 帰りましょう ; Rentrons à la maison avant qu'il fasse nuit.
+@s ; 余りの / 忙しさに / 昼ご飯を / 食べられなかった ; J'étais tellement occupé que je n'ai pas pu déjeuner.
+@s ; この漢字は / 中々 / 覚え / られない ; Ce kanji, je n'arrive pas vraiment à le mémoriser.
+@s ; 上手になりたいなら / 毎日 / 練習する / 事だ ; Si tu veux devenir bon, il faut t'entraîner tous les jours.
+@s ; これは / 最新型の / スマートフォン / です ; C'est un smartphone dernier modèle.
+@s ; あの / 看板を / 見て / ご覧 ; Regarde donc ce panneau.
+@s ; 涙が出る / 程 / 嬉しかった / です ; J'étais content au point d'en pleurer.
+@s ; 食べれば / 食べる程 / 美味しく / 感じる ; Plus j'en mange, plus je trouve ça bon.
+@s ; 数学は / 英語程 / 難しく / ない ; Les maths ne sont pas aussi difficiles que l'anglais.
+@s ; 寝坊した / ばかりに / 電車に / 乗り遅れた ; Juste parce que j'ai fait la grasse matinée, j'ai raté le train.
+@s ; 物価は / 上がる / ばかりだ ; Les prix ne cessent de monter.
+@s ; そんなに / 心配する / 事はない ; Il n'y a pas besoin de t'inquiéter autant.
+@s ; 兄だ / と言っても / 二歳しか / 違わない ; Bien qu'il soit mon frère aîné, il n'a que deux ans de plus que moi.
+@s ; 相手のレベルに / 合わせて / 説明を / 変える ; On adapte l'explication au niveau de l'interlocuteur.
+@s ; 父の / 働く姿を / 見て / 感動した ; En voyant mon père au travail, j'ai été ému.
+@s ; 都会に / 比べて / 田舎は / 静かだ ; Comparée à la ville, la campagne est calme.
+@s ; どんなに / 高くても / これを / 買いたい ; Peu importe le prix, je veux l'acheter.
+@s ; 何が大切か / は / 人によって / 違う ; Ce qui est important dépend de chaque personne.
+@s ; 三年も住んでいたのだから / 日本語が / 上手な / 訳だ ; Il a vécu trois ans, pas étonnant qu'il parle si bien japonais.
+@s ; 嫌いな / 訳ではない / が / 食べたくない ; Ce n'est pas que je déteste, mais je ne veux pas en manger.
+@s ; 田中さんは / 来月 / 引っ越すんだって ; J'ai entendu dire que Tanaka déménage le mois prochain.
+@s ; この研究は / 医学と / 深い / 関係がある ; Cette recherche est en lien étroit avec la médecine.
+@s ; 環境問題に / 関して / 議論 / しました ; Nous avons débattu au sujet des problèmes environnementaux.
+@s ; 学生の質問に / 対して / 先生は / 丁寧に答えた ; Face aux questions des étudiants, le professeur a répondu poliment.
+@s ; 顔も / 見たくない / くらい / 怒っている ; Je suis en colère au point de ne plus vouloir voir son visage.
+@s ; 私が話せる外国語 / は / 英語くらいです ; La seule langue étrangère que je parle, c'est à peu près l'anglais.
+@s ; 日本に / 一年住んでいたにしては / 日本語が / 下手だ ; Pour quelqu'un qui a vécu un an au Japon, il est mauvais en japonais.
+@s ; 彼は / 優しいと言うより / 気が弱い / だけだ ; Plutôt que gentil, il est juste faible de caractère.
+@s ; 彼は / 英語はもちろん / 中国語も / 話せる ; Il parle non seulement anglais mais aussi chinois.
+@s ; 親になって / 初めて / 親の気持ちが / 分かった ; Ce n'est qu'en devenant parent que j'ai compris les sentiments de mes parents.
+@s ; そんなことは / 子供さえ / 知って / いる ; Même un enfant sait ça.
+@s ; あなたさえ / 良ければ / 私は / 構いません ; Si seulement ça te convient, ça ne me dérange pas.
+@s ; 学生の頃 / よく / カラオケに / 行ったものだ ; Du temps où j'étais étudiant, j'allais souvent au karaoké.
+@s ; 一年の / 半分 / 即ち / 六ヶ月 ; La moitié d'une année, c'est-à-dire six mois.
+@s ; 手伝ったら / 却って / 邪魔に / なった ; En aidant, j'ai au contraire gêné.
+@s ; 彼の部屋は / まるで / ゴミ捨て場の / ようだ ; Sa chambre, c'est comme une décharge.
+@s ; 誰かに / 見られている / ような / 気がする ; J'ai l'impression d'être observé.
+@s ; そんな大金は / とても / 払え / ない ; Une telle somme, je ne peux absolument pas la payer.
+@s ; 別に / 行きたく / ない / です ; Je n'ai pas vraiment envie d'y aller.
+@s ; 子供 / ばかりでなく / 大人も / 楽しめる ; Non seulement les enfants mais aussi les adultes peuvent s'amuser.
+@s ; 私が / 行くのではなくて / 弟が / 行く ; Ce n'est pas moi qui y vais mais mon petit frère.
+@s ; 彼女は / 美人なだけでなくて / 頭も / 良い ; Non seulement elle est belle, mais elle est aussi intelligente.
+@s ; 健康が / 大切なこと / は言うまでもない ; Il va sans dire que la santé est importante.
+@s ; 君のことは / 決して / 忘れ / ない ; Je ne t'oublierai jamais.
+@s ; 弟は / 野菜を / 食べようと / しない ; Mon petit frère ne veut pas manger de légumes.
+@s ; 驚いた / ことに / 彼は / 合格した ; À ma grande surprise, il a réussi.
+@s ; 何度 / 注意した / 事か ; Combien de fois je l'ai prévenu (Dieu seul sait) !
+@s ; なぜ / 遅れたかと言うと / 電車が / 止まったからだ ; Si vous demandez pourquoi je suis en retard, c'est que le train s'est arrêté.
+@s ; 彼の作文は / 間違い / だらけ / だった ; Sa rédaction était pleine de fautes.
+@s ; 彼は親切だ / 尤も / 少し / おしゃべりだが ; Il est gentil — cela dit, un peu bavard.
+@s ; 彼らは / 十年後に / 再び / 出会った ; Ils se sont retrouvés dix ans plus tard.
+@s ; 去年と / 違って / 今年は / 雪が多い ; Contrairement à l'année dernière, il neige beaucoup cette année.
+@s ; 彼は / 兄と並んで / クラスで / 一番背が高い ; Avec son frère, il est le plus grand de la classe.
+@s ; 一日 / 当たり / 八時間 / 働く ; Travailler huit heures par jour.
+@s ; 一ドルは / 約百五十円 / に当たる ; Un dollar équivaut à environ 150 yens.
+@s ; 疲れた時は / 寝る / に限る ; Quand on est fatigué, rien ne vaut le sommeil.
+@s ; 金持ちが / 幸せだ / とは限らない ; Les riches ne sont pas nécessairement heureux.
+@s ; こんな機会は / 滅多に / ない ; Une telle occasion est rare.
+@s ; この店は / 値段の割に / 量が / 多い ; Pour le prix, ce restaurant sert de grandes portions.
+@s ; 赤ちゃんが / 立ち上がろうと / して / いる ; Le bébé essaie de se mettre debout.
+@s ; 寝ようとしたが / 電話が / 鳴って / 眠れなかった ; J'allais dormir quand le téléphone a sonné et je n'ai pas pu.
+@s ; 言うまでもなく / 健康は / 何より / 大切だ ; Il va sans dire que la santé est primordiale.
+@s ; 今日中に / 終わり / そうもない ; Ça ne semble pas pouvoir finir aujourd'hui.
+@s ; 銀行に行く / 序でに / 郵便局にも / 寄った ; En allant à la banque, j'en ai profité pour passer à la poste.
+@s ; 家族と共に / 新年を / 迎えた ; J'ai accueilli le nouvel an avec ma famille.
+@s ; 時間が経つ / に連れて / 痛みが / 和らいだ ; Au fur et à mesure que le temps passait, la douleur s'apaisait.
+@s ; 知らせを聞いて / 直ちに / 家を / 出た ; En entendant la nouvelle, je suis immédiatement parti.
+@s ; 立ち上がった / 途端に / めまいが / した ; À l'instant où je me suis levé, j'ai eu un vertige.
+@s ; バスは / 十分置きに / 来る ; Le bus passe toutes les dix minutes.
+@s ; 彼に会う / 度に / 元気を / もらう ; À chaque fois que je le vois, il me redonne de l'énergie.
+@s ; 土曜日 / 或いは / 日曜日に / 会おう ; Voyons-nous samedi ou peut-être dimanche.
+@s ; 残念ながらも / 彼の / 提案を / 断った ; Bien qu'à regret, j'ai refusé sa proposition.
+@s ; 試験は / 大講堂 / に於いて / 行われる ; L'examen aura lieu dans le grand amphithéâtre.
+@s ; 彼は厳しい / 一方で / とても / 優しい ; Il est sévère, mais d'un autre côté très gentil.
+@s ; 長い戦いの末 / 遂に / 勝利を / 手にした ; Au bout d'un long combat, ils ont enfin obtenu la victoire.
+@s ; 努力が / 必ずしも / 成功に / つながるとは限らない ; L'effort ne mène pas toujours au succès.
+@s ; 朝起き / 顔を洗い / 学校へ行く ; Je me lève, me lave le visage et vais à l'école.
+@s ; この部屋は / 南向きで / 日当たりが / いい ; Cette pièce est orientée au sud et bien ensoleillée.
+@s ; この製品は / 海外向けに / 作られて / いる ; Ce produit est conçu pour l'étranger.
+@s ; 最後まで / あきらめずに / やり切った ; J'ai tenu bon jusqu'au bout sans abandonner.
+@s ; この本は / 一日では / 読み切れない ; Ce livre, on ne peut pas le finir en un jour.
+@s ; 母と / 二人きりで / 話した ; J'ai parlé seul à seul avec ma mère.
+@s ; 食べ掛けの / パンが / 置いて / ある ; Il y a un pain entamé posé là.
+@s ; 金曜から / 日曜にかけて / 雨が / 続く ; De vendredi à dimanche, la pluie va continuer.
+@s ; 出来立ての / 料理を / 食べる ; Manger un plat fraîchement préparé.
+@s ; 満員電車に / 何とか / 乗り込んだ ; J'ai réussi à monter de force dans le train bondé.
+@s ; 知っているのに / 知らない / 振りをした ; Alors qu'il savait, il a fait semblant de ne pas savoir.
+@s ; 準備が / でき次第 / 出発します ; Dès que les préparatifs seront prêts, nous partirons.
+@s ; 先生の / 言う通りに / 書いた ; J'ai écrit exactement comme le professeur l'a dit.
+@s ; 彼の行動は / 理解し / がたい ; Son comportement est difficile à comprendre.
+@s ; 前者は / 安いが / 後者は / 高い ; Le premier est bon marché, le second est cher.
+@s ; 疲れていて / つい / 寝過ごして / しまった ; J'étais fatigué et j'ai fini par dormir trop longtemps sans m'en rendre compte.
+@s ; 子供の / 癖に / 生意気な / ことを言う ; Bien que ce ne soit qu'un enfant, il dit des choses effrontées.
+@s ; 冬は / 風邪を / 引きがちだ ; En hiver, on a tendance à attraper froid.
+@s ; もしも / 時間を / 戻せるなら / やり直したい ; Si je pouvais remonter le temps, je recommencerais.
+@s ; 窓を / 開けっぱなしに / して / 出かけた ; J'ai laissé la fenêtre ouverte et je suis sorti.
+@s ; わざわざ / 遠くから / 来て / くれた ; Il s'est donné la peine de venir de loin.
+@s ; 一体 / 誰が / こんなことを / したのか ; Mais qui diable a bien pu faire ça ?
+@s ; 感謝される / どころか / 文句を / 言われた ; Loin d'être remercié, on m'a fait des reproches.
+@s ; 入場料は / 千円 / となっている ; Le prix d'entrée se trouve être de 1000 yens.
+@s ; 親の態度が / 子供の性格を / 左右する ; L'attitude des parents influence le caractère de l'enfant.
+@s ; 気候変動によって / 新しい問題が / 生じ / 得る ; De nouveaux problèmes peuvent surgir à cause du changement climatique.
+@s ; 人の気持ちは / いつでも / 変わり / 得る ; Les sentiments d'une personne peuvent changer à tout moment.
+@s ; あの状況では / 最悪の事態も / 十分に / 起こり / 得た ; Dans cette situation, le pire aurait très bien pu arriver.
+@s ; 誰も / 予想し / 得なかった / 結果になった ; Cela a abouti à un résultat que personne n'aurait pu prévoir.
+@s ; そんな言い訳は / 理由に / なり / 得ない ; Une telle excuse ne peut pas constituer une raison.
+@s ; もっと早く / 言ってくれれば / 別の結果も / あり / 得た ; Si tu me l'avais dit plus tôt, un autre résultat aurait été possible.
